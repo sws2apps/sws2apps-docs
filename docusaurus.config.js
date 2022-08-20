@@ -95,7 +95,7 @@ const config = {
 						title: 'Community',
 						items: [
 							{
-								label: 'Instagram',
+								label: 'Telegram',
 								href: 'https://t.me/+H0fr4uoDghA4MDg8',
 							},
 							{
