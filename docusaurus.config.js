@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
 	title: 'Scheduling Workbox System - Documentation',
 	url: 'https://your-docusaurus-test-site.com',
-	baseUrl: '/',
+	baseUrl: '/sws2apps-docs',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
