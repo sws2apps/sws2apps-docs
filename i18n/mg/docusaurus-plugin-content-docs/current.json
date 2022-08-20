@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
+    "message": "Fanontaniana Fametraky ny Olona",
+    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Students": {
+    "message": "Mpianatra",
+    "description": "The label for category Students in sidebar tutorialSidebar"
+  }
+}

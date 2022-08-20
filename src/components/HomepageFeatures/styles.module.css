@@ -1,0 +1,16 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureImg {
+  height: 90px;
+  width: auto;
+  border-radius: 8px;
+}
+
+.startFaqs {
+  margin: 20px 0;
+}
