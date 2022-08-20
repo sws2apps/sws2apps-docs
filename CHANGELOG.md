@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/sws2apps/sws2apps-docs/compare/v1.0.1...v1.0.2) (2022-08-20)
+
+
+### Bug Fixes
+
+* **docusaurus:** update editUrl config ([10229ba](https://github.com/sws2apps/sws2apps-docs/commit/10229ba16ffe3c8bd2382a8581343064ed654f2e))
+
 ## [1.0.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.0.0...v1.0.1) (2022-08-20)
 
 
