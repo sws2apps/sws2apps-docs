@@ -35,14 +35,14 @@ const config = {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/sws2apps/sws2apps-docs/',
+					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main',
 					editLocalizedFiles: true,
 				},
 				blog: {
 					showReadingTime: true,
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/sws2apps/sws2apps-docs/',
+					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main',
 					editLocalizedFiles: true,
 				},
 				theme: {
