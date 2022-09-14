@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Hamorona kaonty Pocket
 
-Efa azonao atao izao ny manome alalana mpianatra mba hijery ny fandaharana amin’ny fivoriana andavanandro, amin’ny version farany amin’ny LMM-OA. Afaka hampiasa ilay programa hoe **SWS Pocket** <span style={{color: '#EC7063'}}>**(tsy mbola azo ampiasaina)**</span> ilay mpianatra aorian’izay.
+Efa azonao atao izao ny manome alalana mpianatra mba hijery ny fandaharana amin’ny fivoriana andavanandro, amin’ny version farany amin’ny LMM-OA. Afaka hampiasa ilay programa hoe **SWS Pocket** ilay mpianatra aorian’izay.
 
 1. Mila miditra amin’ny kaontinao ao amin’ny internet aloha ianao, izay vao afaka manamboatra kaonty Pocket.
 2. Midira ao amin’ny **Mpianatra**, dia karohy ilay mpianatra tianao omena alalana.
