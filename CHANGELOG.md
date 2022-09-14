@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.1.0...v1.2.0) (2022-09-14)
+
+
+### Features
+
+* **docs:** add new faq for sws pocket setup ([f6f4cfc](https://github.com/sws2apps/sws2apps-docs/commit/f6f4cfc82b08785f35a0a3e13c8aa1d0262b96b3))
+
 # [1.1.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.0.3...v1.1.0) (2022-09-14)
 
 
