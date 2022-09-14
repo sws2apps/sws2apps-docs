@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Create a pocket user
 
-With the latest alpha release of LMM-OA, you can now give the permission to a student to view the midweek meeting schedule. Once the permission is given, the student will now have access to the **SWS Pocket** app. <span style={{color: '#EC7063'}}>**(not released yet)**</span>
+With the latest alpha release of LMM-OA, you can now give the permission to a student to view the midweek meeting schedule. Once the permission is given, the student will now have access to the **SWS Pocket** app.
 
 1. To create the pocket user, you must first be connected to your online account.
 2. Open the **Students** page, and search for the student that you want to give access to.
