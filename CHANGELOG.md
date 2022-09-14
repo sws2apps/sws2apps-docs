@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.0.3...v1.1.0) (2022-09-14)
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.0.1 to 2.1.0 ([e51d2c9](https://github.com/sws2apps/sws2apps-docs/commit/e51d2c921b7d9b93b965353e6bc5af154dfdbfb6))
+
 ## [1.0.3](https://github.com/sws2apps/sws2apps-docs/compare/v1.0.2...v1.0.3) (2022-08-20)
 
 
