@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.2.0...v1.2.1) (2022-09-27)
+
+
+### Bug Fixes
+
+* **faq:** update url for sws-pocket ([083d3a5](https://github.com/sws2apps/sws2apps-docs/commit/083d3a58209a00a1908176a1867ef4d0bda35a6b))
+
 # [1.2.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.1.0...v1.2.0) (2022-09-14)
 
 
