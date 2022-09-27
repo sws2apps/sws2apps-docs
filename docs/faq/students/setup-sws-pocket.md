@@ -6,7 +6,7 @@ sidebar_position: 2
 
 SWS Pocket, is an application designed for use by the students for midweek meeting. We will guide you in the following steps on how to open the application:
 
-1. Visit [https://alpha-sws-pocket.web.app](https://alpha-sws-pocket.web.app).
+1. Visit [https://sws-pocket.web.app](https://sws-pocket.web.app).
 2. Enter the activation code that the elder gave you.
 
    ![SWS Pocket signup](./sws_pocket_signup.png)

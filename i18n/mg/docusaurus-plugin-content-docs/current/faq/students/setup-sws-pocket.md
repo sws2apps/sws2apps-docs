@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Programa natao ho ampiasain’ny mpianatra amin’ny fivoriana andavanandro ny SWS Pocket. Atoronay anao eto ambany ny zavatra mila atao raha vao hanokatra ilay programa voalohany ianao:
 
-1. Tsidiho ny [https://alpha-sws-pocket.web.app](https://alpha-sws-pocket.web.app).
+1. Tsidiho ny [https://sws-pocket.web.app](https://sws-pocket.web.app).
 2. Ampidiro ny kaody fanamarinana nomen’ny anti-panahy anao.
 
    ![SWS Pocket signup](./sws_pocket_signup.png)
