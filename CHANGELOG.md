@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.2.1...v1.3.0) (2022-11-01)
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.1.0 to 2.2.0 ([eb5c0d2](https://github.com/sws2apps/sws2apps-docs/commit/eb5c0d2157f4ca1d2121965d154eb5760c469bf2))
+* **deps:** bump @docusaurus/preset-classic from 2.1.0 to 2.2.0 ([a7cbff0](https://github.com/sws2apps/sws2apps-docs/commit/a7cbff0222f168bfff21b9374ca03129c523e6f3))
+* **deps:** bump @mdx-js/react from 1.6.22 to 2.1.4 ([bc57c67](https://github.com/sws2apps/sws2apps-docs/commit/bc57c67280f87f1c1111d01b565dc0c979681a7e))
+* **deps:** bump @mdx-js/react from 2.1.4 to 2.1.5 ([5ddfff3](https://github.com/sws2apps/sws2apps-docs/commit/5ddfff3e96d03db88a7cdd71574c8bd36556d39a))
+
 ## [1.2.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.2.0...v1.2.1) (2022-09-27)
 
 
