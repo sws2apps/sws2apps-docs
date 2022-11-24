@@ -8,7 +8,7 @@ You may choose between the three methods below to add week to the source materia
 
 ### Add week manually
 
-You can always a week to the source materials, even if you are offline. To do so, go to the Dashboard page, and then under Source Material card, click **Add New Week.** Please note however that it is very time consuming to add the information needed for each item.
+You can always add a week to the source materials, even if you are offline. To do so, go to the Dashboard page, and then under Source Material card, click **Add New Week.** Please note however that it is very time consuming to add the information needed for each item.
 
 ### Add weeks using an EPUB file
 
