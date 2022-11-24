@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.3.0...v1.4.0) (2022-11-24)
+
+
+### Features
+
+* **blog:** add new post to announce lmm-oa version 2 ([f006594](https://github.com/sws2apps/sws2apps-docs/commit/f006594cf30ea2d48916bfe83e6fc7ddef89e4b8))
+* **docs:** add new faq for schedules ([fdfe411](https://github.com/sws2apps/sws2apps-docs/commit/fdfe411913ff5c6e19b2b0859e36c7756a4273c5))
+* **docs:** add new faq under source materials ([b4b47e4](https://github.com/sws2apps/sws2apps-docs/commit/b4b47e4e8b584ca262cde4654f13bc3cded5e396))
+
 # [1.3.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.2.1...v1.3.0) (2022-11-24)
 
 
