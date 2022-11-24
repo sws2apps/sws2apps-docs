@@ -1,3 +1,20 @@
+# [1.3.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.2.1...v1.3.0) (2022-11-24)
+
+
+### Bug Fixes
+
+* **deps:** rollback [@mdx](https://github.com/mdx) version to a supported version ([114a7ba](https://github.com/sws2apps/sws2apps-docs/commit/114a7bac388e306f8326551b32c2d5733d7029c7))
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.1.0 to 2.2.0 ([eb5c0d2](https://github.com/sws2apps/sws2apps-docs/commit/eb5c0d2157f4ca1d2121965d154eb5760c469bf2))
+* **deps:** bump @docusaurus/preset-classic from 2.1.0 to 2.2.0 ([a7cbff0](https://github.com/sws2apps/sws2apps-docs/commit/a7cbff0222f168bfff21b9374ca03129c523e6f3))
+* **deps:** bump @mdx-js/react from 1.6.22 to 2.1.4 ([bc57c67](https://github.com/sws2apps/sws2apps-docs/commit/bc57c67280f87f1c1111d01b565dc0c979681a7e))
+* **deps:** bump @mdx-js/react from 2.1.4 to 2.1.5 ([5ddfff3](https://github.com/sws2apps/sws2apps-docs/commit/5ddfff3e96d03db88a7cdd71574c8bd36556d39a))
+* **deps:** bump loader-utils from 2.0.2 to 2.0.3 ([96334a6](https://github.com/sws2apps/sws2apps-docs/commit/96334a6a7faeccdaca213a39a740b22013bb034b))
+* **deps:** bump loader-utils from 2.0.3 to 2.0.4 ([867c475](https://github.com/sws2apps/sws2apps-docs/commit/867c47503ef40b0e852a18d469d69f46544fb3f8))
+
 # [1.3.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.2.1...v1.3.0) (2022-11-01)
 
 
