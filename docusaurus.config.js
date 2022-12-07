@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'Scheduling Workbox System - Documentation',
+	title: 'Congregation Program for Everyone - Documentation',
 	url: 'https://sws2apps.github.io',
 	baseUrl: '/sws2apps-docs/',
 	onBrokenLinks: 'throw',
@@ -56,7 +56,7 @@ const config = {
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
 			navbar: {
-				title: 'Scheduling Workbox System',
+				title: 'Congregation Program for Everyone',
 				logo: {
 					alt: 'sws2apps logo',
 					src: 'img/sws2apps.png',
@@ -118,7 +118,7 @@ const config = {
 						],
 					},
 				],
-				copyright: `Copyright © ${new Date().getFullYear()} Scheduling Workbox System. Built with Docusaurus.`,
+				copyright: `Copyright © ${new Date().getFullYear()} Congregation Program for Everyone. Built with Docusaurus.`,
 			},
 			prism: {
 				theme: lightCodeTheme,
