@@ -112,6 +112,14 @@ const config = {
 								to: '/blog',
 							},
 							{
+								label: 'Privacy Policy',
+								to: '/privacy',
+							},
+							{
+								label: 'Terms of Use',
+								to: '/terms',
+							},
+							{
 								label: 'GitHub',
 								href: 'https://github.com/sws2apps/sws2apps-docs',
 							},
