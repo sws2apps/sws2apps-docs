@@ -11,7 +11,7 @@ export default function Home() {
 			title={siteConfig.title}
 			description={translate({
 				message:
-					'Help and documentations for users of Scheduling Workbox System applications',
+					'Help and documentations for users of Congregation Program for Everyone applications',
 				description: 'SEO website description',
 			})}
 		>
