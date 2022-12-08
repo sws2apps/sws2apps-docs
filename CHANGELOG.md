@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.5.0...v1.6.0) (2022-12-08)
+
+
+### Features
+
+* **docs:** add for signup verification ([d72d630](https://github.com/sws2apps/sws2apps-docs/commit/d72d630fb3c294061b89597fab114c602f7f23b6))
+
 # [1.5.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.4.0...v1.5.0) (2022-12-07)
 
 
