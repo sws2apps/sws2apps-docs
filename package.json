@@ -1,6 +1,6 @@
 {
   "name": "sws2apps-docs",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "private": true,
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start --host 0.0.0.0",
-    "build": "docusaurus build",
+    "build": "docusaurus build && mkdir build/.well-known && cp static/mia.json build/.well-known/microsoft-identity-association.json",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
