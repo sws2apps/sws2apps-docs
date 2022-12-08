@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.6.0...v1.6.1) (2022-12-08)
+
+
+### Bug Fixes
+
+* **docs:** remove custom property ([db05b67](https://github.com/sws2apps/sws2apps-docs/commit/db05b67e1810a30c4d014070de0d75e599b57d32))
+
 # [1.6.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.5.0...v1.6.0) (2022-12-08)
 
 
