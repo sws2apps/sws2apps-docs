@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.4.0...v1.5.0) (2022-12-07)
+
+
+### Features
+
+* **deps:** bump @semantic-release/changelog from 6.0.1 to 6.0.2 ([79ea0ff](https://github.com/sws2apps/sws2apps-docs/commit/79ea0ff04b4bed2d43ff1f9c03f47897f1b29116))
+* **docs:** add privacy policy and terms of use ([759e328](https://github.com/sws2apps/sws2apps-docs/commit/759e32843a9d10b195c325cb41f2f4753ae1b9c6))
+
 # [1.4.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.3.0...v1.4.0) (2022-11-24)
 
 
