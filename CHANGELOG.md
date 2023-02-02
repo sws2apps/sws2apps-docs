@@ -1,3 +1,14 @@
+# [1.7.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.6.1...v1.7.0) (2023-02-02)
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.2.0 to 2.3.0 ([80f0556](https://github.com/sws2apps/sws2apps-docs/commit/80f055627369a48fd05e44671bc8da5f34a7edc3))
+* **deps:** bump @docusaurus/preset-classic from 2.2.0 to 2.3.0 ([e6d317e](https://github.com/sws2apps/sws2apps-docs/commit/e6d317e292fc828e1aca43dcb2c0da366b2f8483))
+* **deps:** bump http-cache-semantics from 4.1.0 to 4.1.1 ([5c5b943](https://github.com/sws2apps/sws2apps-docs/commit/5c5b943f0d45b3c1c0b1b46081c4e166bd390ac7))
+* **deps:** bump json5 from 2.2.1 to 2.2.3 ([fffd835](https://github.com/sws2apps/sws2apps-docs/commit/fffd8352c78078729a37a683dad8d8616eb97caf))
+* **deps:** bump ua-parser-js from 0.7.32 to 0.7.33 ([7394bcb](https://github.com/sws2apps/sws2apps-docs/commit/7394bcbf278ef1c7e0716ef016cf31077d249f13))
+
 ## [1.6.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.6.0...v1.6.1) (2022-12-08)
 
 
