@@ -1,3 +1,13 @@
+# [1.8.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.7.0...v1.8.0) (2023-03-15)
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.3.0 to 2.3.1 ([d400920](https://github.com/sws2apps/sws2apps-docs/commit/d400920072692d60f36ad21eaf9a4fc20cf2afea))
+* **deps:** bump @docusaurus/preset-classic from 2.3.0 to 2.3.1 ([d414ae5](https://github.com/sws2apps/sws2apps-docs/commit/d414ae54ad016aa7b6295d750550a75ec59cbeff))
+* **deps:** bump @sideway/formula from 3.0.0 to 3.0.1 ([42cb2c9](https://github.com/sws2apps/sws2apps-docs/commit/42cb2c9755c22674bbac5c8f8bf38c90e01aae20))
+* **deps:** bump webpack from 5.74.0 to 5.76.1 ([c4542dc](https://github.com/sws2apps/sws2apps-docs/commit/c4542dcd9eb447a1a9e6f5a7a7046a46499121fc))
+
 # [1.7.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.6.1...v1.7.0) (2023-02-02)
 
 
