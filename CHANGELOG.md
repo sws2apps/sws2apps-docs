@@ -1,3 +1,18 @@
+# [1.8.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.7.0...v1.8.0) (2023-03-22)
+
+
+### Bug Fixes
+
+* **config:** update baseUrl path ([e01a418](https://github.com/sws2apps/sws2apps-docs/commit/e01a4185481dc589298454981e1846be61ade845))
+* **deps:** dependency update ([2428720](https://github.com/sws2apps/sws2apps-docs/commit/2428720cbae1400fe25d71064a8775b2c9a76ce0))
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.3.0 to 2.3.1 ([d400920](https://github.com/sws2apps/sws2apps-docs/commit/d400920072692d60f36ad21eaf9a4fc20cf2afea))
+* **deps:** bump @docusaurus/preset-classic from 2.3.0 to 2.3.1 ([d414ae5](https://github.com/sws2apps/sws2apps-docs/commit/d414ae54ad016aa7b6295d750550a75ec59cbeff))
+* **deps:** bump @sideway/formula from 3.0.0 to 3.0.1 ([42cb2c9](https://github.com/sws2apps/sws2apps-docs/commit/42cb2c9755c22674bbac5c8f8bf38c90e01aae20))
+
 # [1.8.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.7.0...v1.8.0) (2023-03-15)
 
 
