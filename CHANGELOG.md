@@ -1,3 +1,12 @@
+# [1.9.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.8.0...v1.9.0) (2023-03-24)
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.3.1 to 2.4.0 ([161017f](https://github.com/sws2apps/sws2apps-docs/commit/161017fd7677d1cba902c19e40e19d196b39ad47))
+* **deps:** bump @docusaurus/preset-classic from 2.3.1 to 2.4.0 ([64367af](https://github.com/sws2apps/sws2apps-docs/commit/64367afd3669a60c9249bf1b2ab2306059c76e9b))
+* **deps:** bump @semantic-release/changelog from 6.0.2 to 6.0.3 ([17f7b1b](https://github.com/sws2apps/sws2apps-docs/commit/17f7b1b3dc38ea837cbe389ac60d9602d5285975))
+
 # [1.8.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.7.0...v1.8.0) (2023-03-22)
 
 
