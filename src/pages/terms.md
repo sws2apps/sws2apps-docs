@@ -1,10 +1,10 @@
 ---
 title: Terms of Use
-description: Terms of Use for programs build under Congregation Program for Everyone
+description: Terms of Use for programs build under Scheduling Workbox System
 hide_table_of_contents: true
 ---
 
-# Congregation Program for Everyone - Terms of Use
+# Scheduling Workbox System - Terms of Use
 
 This website is operated by Scheduling Workbox System. Throughout the site, the terms “we”, “us” and “our” refer to Scheduling Workbox System. Scheduling Workbox System offers this website, including all information, tools and Services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
 

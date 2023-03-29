@@ -3,12 +3,16 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
-    "message": "Frequently Asked Questions",
-    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Students": {
-    "message": "Students",
-    "description": "The label for category Students in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.Congregation Program for Everyone": {
+    "message": "Congregation Program for Everyone",
+    "description": "The label for category Congregation Program for Everyone in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Products": {
+    "message": "Products",
+    "description": "The label for category Products in sidebar tutorialSidebar"
   }
 }
