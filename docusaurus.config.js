@@ -100,7 +100,7 @@ const config = {
 							},
 							{
 								label: 'GitHub Discussions',
-								href: 'https://github.com/sws2apps/sws2apps-docs/discussions',
+								href: 'https://github.com/sws2apps/discussions',
 							},
 						],
 					},
@@ -121,7 +121,7 @@ const config = {
 							},
 							{
 								label: 'GitHub',
-								href: 'https://github.com/sws2apps/sws2apps-docs',
+								href: 'https://github.com/sws2apps',
 							},
 						],
 					},
