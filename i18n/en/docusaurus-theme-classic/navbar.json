@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Congregation Program for Everyone",
+    "message": "Scheduling Workbox System",
     "description": "The title in the navbar"
   },
   "item.label.Blog": {
@@ -11,8 +11,12 @@
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
   },
-  "item.label.Tutorials": {
-    "message": "Tutorials",
-    "description": "Navbar item with label Tutorials"
+  "logo.alt": {
+    "message": "sws2apps logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Products": {
+    "message": "Products",
+    "description": "Navbar item with label Products"
   }
 }

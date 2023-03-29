@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'Congregation Program for Everyone - Documentation',
+	title: 'Scheduling Workbox System',
 	url: 'https://sws2apps.github.io',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
@@ -56,7 +56,7 @@ const config = {
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 		({
 			navbar: {
-				title: 'Congregation Program for Everyone',
+				title: 'Scheduling Workbox System',
 				logo: {
 					alt: 'sws2apps logo',
 					src: 'img/sws2apps.png',
@@ -64,8 +64,8 @@ const config = {
 				items: [
 					{
 						position: 'left',
-						label: 'Tutorials',
-						to: 'docs/category/frequently-asked-questions',
+						label: 'Products',
+						to: 'docs/category/products',
 					},
 					{ to: '/blog', label: 'Blog', position: 'left' },
 					{
@@ -73,7 +73,7 @@ const config = {
 						position: 'right',
 					},
 					{
-						href: 'https://github.com/sws2apps/sws2apps-docs',
+						href: 'https://github.com/sws2apps',
 						label: 'GitHub',
 						position: 'right',
 					},
@@ -83,11 +83,11 @@ const config = {
 				style: 'dark',
 				links: [
 					{
-						title: 'Docs',
+						title: 'Products',
 						items: [
 							{
-								label: 'FAQ',
-								to: 'docs/category/frequently-asked-questions',
+								label: 'Congregation Program for Everyone',
+								to: 'docs/category/congregation-program-for-everyone',
 							},
 						],
 					},
@@ -126,7 +126,7 @@ const config = {
 						],
 					},
 				],
-				copyright: `Copyright © ${new Date().getFullYear()} Congregation Program for Everyone. Built with Docusaurus.`,
+				copyright: `Copyright © ${new Date().getFullYear()} Scheduling Workbox System. Built with Docusaurus.`,
 			},
 			prism: {
 				theme: lightCodeTheme,
