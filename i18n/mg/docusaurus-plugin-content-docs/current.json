@@ -1,14 +1,30 @@
 {
-  "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
-  },
-  "sidebar.tutorialSidebar.category.Frequently Asked Questions": {
-    "message": "Fanontaniana Fametraky ny Olona",
-    "description": "The label for category Frequently Asked Questions in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Students": {
-    "message": "Mpianatra",
-    "description": "The label for category Students in sidebar tutorialSidebar"
-  }
+	"version.label": {
+		"message": "Next",
+		"description": "The label for version current"
+	},
+	"sidebar.tutorialSidebar.category.Getting Started": {
+		"message": "Getting Started",
+		"description": "The label for category Getting Started in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Congregation Program for Everyone": {
+		"message": "Congregation Program for Everyone",
+		"description": "The label for category Congregation Program for Everyone in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Products": {
+		"message": "Products",
+		"description": "The label for category Products in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Features": {
+		"message": "Features",
+		"description": "The label for category Features in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Persons": {
+		"message": "Persons",
+		"description": "The label for category Persons in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Congregations": {
+		"message": "Congregations",
+		"description": "The label for category Congregations in sidebar tutorialSidebar"
+	}
 }
