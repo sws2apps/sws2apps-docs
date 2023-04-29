@@ -1,3 +1,13 @@
+# [1.10.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.9.0...v1.10.0) (2023-04-29)
+
+
+### Features
+
+* **deps:** bump prism-react-renderer from 1.3.5 to 2.0.0 ([8c9a7e1](https://github.com/sws2apps/sws2apps-docs/commit/8c9a7e137b8d00c0dd8f8f9ee5700dc0a50811ce))
+* **deps:** bump prism-react-renderer from 2.0.0 to 2.0.3 ([93b1127](https://github.com/sws2apps/sws2apps-docs/commit/93b112704e55afc8b54fd96929e106af555fcf8f))
+* **docs:** docs update to remove features on home page ([49789d8](https://github.com/sws2apps/sws2apps-docs/commit/49789d8b91c051c3b5f83c8ca02b1f8879809102))
+* **docs:** separate docs by apps and its features ([824f6e2](https://github.com/sws2apps/sws2apps-docs/commit/824f6e20ac1f10961abf39dfd273bf5a46cc580c))
+
 # [1.9.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.8.0...v1.9.0) (2023-03-24)
 
 
