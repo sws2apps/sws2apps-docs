@@ -1,18 +1,22 @@
 {
-  "title": {
-    "message": "Congregation Program for Everyone",
-    "description": "The title in the navbar"
-  },
-  "item.label.Blog": {
-    "message": "Vaovao",
-    "description": "Navbar item with label Blog"
-  },
-  "item.label.GitHub": {
-    "message": "GitHub",
-    "description": "Navbar item with label GitHub"
-  },
-  "item.label.Tutorials": {
-    "message": "Fanampiana",
-    "description": "Navbar item with label Tutorials"
-  }
+	"title": {
+		"message": "Scheduling Workbox System",
+		"description": "The title in the navbar"
+	},
+	"item.label.Blog": {
+		"message": "Blog",
+		"description": "Navbar item with label Blog"
+	},
+	"item.label.GitHub": {
+		"message": "GitHub",
+		"description": "Navbar item with label GitHub"
+	},
+	"logo.alt": {
+		"message": "sws2apps logo",
+		"description": "The alt text of navbar logo"
+	},
+	"item.label.Products": {
+		"message": "Products",
+		"description": "Navbar item with label Products"
+	}
 }

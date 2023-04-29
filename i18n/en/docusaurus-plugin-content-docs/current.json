@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Products": {
     "message": "Products",
     "description": "The label for category Products in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Features": {
+    "message": "Features",
+    "description": "The label for category Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Persons": {
+    "message": "Persons",
+    "description": "The label for category Persons in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Congregations": {
+    "message": "Congregations",
+    "description": "The label for category Congregations in sidebar tutorialSidebar"
   }
 }

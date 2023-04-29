@@ -9,7 +9,7 @@
   },
   "link.item.label.GitHub Discussions": {
     "message": "GitHub Discussions",
-    "description": "The label of footer link with label=GitHub Discussions linking to https://github.com/sws2apps/sws2apps-docs/discussions"
+    "description": "The label of footer link with label=GitHub Discussions linking to https://github.com/sws2apps/discussions"
   },
   "link.item.label.Blog": {
     "message": "Blog",
@@ -17,7 +17,7 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/sws2apps/sws2apps-docs"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/sws2apps"
   },
   "copyright": {
     "message": "Copyright © 2023 Scheduling Workbox System. Built with Docusaurus.",
