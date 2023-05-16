@@ -1,3 +1,12 @@
+# [1.11.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.10.0...v1.11.0) (2023-05-16)
+
+
+### Features
+
+* **deps:** bump @docusaurus/core from 2.4.0 to 2.4.1 ([d0779dc](https://github.com/sws2apps/sws2apps-docs/commit/d0779dcf8b7b157529570c5ed523977e8020942a))
+* **deps:** bump @docusaurus/module-type-aliases from 2.4.0 to 2.4.1 ([c2b2f90](https://github.com/sws2apps/sws2apps-docs/commit/c2b2f9011fdb9c9aeeeb0a53fe367243c029ba98))
+* **deps:** bump @docusaurus/preset-classic from 2.4.0 to 2.4.1 ([1f24056](https://github.com/sws2apps/sws2apps-docs/commit/1f2405674542af67845224ed33921d2fe79e112a))
+
 # [1.10.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.9.0...v1.10.0) (2023-04-29)
 
 
