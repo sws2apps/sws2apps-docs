@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Congregation Program for Everyone or CPE, is an application developped by the Scheduling Workbox System team. It is web application designed for use by anyone in the congregation of Jehovah’s Witnesses.
 
+![CPE Home](./cpe_home.jpg)
+
 ## Is CPE an official applications from the organization?
 
 No, it is not. You are free to choose whether to use our applications or not. But we strongly recommend all the congregation elders approved their use. Also, we are aware that there are many similar applications currently available to help you to accomplish similar tasks. We are not here to say what is the best and what is not. We believe all of these applications are good and have their own methods on how to do things, but still share the same goal.

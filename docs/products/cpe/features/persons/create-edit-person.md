@@ -9,13 +9,15 @@ sidebar_position: 1
 To create a new person to CPE:
 
 - Use the **Add Person** from the Dashboard page.
-- Open the **Persons** page first. On larger device, click the _Plus_ icon on the left. On smaller device, click the three dots menu on the left, and choose **Add new person**.
+- Open the **Persons** page first. On larger device, click the _Plus_ icon on the right. On smaller device, click the three dots menu on the right, and choose **Add new person**.
 
 ## Edit a person
 
 From the Persons page, click the _Pencil_ icon to view the details of a person. These details are divided into five sections:
 
 ### Basic Information
+
+![Person Basic](./person_basic.png)
 
 - **Name:** name of the person
 - **Display name:** display name of the person. It is auto populated but it can be overwritten. Depending on your congregation settings, this is the name that is displayed on the meeting schedule.
@@ -33,6 +35,8 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
   :::
 
 ### Spiritual Status
+
+![Person Spiritual Status Main](./person_spiritual_status_main.png)
 
 - Choose if the person is an **anointed** one or **other sheep**.
 - Choose whether the person is **baptized** or not. If yes, enter the **Date immersed**. The **Years** since the person was baptized will be auto calculated.
@@ -64,6 +68,8 @@ All these informations can only be edit by the Congregation Secretary.
 
 ### Assignments
 
+![Person Assignments](./person_assignments.png)
+
 This section is for all meeting assignments for the person. Currently, it only contains midweek meeting assignments.
 
 :::caution
@@ -74,9 +80,13 @@ Currently, these informations can only be edit by the Life and Ministry Meeting 
 
 ### Assignments History
 
+![Person Assignments History](./person_assignments_history.png)
+
 This section contains all the meeting assignments this person had. It is a _read only_ information.
 
 ### Time Away
+
+![Person Time Away](./person_time_away.png)
 
 This section contains all the dates when the person will not be available for any meeting assignments.
 
