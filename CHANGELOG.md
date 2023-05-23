@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.12.0...v1.12.1) (2023-05-23)
+
+
+### Bug Fixes
+
+* **source-material:** fix typo in source material import features ([467fbae](https://github.com/sws2apps/sws2apps-docs/commit/467fbae4a34959a30fc1b5bb175506f1ef1d786c))
+
 # [1.12.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.11.0...v1.12.0) (2023-05-23)
 
 
