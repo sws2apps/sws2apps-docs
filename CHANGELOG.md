@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.11.0...v1.12.0) (2023-05-23)
+
+
+### Features
+
+* **features:** add source-material section ([630fd9c](https://github.com/sws2apps/sws2apps-docs/commit/630fd9c70206df3ae029ac58321d8989ee1e24b2))
+
 # [1.11.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.10.0...v1.11.0) (2023-05-16)
 
 
