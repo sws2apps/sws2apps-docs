@@ -24,6 +24,6 @@ If you want to import an oldest Meeting Workbook issue, check the option **Check
 
 ![JW.ORG Import Old Issue](./import_jw_org_old.png)
 
-CPE will download and import the source materials from jw.org. A confirmation message when the import is completed. Click OK to complete.
+CPE will download and import the source materials from jw.org. A confirmation message will appear when the import is completed. Click OK to complete.
 
 ![JW.ORG Import Complete](./import_jw_org_complete.png)

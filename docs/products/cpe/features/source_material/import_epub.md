@@ -16,6 +16,6 @@ This is the recommended method to add source materials, when you are using CPE i
 
 - Open CPE, and click **Import from EPUB file** under the Source Material card. Locate the EPUB file you downloaded from jw.org.
 
-- A confirmation message when the import is completed. Click OK to complete.
+- A confirmation message will appear when the import is completed. Click OK to complete.
 
   ![EPUB Import Complete](./import_epub_complete.png)

@@ -68,6 +68,7 @@ const config = {
 						to: 'docs/category/products',
 					},
 					{ to: '/blog', label: 'Blog', position: 'left' },
+					{ to: '/about', label: 'About Us', position: 'left' },
 					{
 						type: 'localeDropdown',
 						position: 'right',
