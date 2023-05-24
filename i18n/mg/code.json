@@ -1,310 +1,311 @@
 {
 	"theme.ErrorPageContent.title": {
-		"message": "This page crashed.",
-		"description": "The title of the fallback page when the page crashed"
+	  "message": "Nisy olana ka tsy nisokatra ity pejy ity.",
+	  "description": "The title of the fallback page when the page crashed"
 	},
 	"theme.ErrorPageContent.tryAgain": {
-		"message": "Try again",
-		"description": "The label of the button to try again rendering when the React error boundary captures an error"
+	  "message": "Andramo indray",
+	  "description": "The label of the button to try again rendering when the React error boundary captures an error"
 	},
 	"theme.NotFound.title": {
-		"message": "Page Not Found",
-		"description": "The title of the 404 page"
+	  "message": "Tsy hita ny pejy notadiavinao",
+	  "description": "The title of the 404 page"
 	},
 	"theme.NotFound.p1": {
-		"message": "We could not find what you were looking for.",
-		"description": "The first paragraph of the 404 page"
+	  "message": "Tsy afaka nahita ny fanazavana notadiavinao izahay.",
+	  "description": "The first paragraph of the 404 page"
 	},
 	"theme.NotFound.p2": {
-		"message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
-		"description": "The 2nd paragraph of the 404 page"
+	  "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+	  "description": "The 2nd paragraph of the 404 page"
 	},
 	"theme.admonition.note": {
-		"message": "note",
-		"description": "The default label used for the Note admonition (:::note)"
+	  "message": "naoty",
+	  "description": "The default label used for the Note admonition (:::note)"
 	},
 	"theme.admonition.tip": {
-		"message": "tip",
-		"description": "The default label used for the Tip admonition (:::tip)"
+	  "message": "soso-kevitra",
+	  "description": "The default label used for the Tip admonition (:::tip)"
 	},
 	"theme.admonition.danger": {
-		"message": "danger",
-		"description": "The default label used for the Danger admonition (:::danger)"
+	  "message": "tandremo",
+	  "description": "The default label used for the Danger admonition (:::danger)"
 	},
 	"theme.admonition.info": {
-		"message": "info",
-		"description": "The default label used for the Info admonition (:::info)"
+	  "message": "tsara ho fantatra",
+	  "description": "The default label used for the Info admonition (:::info)"
 	},
 	"theme.admonition.caution": {
-		"message": "caution",
-		"description": "The default label used for the Caution admonition (:::caution)"
+	  "message": "tadidio",
+	  "description": "The default label used for the Caution admonition (:::caution)"
 	},
 	"theme.AnnouncementBar.closeButtonAriaLabel": {
-		"message": "Close",
-		"description": "The ARIA label for close button of announcement bar"
+	  "message": "Hanidy",
+	  "description": "The ARIA label for close button of announcement bar"
 	},
 	"theme.BackToTopButton.buttonAriaLabel": {
-		"message": "Scroll back to top",
-		"description": "The ARIA label for the back to top button"
+	  "message": "Scroll back to top",
+	  "description": "The ARIA label for the back to top button"
 	},
 	"theme.blog.archive.title": {
-		"message": "Archive",
-		"description": "The page & hero title of the blog archive page"
+	  "message": "Archive",
+	  "description": "The page & hero title of the blog archive page"
 	},
 	"theme.blog.archive.description": {
-		"message": "Archive",
-		"description": "The page & hero description of the blog archive page"
+	  "message": "Archive",
+	  "description": "The page & hero description of the blog archive page"
 	},
 	"theme.blog.paginator.navAriaLabel": {
-		"message": "Blog list page navigation",
-		"description": "The ARIA label for the blog pagination"
+	  "message": "Blog list page navigation",
+	  "description": "The ARIA label for the blog pagination"
 	},
 	"theme.blog.paginator.newerEntries": {
-		"message": "Newer Entries",
-		"description": "The label used to navigate to the newer blog posts page (previous page)"
+	  "message": "Newer Entries",
+	  "description": "The label used to navigate to the newer blog posts page (previous page)"
 	},
 	"theme.blog.paginator.olderEntries": {
-		"message": "Older Entries",
-		"description": "The label used to navigate to the older blog posts page (next page)"
+	  "message": "Older Entries",
+	  "description": "The label used to navigate to the older blog posts page (next page)"
 	},
 	"theme.blog.post.paginator.navAriaLabel": {
-		"message": "Blog post page navigation",
-		"description": "The ARIA label for the blog posts pagination"
+	  "message": "Blog post page navigation",
+	  "description": "The ARIA label for the blog posts pagination"
 	},
 	"theme.blog.post.paginator.newerPost": {
-		"message": "Newer Post",
-		"description": "The blog post button label to navigate to the newer/previous post"
+	  "message": "Newer Post",
+	  "description": "The blog post button label to navigate to the newer/previous post"
 	},
 	"theme.blog.post.paginator.olderPost": {
-		"message": "Older Post",
-		"description": "The blog post button label to navigate to the older/next post"
+	  "message": "Older Post",
+	  "description": "The blog post button label to navigate to the older/next post"
 	},
 	"theme.blog.post.plurals": {
-		"message": "One post|{count} posts",
-		"description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+	  "message": "One post|{count} posts",
+	  "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
 	},
 	"theme.blog.tagTitle": {
-		"message": "{nPosts} tagged with \"{tagName}\"",
-		"description": "The title of the page for a blog tag"
+	  "message": "{nPosts} tagged with \"{tagName}\"",
+	  "description": "The title of the page for a blog tag"
 	},
 	"theme.tags.tagsPageLink": {
-		"message": "View All Tags",
-		"description": "The label of the link targeting the tag list page"
+	  "message": "View All Tags",
+	  "description": "The label of the link targeting the tag list page"
 	},
 	"theme.colorToggle.ariaLabel": {
-		"message": "Switch between dark and light mode (currently {mode})",
-		"description": "The ARIA label for the navbar color mode toggle"
+	  "message": "Switch between dark and light mode (currently {mode})",
+	  "description": "The ARIA label for the navbar color mode toggle"
 	},
 	"theme.colorToggle.ariaLabel.mode.dark": {
-		"message": "dark mode",
-		"description": "The name for the dark color mode"
+	  "message": "dark mode",
+	  "description": "The name for the dark color mode"
 	},
 	"theme.colorToggle.ariaLabel.mode.light": {
-		"message": "light mode",
-		"description": "The name for the light color mode"
+	  "message": "light mode",
+	  "description": "The name for the light color mode"
 	},
 	"theme.docs.breadcrumbs.home": {
-		"message": "Home page",
-		"description": "The ARIA label for the home page in the breadcrumbs"
+	  "message": "Home page",
+	  "description": "The ARIA label for the home page in the breadcrumbs"
 	},
 	"theme.docs.breadcrumbs.navAriaLabel": {
-		"message": "Breadcrumbs",
-		"description": "The ARIA label for the breadcrumbs"
+	  "message": "Breadcrumbs",
+	  "description": "The ARIA label for the breadcrumbs"
 	},
 	"theme.docs.DocCard.categoryDescription": {
-		"message": "{count} items",
-		"description": "The default description for a category card in the generated index about how many items this category includes"
+	  "message": "{count} items",
+	  "description": "The default description for a category card in the generated index about how many items this category includes"
 	},
 	"theme.docs.paginator.navAriaLabel": {
-		"message": "Docs pages navigation",
-		"description": "The ARIA label for the docs pagination"
+	  "message": "Docs pages navigation",
+	  "description": "The ARIA label for the docs pagination"
 	},
 	"theme.docs.paginator.previous": {
-		"message": "Previous",
-		"description": "The label used to navigate to the previous doc"
+	  "message": "Teo aloha",
+	  "description": "The label used to navigate to the previous doc"
 	},
 	"theme.docs.paginator.next": {
-		"message": "Next",
-		"description": "The label used to navigate to the next doc"
+	  "message": "Manaraka",
+	  "description": "The label used to navigate to the next doc"
 	},
 	"theme.docs.tagDocListPageTitle.nDocsTagged": {
-		"message": "One doc tagged|{count} docs tagged",
-		"description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+	  "message": "One doc tagged|{count} docs tagged",
+	  "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
 	},
 	"theme.docs.tagDocListPageTitle": {
-		"message": "{nDocsTagged} with \"{tagName}\"",
-		"description": "The title of the page for a docs tag"
+	  "message": "{nDocsTagged} with \"{tagName}\"",
+	  "description": "The title of the page for a docs tag"
 	},
 	"theme.docs.versionBadge.label": {
-		"message": "Version: {versionLabel}"
+	  "message": "Version: {versionLabel}"
 	},
 	"theme.docs.versions.unreleasedVersionLabel": {
-		"message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
-		"description": "The label used to tell the user that he's browsing an unreleased doc version"
+	  "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+	  "description": "The label used to tell the user that he's browsing an unreleased doc version"
 	},
 	"theme.docs.versions.unmaintainedVersionLabel": {
-		"message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
-		"description": "The label used to tell the user that he's browsing an unmaintained doc version"
+	  "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+	  "description": "The label used to tell the user that he's browsing an unmaintained doc version"
 	},
 	"theme.docs.versions.latestVersionSuggestionLabel": {
-		"message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
-		"description": "The label used to tell the user to check the latest version"
+	  "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+	  "description": "The label used to tell the user to check the latest version"
 	},
 	"theme.docs.versions.latestVersionLinkLabel": {
-		"message": "latest version",
-		"description": "The label used for the latest version suggestion link label"
+	  "message": "latest version",
+	  "description": "The label used for the latest version suggestion link label"
 	},
 	"theme.common.editThisPage": {
-		"message": "Edit this page",
-		"description": "The link label to edit the current page"
+	  "message": "Hanao fanovana amin’ity pejy ity",
+	  "description": "The link label to edit the current page"
 	},
 	"theme.common.headingLinkTitle": {
-		"message": "Direct link to heading",
-		"description": "Title for link to heading"
+	  "message": "Direct link to heading",
+	  "description": "Title for link to heading"
 	},
 	"theme.lastUpdated.atDate": {
-		"message": " on {date}",
-		"description": "The words used to describe on which date a page has been last updated"
+	  "message": " on {date}",
+	  "description": "The words used to describe on which date a page has been last updated"
 	},
 	"theme.lastUpdated.byUser": {
-		"message": " by {user}",
-		"description": "The words used to describe by who the page has been last updated"
+	  "message": " by {user}",
+	  "description": "The words used to describe by who the page has been last updated"
 	},
 	"theme.lastUpdated.lastUpdatedAtBy": {
-		"message": "Last updated{atDate}{byUser}",
-		"description": "The sentence used to display when a page has been last updated, and by who"
+	  "message": "Last updated{atDate}{byUser}",
+	  "description": "The sentence used to display when a page has been last updated, and by who"
 	},
 	"theme.navbar.mobileVersionsDropdown.label": {
-		"message": "Versions",
-		"description": "The label for the navbar versions dropdown on mobile view"
+	  "message": "Versions",
+	  "description": "The label for the navbar versions dropdown on mobile view"
 	},
 	"theme.common.skipToMainContent": {
-		"message": "Skip to main content",
-		"description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+	  "message": "Skip to main content",
+	  "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
 	},
 	"theme.tags.tagsListLabel": {
-		"message": "Tags:",
-		"description": "The label alongside a tag list"
+	  "message": "Tags:",
+	  "description": "The label alongside a tag list"
 	},
 	"theme.blog.sidebar.navAriaLabel": {
-		"message": "Blog recent posts navigation",
-		"description": "The ARIA label for recent posts in the blog sidebar"
+	  "message": "Blog recent posts navigation",
+	  "description": "The ARIA label for recent posts in the blog sidebar"
 	},
 	"theme.CodeBlock.copied": {
-		"message": "Copied",
-		"description": "The copied button label on code blocks"
+	  "message": "Copied",
+	  "description": "The copied button label on code blocks"
 	},
 	"theme.CodeBlock.copyButtonAriaLabel": {
-		"message": "Copy code to clipboard",
-		"description": "The ARIA label for copy code blocks button"
+	  "message": "Copy code to clipboard",
+	  "description": "The ARIA label for copy code blocks button"
 	},
 	"theme.CodeBlock.copy": {
-		"message": "Copy",
-		"description": "The copy button label on code blocks"
+	  "message": "Copy",
+	  "description": "The copy button label on code blocks"
 	},
 	"theme.CodeBlock.wordWrapToggle": {
-		"message": "Toggle word wrap",
-		"description": "The title attribute for toggle word wrapping button of code block lines"
+	  "message": "Toggle word wrap",
+	  "description": "The title attribute for toggle word wrapping button of code block lines"
 	},
 	"theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
-		"message": "Toggle the collapsible sidebar category '{label}'",
-		"description": "The ARIA label to toggle the collapsible sidebar category"
+	  "message": "Toggle the collapsible sidebar category '{label}'",
+	  "description": "The ARIA label to toggle the collapsible sidebar category"
 	},
 	"theme.navbar.mobileLanguageDropdown.label": {
-		"message": "Languages",
-		"description": "The label for the mobile language switcher dropdown"
+	  "message": "Languages",
+	  "description": "The label for the mobile language switcher dropdown"
 	},
 	"theme.TOCCollapsible.toggleButtonLabel": {
-		"message": "On this page",
-		"description": "The label used by the button on the collapsible TOC component"
+	  "message": "On this page",
+	  "description": "The label used by the button on the collapsible TOC component"
 	},
 	"theme.blog.post.readMore": {
-		"message": "Read More",
-		"description": "The label used in blog post item excerpts to link to full blog posts"
+	  "message": "Read More",
+	  "description": "The label used in blog post item excerpts to link to full blog posts"
 	},
 	"theme.blog.post.readMoreLabel": {
-		"message": "Read more about {title}",
-		"description": "The ARIA label for the link to full blog posts from excerpts"
+	  "message": "Read more about {title}",
+	  "description": "The ARIA label for the link to full blog posts from excerpts"
 	},
 	"theme.blog.post.readingTime.plurals": {
-		"message": "One min read|{readingTime} min read",
-		"description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+	  "message": "One min read|{readingTime} min read",
+	  "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
 	},
 	"theme.docs.sidebar.collapseButtonTitle": {
-		"message": "Collapse sidebar",
-		"description": "The title attribute for collapse button of doc sidebar"
+	  "message": "Collapse sidebar",
+	  "description": "The title attribute for collapse button of doc sidebar"
 	},
 	"theme.docs.sidebar.collapseButtonAriaLabel": {
-		"message": "Collapse sidebar",
-		"description": "The title attribute for collapse button of doc sidebar"
+	  "message": "Collapse sidebar",
+	  "description": "The title attribute for collapse button of doc sidebar"
 	},
 	"theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-		"message": "← Back to main menu",
-		"description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+	  "message": "← Back to main menu",
+	  "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
 	},
 	"theme.docs.sidebar.expandButtonTitle": {
-		"message": "Expand sidebar",
-		"description": "The ARIA label and title attribute for expand button of doc sidebar"
+	  "message": "Expand sidebar",
+	  "description": "The ARIA label and title attribute for expand button of doc sidebar"
 	},
 	"theme.docs.sidebar.expandButtonAriaLabel": {
-		"message": "Expand sidebar",
-		"description": "The ARIA label and title attribute for expand button of doc sidebar"
+	  "message": "Expand sidebar",
+	  "description": "The ARIA label and title attribute for expand button of doc sidebar"
 	},
 	"theme.NavBar.navAriaLabel": {
-		"message": "Main",
-		"description": "The ARIA label for the main navigation"
+	  "message": "Main",
+	  "description": "The ARIA label for the main navigation"
 	},
 	"theme.docs.sidebar.navAriaLabel": {
-		"message": "Docs sidebar",
-		"description": "The ARIA label for the sidebar navigation"
+	  "message": "Docs sidebar",
+	  "description": "The ARIA label for the sidebar navigation"
 	},
 	"theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-		"message": "Close navigation bar",
-		"description": "The ARIA label for close button of mobile sidebar"
+	  "message": "Close navigation bar",
+	  "description": "The ARIA label for close button of mobile sidebar"
 	},
 	"theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-		"message": "Toggle navigation bar",
-		"description": "The ARIA label for hamburger menu button of mobile navigation"
+	  "message": "Toggle navigation bar",
+	  "description": "The ARIA label for hamburger menu button of mobile navigation"
 	},
 	"theme.tags.tagsPageTitle": {
-		"message": "Tags",
-		"description": "The title of the tag list page"
+	  "message": "Tags",
+	  "description": "The title of the tag list page"
 	},
 	"Help and documentations for Scheduling Workbox System applications": {
-		"message": "Help and documentations for Scheduling Workbox System applications",
-		"description": "SEO website description"
+	  "message": "Help and documentations for Scheduling Workbox System applications",
+	  "description": "SEO website description"
 	},
 	"Welcome!": {
-		"message": "Welcome!"
+	  "message": "Tongasoa!"
 	},
 	"Our team, the Scheduling Workbox System team, is very happy to welcome you to our website. Our goal is to build modern web technologies to assist congregations of Jehovah’s Witnesses to accomplish their tasks.": {
-		"message": "Our team, the Scheduling Workbox System team, is very happy to welcome you to our website. Our goal is to build modern web technologies to assist congregations of Jehovah’s Witnesses to accomplish their tasks."
+	  "message": "Ny ekipan’ny Scheduling Workbox System dia faly miarahaba anao tongasoa eto amin’ny tranokalanay. Hanamboatra programa manaraka ny toetr’andro mba hanampiana ny fiangonan’ny Vavolombelon’i Jehovah mba hamita ny andraikiny no tena tanjonay."
 	},
 	"Easy to use": {
-		"message": "Easy to use"
+	  "message": "Mora ampiasaina"
 	},
 	"Easy to use applications using modern web technologies": {
-		"message": "Easy to use applications using modern web technologies"
+	  "message": "Programa mora ampiasaina, sady mampiasa ny teknolojia farany"
 	},
 	"Progressive Web Apps (PWA)": {
-		"message": "Progressive Web Apps (PWA)"
+	  "message": "Progressive Web Apps (PWA)"
 	},
 	"Enjoy with faster and more reliable applications, work offline and cross-platform.": {
-		"message": "Enjoy with faster and more reliable applications, work offline and cross-platform."
+	  "message": "Programa mandeha haingana sady azo antoka tsara, mandeha na tsy misy internet aza, sady mety amin’ny fitaovana rehetra."
 	},
 	"Security by design": {
-		"message": "Security by design"
+	  "message": "Azo antoka tsara"
 	},
 	"We are doing our best to secure our applications and your data.": {
-		"message": "We are doing our best to secure our applications and your data."
+	  "message": "Miezaka izahay mba ho azo antoka tsara ny programa amboarinay sy ny rakitra tehirizinao ao."
 	},
 	"This documentation is still a work in progress. Updated content will be posted as soon as they are available.": {
-		"message": "This documentation is still a work in progress. Updated content will be posted as soon as they are available."
+	  "message": "Mbola eo am-panoratana an’ity tranokala ity izahay amin’izao. Mandefa fanavaozana izahay isaky ny vonona izany."
 	},
 	"homepage.productsPage": {
-		"message": "To learn more about the applications that we built, please visit the {productsLink} page"
+	  "message": "Raha te hahazo fanazavana misimisy kokoa mahakasika ireo programa amboarinay, dia tsidiho ilay pejy hoe {productsLink}"
 	},
 	"homepage.productsPage.linkLabel": {
-		"message": "Products"
+	  "message": "Zavatra Misy"
 	}
-}
+  }
+  

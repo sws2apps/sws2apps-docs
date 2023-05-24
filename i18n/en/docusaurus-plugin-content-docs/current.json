@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Congregations": {
     "message": "Congregations",
     "description": "The label for category Congregations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Source Material": {
+    "message": "Source Material",
+    "description": "The label for category Source Material in sidebar tutorialSidebar"
   }
 }

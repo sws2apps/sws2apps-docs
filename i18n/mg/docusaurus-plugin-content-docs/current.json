@@ -1,30 +1,35 @@
 {
 	"version.label": {
-		"message": "Next",
-		"description": "The label for version current"
+	  "message": "Manaraka",
+	  "description": "The label for version current"
 	},
 	"sidebar.tutorialSidebar.category.Getting Started": {
-		"message": "Getting Started",
-		"description": "The label for category Getting Started in sidebar tutorialSidebar"
+	  "message": "Fanombohana",
+	  "description": "The label for category Getting Started in sidebar tutorialSidebar"
 	},
 	"sidebar.tutorialSidebar.category.Congregation Program for Everyone": {
-		"message": "Congregation Program for Everyone",
-		"description": "The label for category Congregation Program for Everyone in sidebar tutorialSidebar"
+	  "message": "Congregation Program for Everyone",
+	  "description": "The label for category Congregation Program for Everyone in sidebar tutorialSidebar"
 	},
 	"sidebar.tutorialSidebar.category.Products": {
-		"message": "Products",
-		"description": "The label for category Products in sidebar tutorialSidebar"
+	  "message": "Zavatra Misy",
+	  "description": "The label for category Products in sidebar tutorialSidebar"
 	},
 	"sidebar.tutorialSidebar.category.Features": {
-		"message": "Features",
-		"description": "The label for category Features in sidebar tutorialSidebar"
+	  "message": "Ao Anatiny",
+	  "description": "The label for category Features in sidebar tutorialSidebar"
 	},
 	"sidebar.tutorialSidebar.category.Persons": {
-		"message": "Persons",
-		"description": "The label for category Persons in sidebar tutorialSidebar"
+	  "message": "Olona ao Amin’ny Fiangonana",
+	  "description": "The label for category Persons in sidebar tutorialSidebar"
 	},
 	"sidebar.tutorialSidebar.category.Congregations": {
-		"message": "Congregations",
-		"description": "The label for category Congregations in sidebar tutorialSidebar"
+	  "message": "Fiangonana",
+	  "description": "The label for category Congregations in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Source Material": {
+	  "message": "Loharanon-kevitra",
+	  "description": "The label for category Source Material in sidebar tutorialSidebar"
 	}
-}
+  }
+  
