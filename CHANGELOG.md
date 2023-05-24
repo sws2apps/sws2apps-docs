@@ -1,3 +1,10 @@
+# [1.13.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.12.1...v1.13.0) (2023-05-24)
+
+
+### Features
+
+* **docs:** add initial malagasy translation ([b85734a](https://github.com/sws2apps/sws2apps-docs/commit/b85734ade976c25b4c091703c89000774c38ec49))
+
 ## [1.12.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.12.0...v1.12.1) (2023-05-23)
 
 
