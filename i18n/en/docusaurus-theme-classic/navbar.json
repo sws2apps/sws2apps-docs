@@ -18,5 +18,9 @@
   "item.label.Products": {
     "message": "Products",
     "description": "Navbar item with label Products"
+  },
+  "item.label.About Us": {
+    "message": "About Us",
+    "description": "Navbar item with label About Us"
   }
 }
