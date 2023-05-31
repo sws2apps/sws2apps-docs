@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.13.0...v1.14.0) (2023-05-31)
+
+
+### Features
+
+* **features:** add reports features ([8ef1033](https://github.com/sws2apps/sws2apps-docs/commit/8ef103390ea5f04aa32bae70c848ed20b147e04d))
+
 # [1.13.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.12.1...v1.13.0) (2023-05-24)
 
 
