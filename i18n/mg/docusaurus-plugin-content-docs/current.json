@@ -30,6 +30,10 @@
 	"sidebar.tutorialSidebar.category.Source Material": {
 	  "message": "Loharanon-kevitra",
 	  "description": "The label for category Source Material in sidebar tutorialSidebar"
+	},
+	"sidebar.tutorialSidebar.category.Reports": {
+	  "message": "Tatitra",
+	  "description": "The label for category Reports in sidebar tutorialSidebar"
 	}
   }
   
