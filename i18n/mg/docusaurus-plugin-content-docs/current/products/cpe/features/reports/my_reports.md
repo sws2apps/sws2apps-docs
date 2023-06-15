@@ -30,6 +30,10 @@ Afaka ampiasaina mba hanisana ny ora nanaovana ny fanompoana koa ny CPE. Tsindri
 
 Ny lisitra avy any amin’ny [firaketana momba ny mpianatra Baibolinao](./my_bible_studies) no ampiasaina eto. Raha tsy misy anarana miseho eto, dia ataovy azo antoka hoe manana firaketana momba ny mpianatra Baiboly mbola ampiasaina ianao.
 
+### Hamafa tatitra
+
+Raha hamafa ny firaketana ny tatitra momba ny fanompoana ho an’ny andro anankiray, dia karohy eo amin’ilay lisitra ilay tatitra, dia tsindrio avy hoe ilay sary kely hoe ***Hamafa***.
+
 ## Tatitra Momba ny Fanompoana S-4
 
 - Tsindrio ilay hoe **Aseho (S-4)** raha te hikajy sy hampiseho ny tatitra momba ny fanompoana ho an’ilay volana.

@@ -18,6 +18,6 @@ Feel free to send an email to sws2apps.notification@gmail.com.
 
 ## Support our work
 
-Our applications are completely **free.** Yes, you read it right! 😉 But building and maintaining an application is not easy. It involves time, energy and costs. Therefore, we really appreciate the generosity of those who support our works.
+Our applications are completely **free.** 😉 But building and maintaining an application is not easy. It involves time, energy and costs. Therefore, we really appreciate the generosity of those who support our works.
 
 <iframe id='kofiframe' src='https://ko-fi.com/sws2apps/?hidefeed=true&widget=true&embed=true&preview=true' height='712' title='sws2apps' style={{border: 'none', width: '100%', padding: '4px', background: '#f9f9f9'}}></iframe>

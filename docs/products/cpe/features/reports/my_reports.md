@@ -30,6 +30,10 @@ CPE can be used as a stopwatch to record the time you spent in the field ministr
 
 This entry will use your [Bible Study records](./my_bible_studies). If no record appears, please make sure you have active Bible Studies records.
 
+### Delete record
+
+To delete a daily report, find it from the list, and click the ***Delete*** icon.
+
 ## S-4 Field Service Report
 
 - Click the **Show S-4** button to generate and display the monthly field service report.
