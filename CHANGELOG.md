@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.14.0...v1.15.0) (2023-06-15)
+
+
+### Features
+
+* **reports:** add docs for delete report option ([ecd1a23](https://github.com/sws2apps/sws2apps-docs/commit/ecd1a23bd57a73aedbed4f9ae7b00964b86e3ec7))
+
 # [1.14.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.13.0...v1.14.0) (2023-05-31)
 
 
