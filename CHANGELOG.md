@@ -3,6 +3,14 @@
 
 ### Bug Fixes
 
+* **pages:** closing img tag in about page ([e998179](https://github.com/sws2apps/sws2apps-docs/commit/e998179854c754e282fad70af00bc3447a014bbb))
+* **pages:** update donate link ([74ed50c](https://github.com/sws2apps/sws2apps-docs/commit/74ed50cb8e3fcd575bdb51529e037b8d837bb646))
+
+## [1.15.4](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.3...v1.15.4) (2023-06-24)
+
+
+### Bug Fixes
+
 * **pages:** update donate link ([74ed50c](https://github.com/sws2apps/sws2apps-docs/commit/74ed50cb8e3fcd575bdb51529e037b8d837bb646))
 
 ## [1.15.3](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.2...v1.15.3) (2023-06-24)
