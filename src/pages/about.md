@@ -15,3 +15,9 @@ Do you want to join our team? We are very confident that “there is accomplishm
 ## Contact Us
 
 Feel free to send an email to sws2apps.notification@gmail.com.
+
+## Support our work
+
+Our applications are completely **free.** 😉 But building and maintaining an application is not easy. It involves time, energy and costs. Therefore, we really appreciate the generosity of those who support our works.
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sws2apps" data-description="Support me on Buy me a coffee!" data-message="Thank you for your generosity and donation. It will help us to cover the server costs to operate sws2apps applications." data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>

@@ -15,3 +15,9 @@ Te hiditra ao amin’ny ekipanay ve ianao? Matoky tanteraka izahay hoe ‘tanter
 ## Hifandray Aminay
 
 Asa misalasala mandefa hafatra aty aminay, ao amin’ny sws2apps.notification@gmail.com.
+
+## Hanohana ny asa ataonay
+
+***Tsy andoavam-bola*** ny fampiasana ny programa amboarinay. 😉 Tsy voatery ho mora foana anefa ny manamboatra sy mikojakoja programa. Mitaky fotoana, hery ary fananana izany. Tena mankasitraka ny fahalalan-tanan’ireo izay vonona hanampy anay ary izahay.
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="sws2apps" data-description="Hanohana anay ao amin’ny Buy me a coffee!" data-message="Misaotra betsaka amin’ny fahalalan-tanana sy ny fanomezana nataonao. Manampy anay izany handoa ny saran’ny fampiasana serveur mba hampandeha ny programa sws2apps." data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
