@@ -1,3 +1,10 @@
+## [1.15.5](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.4...v1.15.5) (2023-06-24)
+
+
+### Bug Fixes
+
+* **pages:** update donate button style ([2bf7ac4](https://github.com/sws2apps/sws2apps-docs/commit/2bf7ac4998730e7e543bf4b8bf9780dfbd41bead))
+
 ## [1.15.4](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.3...v1.15.4) (2023-06-24)
 
 
