@@ -15,9 +15,3 @@ Te hiditra ao amin’ny ekipanay ve ianao? Matoky tanteraka izahay hoe ‘tanter
 ## Hifandray Aminay
 
 Asa misalasala mandefa hafatra aty aminay, ao amin’ny sws2apps.notification@gmail.com.
-
-## Hanohana ny asa ataonay
-
-***Tsy andoavam-bola*** ny fampiasana ny programa amboarinay. 😉 Tsy voatery ho mora foana anefa ny manamboatra sy mikojakoja programa. Mitaky fotoana, hery ary fananana izany. Tena mankasitraka ny fahalalan-tanan’ireo izay vonona hanampy anay ary izahay.
-
-<iframe id='kofiframe' src='https://ko-fi.com/sws2apps/?hidefeed=true&widget=true&embed=true&preview=true' height='712' title='sws2apps' style={{border: 'none', width: '100%', padding: '4px', background: '#f9f9f9'}}></iframe>
