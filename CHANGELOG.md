@@ -1,3 +1,10 @@
+## [1.15.3](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.2...v1.15.3) (2023-06-24)
+
+
+### Bug Fixes
+
+* **pages:** update donation in about page ([2c2e3c3](https://github.com/sws2apps/sws2apps-docs/commit/2c2e3c3c5ee227422913b9581a92cc8ad04827c7))
+
 ## [1.15.2](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.1...v1.15.2) (2023-06-24)
 
 
