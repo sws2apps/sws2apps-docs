@@ -20,4 +20,8 @@ Feel free to send an email to sws2apps.notification@gmail.com.
 
 Our applications are completely **free.** 😉 But building and maintaining an application is not easy. It involves time, energy and costs. Therefore, we really appreciate the generosity of those who support our works.
 
-<a href="https://www.buymeacoffee.com/sws2apps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Donate" style="height: 60px !important;width: 217px !important;" /></a>
+<p>
+  <a href="https://www.buymeacoffee.com/sws2apps" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Donate" style={{height: '60px !important', width: '217px !important'}} />
+  </a>
+</p>
