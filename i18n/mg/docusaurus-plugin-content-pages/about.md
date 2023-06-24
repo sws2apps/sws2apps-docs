@@ -20,4 +20,4 @@ Asa misalasala mandefa hafatra aty aminay, ao amin’ny sws2apps.notification@gm
 
 ***Tsy andoavam-bola*** ny fampiasana ny programa amboarinay. 😉 Tsy voatery ho mora foana anefa ny manamboatra sy mikojakoja programa. Mitaky fotoana, hery ary fananana izany. Tena mankasitraka ny fahalalan-tanan’ireo izay vonona hanampy anay ary izahay.
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="sws2apps" data-color="#BD5FFF" data-emoji=""  data-font="Comic" data-text="Hanao fanomezana" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/sws2apps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Hanao fanomezana" style="height: 60px !important;width: 217px !important;" ></a>
