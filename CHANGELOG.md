@@ -1,3 +1,10 @@
+## [1.15.2](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.1...v1.15.2) (2023-06-24)
+
+
+### Bug Fixes
+
+* **pages:** update about page ([ca08cd3](https://github.com/sws2apps/sws2apps-docs/commit/ca08cd313b4732703f5d979e6f4f8cccaf0ea5b6))
+
 ## [1.15.1](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.0...v1.15.1) (2023-06-24)
 
 
