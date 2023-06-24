@@ -22,6 +22,6 @@ Asa misalasala mandefa hafatra aty aminay, ao amin’ny sws2apps.notification@gm
 
 <p>
   <a href="https://www.buymeacoffee.com/sws2apps" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Hanao fanomezana" style={{height: '60px !important', width: '217px !important'}} />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Hanao fanomezana" className="donate_logo" />
   </a>
 </p>
