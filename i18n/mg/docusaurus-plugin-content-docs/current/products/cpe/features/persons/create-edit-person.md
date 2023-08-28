@@ -2,16 +2,16 @@
 sidebar_position: 1
 ---
 
-# Create and Edit a Person
+# Hampiditra sy Hanova Olona Ao Amin’ny Fiangonana
 
-## Create a new person
+## Hampiditra olona vaovao
 
 To create a new person to CPE:
 
 - Use the **Add Person** from the Dashboard page.
 - Open the **Persons** page first. On larger device, click the _Plus_ icon on the right. On smaller device, click the three dots menu on the right, and choose **Add new person**.
 
-## Edit a person
+## Hanova ny mombamomba ny olona iray
 
 From the Persons page, click the _Pencil_ icon to view the details of a person. These details are divided into five sections:
 
