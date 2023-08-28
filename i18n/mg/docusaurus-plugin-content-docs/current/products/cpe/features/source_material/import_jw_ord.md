@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Import from JW.ORG
+# Haka Any Amin’ny JW.ORG
 
 This is the recommended method to add source materials, when you are using CPE in a device with an internet connection. Open CPE, and click **Import from JW.ORG** under the Source Material card.
 
