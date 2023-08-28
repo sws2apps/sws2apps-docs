@@ -32,7 +32,8 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
 
   Some of these informations can only be edit by the Congregation Secretary.
 
-  :::
+
+:::
 
 ### Spiritual Status
 
@@ -46,7 +47,8 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
 
   Make sure that this date is correct, especially the first time you use CPE, or when person move to your congregation. Otherwise, you will have falsy report where the person will be counted as an inactive publisher.
 
-  :::
+
+:::
 
 - **Spiritual Status:** person’s spiritual status history. This includes when the person is a **Publisher, Ministerial Servant** and **Elder**.
 
@@ -56,7 +58,8 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
 
   When a person’s status is changed, add an end date to the previous active status, and add the new status with the correct start date.
 
-  :::
+
+:::
 
 - **Other form of services:** person’s other form of service history. This includes when the person is an **Auxiliary Pioneer, Regular Pioneer** and **Special Pioneer**.
 
