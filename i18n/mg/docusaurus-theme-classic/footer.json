@@ -1,47 +1,46 @@
 {
-	"link.title.Community": {
-	  "message": "Vondrona",
-	  "description": "The title of the footer links column with title=Community in the footer"
-	},
-	"link.title.More": {
-	  "message": "Fanazavana Hafa",
-	  "description": "The title of the footer links column with title=More in the footer"
-	},
-	"link.item.label.GitHub Discussions": {
-	  "message": "Fifanoratana | GitHub",
-	  "description": "The label of footer link with label=GitHub Discussions linking to https://github.com/sws2apps/discussions"
-	},
-	"link.item.label.Blog": {
-	  "message": "Vaovao",
-	  "description": "The label of footer link with label=Blog linking to /blog"
-	},
-	"link.item.label.GitHub": {
-	  "message": "GitHub",
-	  "description": "The label of footer link with label=GitHub linking to https://github.com/sws2apps"
-	},
-	"copyright": {
-	  "message": "Copyright © 2023 Scheduling Workbox System. Built with Docusaurus.",
-	  "description": "The footer copyright"
-	},
-	"link.item.label.Telegram": {
-	  "message": "Telegram",
-	  "description": "The label of footer link with label=Telegram linking to https://t.me/+H0fr4uoDghA4MDg8"
-	},
-	"link.item.label.Privacy Policy": {
-	  "message": "Fifanekena Momba ny Tsiambaratelo",
-	  "description": "The label of footer link with label=Privacy Policy linking to /privacy"
-	},
-	"link.item.label.Terms of Use": {
-	  "message": "Fifanekena",
-	  "description": "The label of footer link with label=Terms of Use linking to /terms"
-	},
-	"link.title.Products": {
-	  "message": "Zavatra Misy",
-	  "description": "The title of the footer links column with title=Products in the footer"
-	},
-	"link.item.label.Congregation Program for Everyone": {
-	  "message": "Congregation Program for Everyone",
-	  "description": "The label of footer link with label=Congregation Program for Everyone linking to docs/category/congregation-program-for-everyone"
-	}
+  "link.title.Community": {
+    "message": "Vondrona",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Fanazavana Hafa",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.GitHub Discussions": {
+    "message": "Fifanoratana | GitHub",
+    "description": "The label of footer link with label=GitHub Discussions linking to https://github.com/sws2apps/discussions"
+  },
+  "link.item.label.Blog": {
+    "message": "Vaovao",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/sws2apps"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 Scheduling Workbox System. Built with Docusaurus.",
+    "description": "The footer copyright"
+  },
+  "link.item.label.Telegram": {
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram linking to https://t.me/+H0fr4uoDghA4MDg8"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Fifanekena Momba ny Tsiambaratelo",
+    "description": "The label of footer link with label=Privacy Policy linking to /privacy"
+  },
+  "link.item.label.Terms of Use": {
+    "message": "Fifanekena",
+    "description": "The label of footer link with label=Terms of Use linking to /terms"
+  },
+  "link.title.Products": {
+    "message": "Zavatra Misy",
+    "description": "The title of the footer links column with title=Products in the footer"
+  },
+  "link.item.label.Congregation Program for Everyone": {
+    "message": "Congregation Program for Everyone",
+    "description": "The label of footer link with label=Congregation Program for Everyone linking to docs/category/congregation-program-for-everyone"
   }
-  
+}
