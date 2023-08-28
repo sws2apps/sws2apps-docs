@@ -2,67 +2,67 @@
 sidebar_position: 1
 ---
 
-# Tatitra Momba ny Fanompoako
+# My Reports
 
-Afak mijery, manova ary mandefa ny tatitra momba ny fanompoanao ianao ato amin’ity fizarana ity.
+In this section, you can view, edit and submit your monthly field service reports.
 
-![S4 Daily Record View](./cpe_my_reports_mg_2.png)
+![S4 Daily Record View](./cpe_my_reports_en_2.png)
 
-## Firaketana ny fanompoana mandritra ny volana
+## Edit daily field service records
 
-Rehefa hampiditra tatitra, dia safidio alohan ny taom-panompoana sy ny volana tianao hampidirana an’ilay izy.
+To record your daily field service records, first, select the Service Year and the month you want to edit.
 
-- Tsindrio avy eo ilay hoe **Hanova.**
+- Click the **Edit** button.
 
-- Misafidiana **Daty.**
+- Select the **Date**.
 
-- Ampidiro avy eo ny tatitrao. Tonga dia voatahiry avy hatrany izay tarehimarika ampidirinao.
+- Enter each item accordingly. All the changes you made are automatically saved.
 
-  ![S4 Daily Record Edit](./cpe_my_reports_mg_1.png)
+  ![S4 Daily Record Edit](./cpe_my_reports_en_1.png)
 
-- Tsindrio ilay hoe **Afenina** raha tsy tianao hiseho io fampidirana tatitra momba ny fanompoana io.
+- Click the **Collapse** button to hide the daily field service record editor.
 
-### Fanisana Ora - CPE
+### CPE Stopwatch
 
-Afaka ampiasaina mba hanisana ny ora nanaovana ny fanompoana koa ny CPE. Tsindrio ilay sary ***Handefa*** kely, mba handefasana an’ilay fanisana ora. Tsindrio ilay sary ***Hampiato*** kely, raha te hampiato an’ilay fanisana ora ianao. Azonao averina alefa indray ilay izy avy eo raha ilaina. Tsindrio ilay sary ***Hajanona*** kely, raha hanajanona an’ilay fanisana ora.
+CPE can be used as a stopwatch to record the time you spent in the field ministry. To start the timer, click the ***Start*** icon. To pause, click the ***Pause*** icon. You can resume it later if needed. And to stop the timer, click the ***Stop*** icon.
 
-### Fampianarana Baiboly
+### Bible Studies
 
-Ny lisitra avy any amin’ny [firaketana momba ny mpianatra Baibolinao](./my_bible_studies) no ampiasaina eto. Raha tsy misy anarana miseho eto, dia ataovy azo antoka hoe manana firaketana momba ny mpianatra Baiboly mbola ampiasaina ianao.
+This entry will use your [Bible Study records](./my_bible_studies). If no record appears, please make sure you have active Bible Studies records.
 
-### Hamafa tatitra
+### Delete record
 
-Raha hamafa ny firaketana ny tatitra momba ny fanompoana ho an’ny andro anankiray, dia karohy eo amin’ilay lisitra ilay tatitra, dia tsindrio avy hoe ilay sary kely hoe ***Hamafa***.
+To delete a daily report, find it from the list, and click the ***Delete*** icon.
 
-## Tatitra Momba ny Fanompoana S-4
+## S-4 Field Service Report
 
-- Tsindrio ilay hoe **Aseho (S-4)** raha te hikajy sy hampiseho ny tatitra momba ny fanompoana ho an’ilay volana.
+- Click the **Show S-4** button to generate and display the monthly field service report.
 
-  ![S4 Report](./cpe_my_reports_mg_3.png)
+  ![S4 Report](./cpe_my_reports_en_3.png)
 
-- Tsindro ilay hoe **Afenina (S-4)** raha tsy tianao hiseho ny tatitra S-4.
+- Click the **Collapse S-4** button to hide the S-4 report.
 
-### Handefa tatitra
+### Submit report
 
-- Raha ilaina, dia ampidiro ny fanamarihana momba ny tatitrao.
-- Tsindrio avy eo ilay hoe **Handefa S-4** mba handefasana ny tatitrao any amin’ny Mpitan-tsoratra.
+- If necessary, add comments to your S-4 report.
+- Click the **Submit S-4** button to send your report to the Secretary.
 
 :::info
 
-Tsy ho afaka hanova ny tatitra momba ny fanompoanao mandritra ny volana intsony ianao rehefa lasa any amin’ny Mpitan-tsoratra ny tatitra S-4. Raha misy fanovana mila atao, dia mila marihinao hoe tsy lasa indray aloha ilay tatitra.
+It will no longer be possible to edit the daily record when the S-4 report is submitted. If changes are necessary, undo the submission.
 
 :::
 
-### Hanamarika tatitra hoe tsy lasa
+### Undo submission
 
-- Raha efa lasa ny tatitrao, nefa misy fanovana mila atao, dia tsindrio ilay hoe **Marihina hoe Tsy Lasa.** Ampidiro avy eo ilay fanovana mila atao.
+- If changes are necessary after your report has been submitted, click the **Undo Submission** button, and make the necessary changes.
 
-  ![S4 Report Undo](./cpe_my_reports_mg_4.png)
+  ![S4 Report Undo](./cpe_my_reports_en_4.png)
 
-- Tsindrio indray avy eo ilay hoe **Handefa S-4** mba handefasana an’ilay tatitra any amin’ny Mpitan-tsoratra.
+- Click the **Submit S-4** button again to send your report to the Secretary.
 
 :::caution
 
-Tsy azo marihina hoe tsy lasa intsony ny tatitra S-4 raha efa nohamarin’ny Mpitan-tsoratra sy nekeny.
+Please note that it is no longer possible to undo the submission when the report was already reviewed and accepted by the Secretary.
 
 :::
