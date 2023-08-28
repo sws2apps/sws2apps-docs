@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Hampiditra Avy Amin’ny EPUB
+# Import from EPUB file
 
 This is the recommended method to add source materials, when you are using CPE in a device without an internet connection.
 
@@ -12,7 +12,8 @@ This is the recommended method to add source materials, when you are using CPE i
 
   Do not rename the EPUB file downloaded.
 
-  :::
+
+:::
 
 - Open CPE, and click **Import from EPUB file** under the Source Material card. Locate the EPUB file you downloaded from jw.org.
 
