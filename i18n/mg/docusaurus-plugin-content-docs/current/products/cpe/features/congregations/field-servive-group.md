@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Field Service Groups
+# Andiam-pitory
 
 In this section, you can manage the congregation field sevice groups. You can create multiple lists at the same time to find which one is the best to divide all the publishers. Then, you can set that list as current.
 
