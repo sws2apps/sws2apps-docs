@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Search for a Person
+# Hikaroka Olona
 
 You can search for a person using his/her name in the Persons page. Additionally, depending on your role, filters have been added to easily find the records you need.
 
