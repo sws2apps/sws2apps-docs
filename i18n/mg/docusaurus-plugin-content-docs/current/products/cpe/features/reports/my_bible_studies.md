@@ -2,31 +2,31 @@
 sidebar_position: 2
 ---
 
-# Fampianarana Baiboliko
+# My Bible Studies
 
-Afaka mijery, manova ary mamafa ny lisitry ny mpianatra Baibolinao ianao ato amin’ity fizarana ity.
+In this section, you can view, edit and delete your Bible studies.
 
-![My Bible Studies](./cpe_my_bible_studies_mg_1.png)
+![My Bible Studies](./cpe_my_bible_studies_en_1.png)
 
 :::info
 
-Mila an’ity firaketana momba ny mpianatra Baiboly ity ianao rehefa [hampiditra ny tatitra](./my_reports#bible-studies) momba ny fanompoana mandritra ny volana.
+These Bible study records are needed when entering the [daily field service records](./my_reports#bible-studies).
 
 :::
 
-## Hampiditra fampianarana Baiboly vaovao
+## Add new Bible study record
 
-- Tsindrio ilay sary ***Plus*** kely, eo amin’ny farany ambany indrindra ankavanana, raha hampiditra firaketana momba ny fampianarana Baiboly vaovao.
-- Ampidiro avy eo ny **anarana, ** sy ny **telefaonina** ary ny **adiresin’**ilay olona raha ilaina izany.
-- Tsindrio avy eo ilay hoe **Hitahiry**.
+- Click the ***Plus*** icon on the bottom left of the screen to add a new Bible study record.
+- Enter the **name, ** and if needed, the **contact** and **address.**
+- Click **Save** to complete.
 
-## Hanova ny mombamomba ny mpianatra Baiboly
+## Edit Bible study record
 
-- Jereo eo amin’ilay lisitra ilay mpianatra tianao ovana, dia tsindrio avy eo ilay hoe **Hanova.**
-- Ampidiro ny fanovana ilaina, dia tsindrio ilay hoe **Hitahiry.**
+- Find the record you want to edit from the list, and click the **Edit** button.
+- Make the necessary changes, and click **Save**.
 
-## Hamafa mpianatra Baiboly
+## Delete Bible study record
 
-- Jereo eo amin’ilay lisitra ilay mpianatra tianao fafana, dia tsindrio avy eo ilay hoe **Hamafa.**
-- Raha toa ka tsy ampiasaina intsony any amin’ny tatitra momba ny fanompoanao ilay olona, dia ho voafafa ny firaketana momba azy ary hiala tsy ho eo amin’ilay lisitra intsony izy.
-- Raha mbola hita any amin’ny tatitrao kosa ny anarany, dia hisy marika hoe ***Tsy ampiasaina intsony*** izy eo amin’ilay lisitra. Azonao andramana fafana indray izy any aoriana.
+- Find the record you want to delete from the list, and click the **Delete** button.
+- If the person is no longer used in any of your field service reports, it will be deleted and removed from the list.
+- If the person is still in use, the record will be marked as ***inactive***. You can try deleting it later.
