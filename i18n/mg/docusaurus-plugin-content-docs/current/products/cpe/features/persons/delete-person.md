@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Delete a Person
+# Hamafa Olona
 
 Open the Persons page from the Dashboard page. Click the _Delete_ icon from the person card, and confirm your deletion.
 
