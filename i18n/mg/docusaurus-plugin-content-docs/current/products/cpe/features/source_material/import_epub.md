@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Import from EPUB file
+# Hampiditra Avy Amin’ny EPUB
 
 This is the recommended method to add source materials, when you are using CPE in a device without an internet connection.
 
