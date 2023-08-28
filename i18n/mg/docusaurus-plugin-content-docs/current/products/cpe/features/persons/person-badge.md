@@ -2,19 +2,19 @@
 sidebar_position: 3
 ---
 
-# Person Badges
+# Marika Famantarana
 
 When person records is displayed on the Persons page, badges are added to each person record. They are:
 
-- **AP:** Auxiliary Pioneer
-- **B:** Baptized
-- **BR:** Bible Reading
-- **BS:** Bible Study
-- **E:** Elder
-- **IC:** Initial Call
-- **FR:** Regular Pioneer
-- **MS:** Ministerial Servant
-- **P:** Publisher
-- **RV:** Return Visit
-- **SFTS:** Special Full-Time Servant
-- **T:** Talk
+- **A:** Anti-panahy
+- **B:** Vita Batisa
+- **FAMP:** Fampianarana Baiboly
+- **FB:** Famakiana Baiboly
+- **FIT:** Fitoriana
+- **FIV:** Fiverenana Mitsidika
+- **FR:** Mpisava Lalana Maharitra
+- **L:** Lahateny
+- **M:** Mpitory
+- **MMAM:** Mpanompo Manontolo Andro Manokana
+- **MF:** Mpikarakara Fiangonana
+- **MM:** Mpisava Lalana Mpanampy
