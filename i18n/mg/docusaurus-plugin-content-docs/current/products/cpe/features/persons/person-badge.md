@@ -2,19 +2,19 @@
 sidebar_position: 3
 ---
 
-# Marika Famantarana
+# Person Badges
 
-Rehefa miseho eo amin’ilay pejy hoe Olona Ao Amin’ny Fiangonana ny olona rehetra, dia misy marika famantarana mipoitra eo amin’ny olona tsirairay. Ireto avy izany:
+When person records is displayed on the Persons page, badges are added to each person record. They are:
 
-- **A:** Anti-panahy
-- **B:** Vita Batisa
-- **FAMP:** Fampianarana Baiboly
-- **FB:** Famakiana Baiboly
-- **FIT:** Fitoriana
-- **FIV:** Fiverenana Mitsidika
-- **FR:** Mpisava Lalana Maharitra
-- **L:** Lahateny
-- **M:** Mpitory
-- **MMAM:** Mpanompo Manontolo Andro Manokana
-- **MF:** Mpikarakara Fiangonana
-- **MM:** Mpisava Lalana Mpanampy
+- **AP:** Auxiliary Pioneer
+- **B:** Baptized
+- **BR:** Bible Reading
+- **BS:** Bible Study
+- **E:** Elder
+- **IC:** Initial Call
+- **FR:** Regular Pioneer
+- **MS:** Ministerial Servant
+- **P:** Publisher
+- **RV:** Return Visit
+- **SFTS:** Special Full-Time Servant
+- **T:** Talk
