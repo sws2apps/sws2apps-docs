@@ -1,3 +1,18 @@
+# [1.16.0](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.5...v1.16.0) (2023-09-17)
+
+
+### Bug Fixes
+
+* **features:** update getting started link for mg ([e1abda1](https://github.com/sws2apps/sws2apps-docs/commit/e1abda1d319cc8c5576cb5a60e5e86eef1305a83))
+* **localize:** fix crowdin formatting issue ([a5bb293](https://github.com/sws2apps/sws2apps-docs/commit/a5bb29340178fe5603d27aa9683973e465d2301d))
+
+
+### Features
+
+* **deps:** bump clsx from 1.2.1 to 2.0.0 ([139b6c5](https://github.com/sws2apps/sws2apps-docs/commit/139b6c5c9e3f81685b48fd91ce587c7b189edbe3))
+* **deps:** bump semver from 5.7.1 to 5.7.2 ([940f6a7](https://github.com/sws2apps/sws2apps-docs/commit/940f6a75ad801d3943ca1c1f8a85df842017a706))
+* **localize:** updated translation from Crowdin ([b853981](https://github.com/sws2apps/sws2apps-docs/commit/b853981038378e674b076aba9b3202ed17a3887d))
+
 ## [1.15.5](https://github.com/sws2apps/sws2apps-docs/compare/v1.15.4...v1.15.5) (2023-06-24)
 
 
