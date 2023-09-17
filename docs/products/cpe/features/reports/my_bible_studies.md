@@ -6,7 +6,7 @@ sidebar_position: 2
 
 In this section, you can view, edit and delete your Bible studies.
 
-![My Bible Studies](./cpe_my_bible_studies_en_1.png)
+![My Bible Studies](./cpe_my_bible_studies_1.png)
 
 :::info
 
@@ -16,7 +16,7 @@ These Bible study records are needed when entering the [daily field service reco
 
 ## Add new Bible study record
 
-- Click the ***Plus*** icon on the bottom left of the screen to add a new Bible study record.
+- Click the **_Plus_** icon on the bottom left of the screen to add a new Bible study record.
 - Enter the **name, ** and if needed, the **contact** and **address.**
 - Click **Save** to complete.
 
@@ -29,4 +29,4 @@ These Bible study records are needed when entering the [daily field service reco
 
 - Find the record you want to delete from the list, and click the **Delete** button.
 - If the person is no longer used in any of your field service reports, it will be deleted and removed from the list.
-- If the person is still in use, the record will be marked as ***inactive***. You can try deleting it later.
+- If the person is still in use, the record will be marked as **_inactive_**. You can try deleting it later.

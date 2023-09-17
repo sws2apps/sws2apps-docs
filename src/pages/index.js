@@ -10,8 +10,7 @@ export default function Home() {
 		<Layout
 			title={siteConfig.title}
 			description={translate({
-				message:
-					'Help and documentations for Scheduling Workbox System applications',
+				message: 'Help and documentations for Scheduling Workbox System applications',
 				description: 'SEO website description',
 			})}
 		>
