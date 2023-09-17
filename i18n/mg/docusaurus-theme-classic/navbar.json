@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Scheduling Workbox System",
+    "message": "Ny Ekipa Scheduling Workbox System",
     "description": "The title in the navbar"
   },
   "item.label.Blog": {
@@ -12,7 +12,7 @@
     "description": "Navbar item with label GitHub"
   },
   "logo.alt": {
-    "message": "sws2apps logo",
+    "message": "Sary famantarana sws2apps",
     "description": "The alt text of navbar logo"
   },
   "item.label.Products": {
