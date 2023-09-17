@@ -12,8 +12,7 @@ Raha mampiasa CPE amin’ny fitaovana tsy azo hanaovana internet ianao, dia ity 
 
   Azo amboarina ny anaran’ilay rakitra EPUB nalainao.
 
-
-:::
+  :::
 
 - Sokafy avy ny CPE, dia tsindrio ilay hoe **Hampiditra avy Amin’ny EPUB**, eo ambanin’ilay karatra hoe Loharanon-kevitra. Safidio avy eo ilay rakitra EPUB nalainao avy any amin’ny jw.org.
 
