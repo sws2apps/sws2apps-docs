@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Afaka mijery, manova ary mamafa ny lisitry ny mpianatra Baibolinao ianao ato amin’ity fizarana ity.
 
-![My Bible Studies](./cpe_my_bible_studies_en_1.png)
+![My Bible Studies](./cpe_my_bible_studies_1.png)
 
 :::info
 
@@ -29,4 +29,4 @@ Mila an’ity firaketana momba ny mpianatra Baiboly ity ianao rehefa [hampiditra
 
 - Jereo eo amin’ilay lisitra ilay mpianatra tianao fafana, dia tsindrio avy eo ilay hoe **Hamafa.**
 - Raha toa ka tsy ampiasaina intsony any amin’ny tatitra momba ny fanompoanao ilay olona, dia ho voafafa ny firaketana momba azy ary hiala tsy ho eo amin’ilay lisitra intsony izy.
-- If the person is still in use, the record will be marked as ***inactive***. You can try deleting it later.
+- If the person is still in use, the record will be marked as **_inactive_**. You can try deleting it later.
