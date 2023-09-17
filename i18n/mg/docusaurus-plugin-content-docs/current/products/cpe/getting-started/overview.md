@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Programa namboarin’ny ekipan’ny Scheduling Workbox System ny CPE na _Congregation Program for Everyone._ Programa natao ampiasain’ny rehetra ao amin’ny fiangonanan’ny Vavolombelon’i Jehovah izy io.
 
-![CPE Home](./cpe_home_mg.png)
+![CPE Home](./cpe_home.png)
 
 ## Programa ofisialy avy amin’ny fandaminana ve ny CPE?
 
