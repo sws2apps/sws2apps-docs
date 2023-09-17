@@ -6,105 +6,105 @@ sidebar_position: 1
 
 ## Hampiditra olona vaovao
 
-To create a new person to CPE:
+Izao atao raha hampiditra olona vaovao ao amin’ny CPE:
 
-- Use the **Add Person** from the Dashboard page.
-- Open the **Persons** page first. On larger device, click the _Plus_ icon on the right. On smaller device, click the three dots menu on the right, and choose **Add new person**.
+- Ampiasao ilay hoe **Hanampy Olona Vaovao** eo amin’ny pejy fandraisana.
+- Sokafy aloha ilay pejy hoe **Olona ao Amin’ny Fiangonana**. Raha somary lehibe ny fitaovana ampiasainao, dia tsindrio ilay sary _Plus_ eo amin’ny sisiny ankavanana. Raha fitaovana kely kosa, dia tsindrio ilay teboka telo eo amin’ny sisiny ankavanana, dia safidio ilay hoe **Hanampy olona vaovao.**
 
 ## Hanova ny mombamomba ny olona iray
 
-From the Persons page, click the _Pencil_ icon to view the details of a person. These details are divided into five sections:
+Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pensilihazo_ eo amin’ilay olona mba hijerena ny mombamomba azy. Misy fizarana maromaro ireo fanazavana ireo:
 
-### Basic Information
+### Mombamomba an’ilay olona
 
-![Person Basic](./person_basic.png)
+![Mombamomba an’ilay olona](./person_basic.png)
 
-- **Name:** name of the person
-- **Display name:** display name of the person. It is auto populated but it can be overwritten. Depending on your congregation settings, this is the name that is displayed on the meeting schedule.
-- **Gender:** gender of the person
-- **Date of birth:** date when the person was born
-- **Age:** current age of the person. It is auto calculated and could not be edited
-- **Email address**: email address(es) of the person
-- **Address:**: address of the person
-- **Phone number:** phone number(s) of the person
+- **Anarana:** anaran’ilay olona
+- **Fanafohezana:** fanafohezana ny anaran’ilay olona. Feno ho azy izy io, nefa azonao soloana izay misoratra eo. Hiseho any amin’ny fandaharam-pivoriana ho atao printy ity fanafohezana anarana ity, arakaraka ny fanamboarana nosafidiana ho an’ny fiangonanareo.
+- Safidio hoe **Lahy** sa <0>Vavy</0> ilay olona
+- **Daty nahaterahana:** daty nahaterahan’ilay olona
+- **Taona:** taonan’ilay olona amin’izao. Feno ho azy izy io, ary tsy azo ovaina.
+- **Adiresy email:** adiresy emai ampiasain’ilay olona
+- **Adiresy:** adiresin’ilay olona
+- **Telefaonina:** nomerao telefaonin’ilay olona
 
   :::caution
 
-  Some of these informations can only be edit by the Congregation Secretary.
+  Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
 
 :::
 
-### Spiritual Status
+### Lafiny Ara-panahy
 
-![Person Spiritual Status Main](./person_spiritual_status_main.png)
+![Lafiny Ara-panahy Rehetra](./person_spiritual_status_main.png)
 
-- Choose if the person is an **anointed** one or **other sheep**.
-- Choose whether the person is **baptized** or not. If yes, enter the **Date immersed**. The **Years** since the person was baptized will be auto calculated.
-- **First report:** This is the month where field service report is first collected for this person.
+- Safidio hoe **voahosotra** ve ilay olona sa **ondry hafa.**
+- Safidio hoe **vita batisa** ve ilay olona sa tsia. Raha eny, dia ampidiro ny **Datin’ny batisa.** Ho feno ho azy avy eo ny **Taona** efa nahavita batisa an’ilay olona.
+- **Tatitra voalohany:** Ity ny volana voalohany nanangonana ny tatitra ho an’io olona io.
 
   :::danger
 
-  Make sure that this date is correct, especially the first time you use CPE, or when person move to your congregation. Otherwise, you will have falsy report where the person will be counted as an inactive publisher.
+  Ataovy azo antoka hoe marina tsara io daty io, indrindra raha vao voalohany ianao no mampiasa CPE, na hoe nifindra fiangonana ao aminareo ilay olona. Raha tsy izany mantsy dia mety ho voasokajy ho anisan’ny mpitory tapatapaka ilay olona.
 
 
 :::
 
-- **Spiritual Status:** person’s spiritual status history. This includes when the person is a **Publisher, Ministerial Servant** and **Elder**.
+- **Lafiny Ara-panahy:** lafiny ara-panahin’ilay olona. Tafiditra amin’izany ny hoe **Mpitory, Mpikarakara Fiangonana** ary **Anti-panahy** ve izy.
 
-  ![Person Spiritual Status](./person_spiritual_status.png)
+  ![Lafiny Ara-panahy](./person_spiritual_status.png)
 
   :::caution
 
-  When a person’s status is changed, add an end date to the previous active status, and add the new status with the correct start date.
+  Raha miova ny lafiny ara-panahin’ilay olona, dia asio daty nifaranana ny nisy azy teo aloha, ary ampidiro ny lafiny ara-panahy vaovao ka ataovy marina tsara ny daty nanombohany.
 
 
 :::
 
-- **Other form of services:** person’s other form of service history. This includes when the person is an **Auxiliary Pioneer, Regular Pioneer** and **Special Pioneer**.
+- **Tombontsoam-panompoana hafa:** tombontsoam-panompoana hafa ananan’ilay olona. Tafiditra amin’izany ny hoe **Mpisava Lalana Mpanampy, Mpisava Lalana Maharitra** ary **Mpisava Lalana Manokana** ve izy.
 
 :::caution
 
-All these informations can only be edit by the Congregation Secretary.
+Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
 :::
 
-### Assignments
+### Anjara azony atao
 
-![Person Assignments](./person_assignments.png)
+![Anjara azo atao](./person_assignments.png)
 
-This section is for all meeting assignments for the person. Currently, it only contains midweek meeting assignments.
+Eto amin’ity fizarana ity no ahitana ny anjara rehetra azon’ilay atao amin’ny fivoriana. Ny fanendrena amin’ny fivoriana andavanandro ihany aloha izao no miseho eto.
 
 :::caution
 
-Currently, these informations can only be edit by the Life and Ministry Meeting Overseer or his assistant.
+Ny Mpiandraikitra ny Fivoriana Momba ny Fiainantsika sy ny Fanompoana na ny mpanampy azy ihany aloha izao no afaka manova an’ireo fanamboarana ireo.
 
 :::
 
-### Assignments History
+### Anjara efa nataony
 
-![Person Assignments History](./person_assignments_history.png)
+![Anjara efa natao](./person_assignments_history.png)
 
-This section contains all the meeting assignments this person had. It is a _read only_ information.
+Hita eto amin’ity fizarana ity ny anjara rehetra efa nataon’ilay olona. Natao _hojerena fotsiny_ ny fanazavana miseho eto.
 
-### Time Away
+### Fotoana tsy maha eo
 
-![Person Time Away](./person_time_away.png)
+![Fotoana tsy maha eo](./person_time_away.png)
 
-This section contains all the dates when the person will not be available for any meeting assignments.
+Hita eto amin’ity fizarana ity ny fotoana rehetra tsy maha eo an’ilay olona ka tsy ho afaka omena anjara amin’ny fivoriana izy.
 
-## Save your changes
+## Hitahiry ny fanovana ataonao
 
-To save the changes you made for the person, click the **Save** button on the top of the page.
+Tsindrio ilay hoe **Hitahiry** eo ambony indrindra amin’ilay pejy, raha hitahiry ny fanovana nataonao tamin’ny olona anankiray.
 
-## Mark person as moved
+## Marihina hoe nifindra fiangonana
 
-If a person is moved to another congregation, , click the **Mark Move** button on the top of the person details page. This will remove the person from the Congregation Persons list.
+Raha nifindra fiangonana ny olona iray, dia tsindrio ilay hoe **Nifindra Fiangonana** eo ambony indrindra amin’ilay pejy. Tsy hiseho intsony eo amin’ny lisitry ny Olona ao Amin’ny Fiangonana izy aorian’izay.
 
-## Mark person as disqualified
+## Marihina hoe tsy mahafeno fepetra
 
-If a person is disqualified, click the **Mark Disqualified** button on the top of the person details page. The person will no longer be able to receive any meeting assignments.
+Raha tsy mahafeno fepetra intsony ny olona iray, dia tsindrio ilay hoe **Tsy Mahafeno Fepetra** eo ambony indrindra amin’ilay pejy. Tsy hahazo anjara amin’ny fivoriana intsony ilay olona aorian’izay.
 
-## Mark person as enabled
+## Marihina hoe omena anjara
 
-If a person is qualified again for meeting assignments, click the **Mark Enabled** button on the top of the person details page.
+Raha mahafeno fepetra handray anjara amin’ny fivoriana indray ny olona iray, dia tsindrio ilay hoe **Omena Anjara** eo ambony indrindra amin’ilay pejy.
