@@ -4,10 +4,10 @@ sidebar_position: 4
 
 # Hamafa Olona
 
-Open the Persons page from the Dashboard page. Click the _Delete_ icon from the person card, and confirm your deletion.
+Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana. Tsindrio avy eo ilay sary _Hamafa_ eo akaikin’ny anaran’ilay olona, ary hamafiso hoe tianao hofafana ao amin’ny firaketana tokoa izy.
 
 :::danger
 
-You cannot undo this deletion. When a person is deleted, it is deleted forever and cannot be recovered.
+Tsy afaka averina intsony ity famafana ity. Rehefa voafafa ao amin’ny firaketana ny olona iray, dia tsy afaka averina intsony.
 
 :::
