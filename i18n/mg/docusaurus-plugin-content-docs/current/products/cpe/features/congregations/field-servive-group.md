@@ -4,37 +4,37 @@ sidebar_position: 1
 
 # Andiam-pitory
 
-In this section, you can manage the congregation field sevice groups. You can create multiple lists at the same time to find which one is the best to divide all the publishers. Then, you can set that list as current.
+Afaka mandrindra ny andiam-pitory ao amin’ny fiangonana ianao ao amin’ity fizarana ity. Afaka manamboatra lisitra maromaro indray miaraka ianao mba hahalalana hoe ahoana no mety indrindra mba hitsinjarana an’ireo mpitory rehetra. Afaka misafidy ianao avy eo iza no lisitra ampiasaina.
 
-## Create a new list
+## Hamorona lisitra vaovao
 
-To create a new list for the field service groups, click the **Create** button.
+Tsindrio ilay sary hoe **Hamorona**, raha hamorona lisitra vaovao.
 
-## Make a list as current
+## Hisafidy ny lisitra ampiasaina
 
-To set a list as your current field service groups list, choose the list and click the **Set As Curent** button.
+Safidio ilay lisitra dia tsindrio ilay hoe **Ampiasaina izao**, raha hisafidy ny lisitry ny andiam-pitory tiana hampiasaina.
 
-## Delete a list
+## Hamafa lisitra
 
-To delete a new list from the field service groups list, choose the list and click the **Delete** button.
+Safidio ilay lisitra dia tsindrio ilay hoe **Hamafa**, raha hamafa lisitrana andiam-pitory.
 
 :::info
 
-Your current list is prevented from to be deleted.
+Tsy azo fafana ny lisitrina andiam-pitory ampiasainao amin’izao.
 
 :::
 
-## Manage field service groups
+## Handrindra ny mpitory ao amin’ny andiany
 
-In a list, you create, edit and delete a field service group.
+Afaka mamorona, manova ary mamafa andiam-pitory ianao amin’ny lisitra.
 
-- To add a group, click the _Plus_ icon.
-- To delete a group, click the _Delete_ icon in that group card.
-- To change the order of groups (you want to move it forward or backward), click the _Forward_ icon or the _Backward_ icon in that group card.
-- To add person to a group, find their name inside that group and click the _Plus_ icon.
-- To remove a persom from a group, find their name from the list. Click the three dots menu, and choose **Remove from this group**.
-- To move a person to another group, find their name from the list. Click the three dots menu, and choose **Move to group xx**, according to which group you want to move that person.
-- To make a person as the group overseer, find their name from the list. Click the three dots menu, and choose **Make as Overseer**.
-- To make a person as the group assistant, find their name from the list. Click the three dots menu, and choose **Make as Assistant**.
-- To remove a person as the group overseer, find their name from the list. Click the three dots menu, and choose **Remove as Overseer**.
-- To remove a person as the group assistant, find their name from the list. Click the three dots menu, and choose **Remove as Assistant**.
+- Tsindrio ilay sary _Plus_ raha hanampy andiam-pitory vaovao.
+- Tsindrio ilay sary _Hamafa_ eo amin’ilay andiam-pitory raha hamafa azy io.
+- Tsindrio ilay sary hoe _Alefa eo aloha_ na _Alefa ao aoriana_ eo amin’ilay andiam-pitory, raha tianao amboarina ny filaharan’izy ireo (ohatra eo alefa eo aloha na alefa ao aoriana).
+- Raha hanampy mpitory ao amin’ny andiany, dia tadiavo ao amin’ilay andiany ny anarana dia tsindrio ilay sary _Plus_.
+- Raha hanala mpitory ao amin’ny andiany, dia tadiavo amin’ilay andiam-pitory aloha ny anarany. Tsindrio avy eo ilay teboka telo eo ankavanana, dia safido ilay hoe **Esorina.**
+- Raha hamindra mpitory any amin’ny andiany hafa, dia tadiavo amin’ilay andiam-pitory misy azy aloha ny anarany. Tsindrio avy eo ilay teboka telo eo ankavanana, dia safidio ilay hoe **Afindra Andiam-pitory xx**, arakaraka ny andiam-pitory vaovao tianao hamindrana ilay mpitory.
+- Raha hanendry mpiandraikitra ny andiam-pitory, dia tadiavo amin’ilay andiam-pitory misy azy aloha ny anarany. Tsindrio avy eo ilay teboka telo eo ankavanana, dia safido ilay hoe **Atao Mpiandraikitra.**
+- Raha hanendry mpanampy ny mpiandraikitra ny andiam-pitory, dia tadiavo amin’ilay andiam-pitory misy azy aloha ny anarany. Tsindrio avy eo ilay teboka telo eo ankavanana, dia safido ilay hoe **Atao Mpanampy.**
+- Raha hanala ny mpiandraikitra ny andiam-pitory, dia tadiavo amin’ilay andiam-pitory aloha ny anarany. Tsindrio avy eo ilay teboka telo eo ankavanana, dia safido ilay hoe **Esorina tsy ho Mpiandraikitra.**
+- Raha hanala ny mpanampy ny mpiandraikitra ny andiam-pitory, dia tadiavo amin’ilay andiam-pitory misy azy aloha ny anarany. Tsindrio avy eo ilay teboka telo eo ankavanana, dia safido ilay hoe **Esorina tsy ho Mpanampy.**

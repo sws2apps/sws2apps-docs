@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Afaka mijery, manova ary mamafa ny lisitry ny mpianatra Baibolinao ianao ato amin’ity fizarana ity.
 
-![My Bible Studies](./cpe_my_bible_studies_mg_1.png)
+![Fampianarana Baiboliko](./cpe_my_bible_studies_1.png)
 
 :::info
 
@@ -29,4 +29,4 @@ Mila an’ity firaketana momba ny mpianatra Baiboly ity ianao rehefa [hampiditra
 
 - Jereo eo amin’ilay lisitra ilay mpianatra tianao fafana, dia tsindrio avy eo ilay hoe **Hamafa.**
 - Raha toa ka tsy ampiasaina intsony any amin’ny tatitra momba ny fanompoanao ilay olona, dia ho voafafa ny firaketana momba azy ary hiala tsy ho eo amin’ilay lisitra intsony izy.
-- Raha mbola hita any amin’ny tatitrao kosa ny anarany, dia hisy marika hoe ***Tsy ampiasaina intsony*** izy eo amin’ilay lisitra. Azonao andramana fafana indray izy any aoriana.
+- Raha mbola hita any amin’ny tatitrao kosa ny anarany, dia hisy marika hoe **_Tsy ampiasaina intsony_** izy eo amin’ilay lisitra. Azonao andramana fafana indray izy any aoriana.

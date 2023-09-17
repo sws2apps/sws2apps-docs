@@ -4,26 +4,26 @@ sidebar_position: 2
 
 # Haka Any Amin’ny JW.ORG
 
-This is the recommended method to add source materials, when you are using CPE in a device with an internet connection. Open CPE, and click **Import from JW.ORG** under the Source Material card.
+Raha mampiasa CPE amin’ny fitaovana afaka hanaovana internet ianao, dia ity no ampirisihinay ampiasaina mba hampidirina an’ireo loharanon-kevitra. Sokafy avy ny CPE, dia tsindrio ilay hoe **Haka Any Amin’ny JW.ORG**, eo ambanin’ilay karatra hoe Loharanon-kevitra.
 
-![JW.ORG Import](./import_jw_org.png)
+![Haka JW.ORG](./import_jw_org.png)
 
-## Import current source materials
+## Hampiditra ny loharanon-kevitra ampiasaina amin’izao
 
-If you want to import the current source materials, which is the current and future Meeting Workbook issues, simply click OK.
+Tsindrio ny OK, raha hampiditra ny loharanon-kevitra ampiasaina amin’izao ihany ianao. Ny loharanon-kevitra ao amin’ny Tari-dalana ampiasaina amin’izao sy amin’ny ho avy izany.
 
 :::caution
 
-Make sure that the option **Check this option if you want to download old source materials** is always unchecked.
+Ataovy azo antoka hoe tsy misy marika eo amin’ilay hoe **Asio marika eto raha te haka ireo loharanon-kevitra taloha ianao.**
 
 :::
 
-## Import oldest source materials
+## Hampiditra loharanon-kevitra taloha
 
-If you want to import an oldest Meeting Workbook issue, check the option **Check this option if you want to download old source materials**. Then, choose which issue you would like to import, and click OK.
+Raha hampiditra ny loharanon-kevitra avy amin’ny Tari-dalana taloha ianao, dia asio marika ilay hoe **Asio marika eto raha te haka ireo loharanon-kevitra taloha ianao.** Safidio avy eo hoe ny volana inona no tianao hampidirina, dia tsindrio ny OK.
 
-![JW.ORG Import Old Issue](./import_jw_org_old.png)
+![Haka JW.ORG Volana Taloha](./import_jw_org_old.png)
 
-CPE will download and import the source materials from jw.org. A confirmation message will appear when the import is completed. Click OK to complete.
+Haka an’ireo loharanon-kevitra any amin’ny jw.org ny CPE. Hisy hafatra hiseho avy eo hanamafy fa vita ny fampidirana ny loharanon-kevitra. Tsindrio ny OK.
 
-![JW.ORG Import Complete](./import_jw_org_complete.png)
+![Vita ny Fakana JW.ORG](./import_jw_org_complete.png)
