@@ -32,7 +32,8 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 
   Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
-  :::
+
+:::
 
 ### Lafiny Ara-panahy
 
@@ -46,7 +47,8 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 
   Ataovy azo antoka hoe marina tsara io daty io, indrindra raha vao voalohany ianao no mampiasa CPE, na hoe nifindra fiangonana ao aminareo ilay olona. Raha tsy izany mantsy dia mety ho voasokajy ho anisan’ny mpitory tapatapaka ilay olona.
 
-  :::
+
+:::
 
 - **Lafiny Ara-panahy:** lafiny ara-panahin’ilay olona. Tafiditra amin’izany ny hoe **Mpitory, Mpikarakara Fiangonana** ary **Anti-panahy** ve izy.
 
@@ -56,7 +58,8 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 
   Raha miova ny lafiny ara-panahin’ilay olona, dia asio daty nifaranana ny nisy azy teo aloha, ary ampidiro ny lafiny ara-panahy vaovao ka ataovy marina tsara ny daty nanombohany.
 
-  :::
+
+:::
 
 - **Tombontsoam-panompoana hafa:** tombontsoam-panompoana hafa ananan’ilay olona. Tafiditra amin’izany ny hoe **Mpisava Lalana Mpanampy, Mpisava Lalana Maharitra** ary **Mpisava Lalana Manokana** ve izy.
 
