@@ -1,3 +1,6 @@
+'pull_request_title': 'chore(localize): updated translation from Crowdin'
+'pull_request_labels': ['crowdin']
+
 preserve_hierarchy: 1
 files:
   - source: /i18n/en/**/*
