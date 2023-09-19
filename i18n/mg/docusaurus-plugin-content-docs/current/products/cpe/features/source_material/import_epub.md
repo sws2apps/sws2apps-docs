@@ -8,10 +8,9 @@ Raha mampiasa CPE amin’ny fitaovana tsy azo hanaovana internet ianao, dia ity 
 
 - Mampiasa fitaovana hafa misy internet, dia midira ao amin’ny jw.org ary alaivo ny EPUB.
 
-  :::caution
+:::caution
 
-  Azo amboarina ny anaran’ilay rakitra EPUB nalainao.
-
+Aza amboarina ny anaran’ilay rakitra EPUB nalainao.
 
 :::
 
@@ -19,4 +18,4 @@ Raha mampiasa CPE amin’ny fitaovana tsy azo hanaovana internet ianao, dia ity 
 
 - Hisy hafatra hiseho avy eo hanamafy fa vita ny fampidirana ny loharanon-kevitra. Tsindrio ny OK.
 
-  ![Vita ny Fampidirana avy Amin’ny EPUB](./import_epub_complete.png)
+  ![EPUB Import Complete](./import_epub_complete.png)
