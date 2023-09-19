@@ -34,12 +34,12 @@ jobs:
       - name: Install package dependencies
         run: npm ci
 
-      - name: Run Semantic Release to version and build App
-        run: npx semantic-release
+      - name: Build docs
+        run: npm run build
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Check if new version has been generated
+      - name: Check if build is successfull
         id: check_build
         uses: andstor/file-existence-action@20b4d2e596410855db8f9ca21e96fbe18e12930b
         with:
