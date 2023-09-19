@@ -20,7 +20,7 @@ Izao hatao raha mila ovana ny anjara ao amin’ny Fiainantsika Kristianina:
 
 - Sokafy ilay fizarana hoe FIVORIANA ANDAVANANDRO.
 
-- Jereo ilay anjara mia ovana, eo ambanin’ilay hoe Ny Fiainantsika Kristianina, ary asio marika ilay hoe **Soloana.**
+- Jereo ilay anjara mila ovana, eo ambanin’ilay hoe Ny Fiainantsika Kristianina, ary asio marika ilay hoe **Soloana.**
 
   ![Source Material Override](./cpe_source_material_override.png)
 
