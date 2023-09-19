@@ -2,18 +2,18 @@
 sidebar_position: 3
 ---
 
-# Add New Week
+# Hanampy Herinandro Vaovao
 
 :::tip
 
-We do not recommend using this feature. The reason: it will take too much time for you to enter all the meeting data from the Meeting Workbook and Watchtower Study for each week.
+Tsy mampirisika ny hampiasana an’ity izahay. Hitaky fotoana betsaka kokoa aminao mantsy ny hampiditra an’ireo fanazavana avy amin’ny Tari-dalana Ho An’ny Fivoriana sy Ny Tilikambo Fiambenana ho an’ny herinandro tsirairay.
 
 :::
 
-If you want to add week to the source material, and you cannot connect to the internet or import an EPUB file, do the following:
+Izao hatao raha tsy afaka mampiasa internet na tsy afaka mampiasa rakitra EPUB ianao:
 
-- Click **Add New Week** under the Source Material card.
+- Tsindrio ilay hoe **Hanampy Herinandro Vaovao** eo ambanin’ilay hoe Loharanon-kevitra.
 
   ![Source Material Manual Add](./cpe_source_material_manual_add.png)
 
-- Click YES.
+- Tsindrio ny ENY.
