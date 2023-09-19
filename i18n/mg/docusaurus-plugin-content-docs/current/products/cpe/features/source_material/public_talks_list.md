@@ -2,30 +2,30 @@
 sidebar_position: 2
 ---
 
-# Public Talks List
+# Lahateny ho An’ny Besinimaro
 
 ![Public Talks](./cpe_public_talks_list.png)
 
-## Download
+## Haka ny lisitra
 
-- Click the **DOWNLOAD** button on the top of the page to add all public talks to your record.
+- Tsindrio ilay hoe **HAKA** eo amin’ny farany ambony indrindra amin’ilay pejy raha hampiditra ny lisitry ny lahateny ho an’ny besinimaro rehetra ao amin’ny firaketana.
 
-## Edit talk
+## Hanova lahateny
 
-- Find the talk you want to edit, and click the _Pencil_ icon.
+- Jereo eo amin’ilay lisitra ilay lahateny tianao ovana, dia tsindrio avy eo ilay sary _Pensilihazo._
 
   ![Public Talk Edit](./cpe_public_talk_edit.png)
 
-- Adjust the title, and click the _Verify_ icon to save your change.
+- Ampidiro ny lohateny vaovao, dia tsindrio avy eo ilay sary _Hanamarina_ mba hitehirizana ny fanovana nataonao.
 
   ![Public Talk Save](./cpe_public_talk_save.png)
 
-  The date where the talk title was last modified is displayed below.
+  Hiseho eo ambany ny daty nanaovana ny fanovana farany ny lohatenin’ilay lahateny.
 
-## Upload
+## Handefa ny lisitra
 
 :::info
 
-We plan to allow selected users to upload their modified public talks list to be used by other users.
+Ho afaka hizara ny lisitra nasiana fanovana mba ho ampiasain’ny olon-kafa ny sasantsany amin’ireo mampiasa CPE ao aoriana kely.
 
 :::
