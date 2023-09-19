@@ -28,11 +28,11 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
 - **Address:**: address of the person
 - **Phone number:** phone number(s) of the person
 
-  :::caution
+:::caution
 
-  Some of these informations can only be edit by the Congregation Secretary.
+Some of these informations can only be edit by the Congregation Secretary.
 
-  :::
+:::
 
 ### Spiritual Status
 
@@ -42,21 +42,21 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
 - Choose whether the person is **baptized** or not. If yes, enter the **Date immersed**. The **Years** since the person was baptized will be auto calculated.
 - **First report:** This is the month where field service report is first collected for this person.
 
-  :::danger
+:::danger
 
-  Make sure that this date is correct, especially the first time you use CPE, or when person move to your congregation. Otherwise, you will have falsy report where the person will be counted as an inactive publisher.
+Make sure that this date is correct, especially the first time you use CPE, or when person move to your congregation. Otherwise, you will have falsy report where the person will be counted as an inactive publisher.
 
-  :::
+:::
 
 - **Spiritual Status:** person’s spiritual status history. This includes when the person is a **Publisher, Ministerial Servant** and **Elder**.
 
   ![Person Spiritual Status](./person_spiritual_status.png)
 
-  :::caution
+:::caution
 
-  When a person’s status is changed, add an end date to the previous active status, and add the new status with the correct start date.
+When a person’s status is changed, add an end date to the previous active status, and add the new status with the correct start date.
 
-  :::
+:::
 
 - **Other form of services:** person’s other form of service history. This includes when the person is an **Auxiliary Pioneer, Regular Pioneer** and **Special Pioneer**.
 
