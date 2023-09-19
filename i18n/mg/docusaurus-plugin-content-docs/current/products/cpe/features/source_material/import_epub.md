@@ -15,8 +15,8 @@ Raha mampiasa CPE amin’ny fitaovana tsy azo hanaovana internet ianao, dia ity 
 
 :::
 
-- Open CPE, and click **Import from EPUB file** under the Source Material card. Locate the EPUB file you downloaded from jw.org.
+- Sokafy avy ny CPE, dia tsindrio ilay hoe **Hampiditra avy Amin’ny EPUB,** eo ambanin’ilay karatra hoe Loharanon-kevitra. Safidio avy eo ilay rakitra EPUB nalainao avy any amin’ny jw.org.
 
-- A confirmation message will appear when the import is completed. Click OK to complete.
+- Hisy hafatra hiseho avy eo hanamafy fa vita ny fampidirana ny loharanon-kevitra. Tsindrio ny OK.
 
   ![Vita ny Fampidirana avy Amin’ny EPUB](./import_epub_complete.png)
