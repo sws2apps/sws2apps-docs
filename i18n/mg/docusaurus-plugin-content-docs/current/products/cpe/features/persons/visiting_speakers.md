@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Visiting Speakers
+# Mpandahan-teny Mpitsidika
 
 Open the Visiting Speakers from the Dashboard page. This is where you manage your congregation visiting speakers and the incoming speakers from other congregations.
 
