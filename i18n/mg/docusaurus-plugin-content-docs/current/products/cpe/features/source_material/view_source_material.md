@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Hanova loharanon-kevitra ho an’ny herinandro
 
-- Click the _Pencil_ icon next to week date you want to edit. The following page will open:
+- Tsindrio ilay sary _Pensilihazo_ eo akaikin’ilay herinandro tianao ovana. Hisokatra ity pejy ity avy eo:
 
   ![Source Material Edit](./cpe_source_material_edit.png)
 
@@ -26,7 +26,7 @@ Izao hatao raha mila ovana ny anjara ao amin’ny Fiainantsika Kristianina:
 
   Nasiana marika hoe **Soloana** koa ilay anjara faharoa eo amin’ny ohatra eo ambony io satria nofoanana ilay izy.
 
-- Adjust the timing of others parts. The total timings should be 45 min.
+- Amboary ny fotoana hanaovana ny anjara sasany. Tsy tokony hihoatra ny 45 min ny fitambarany.
 
   ![Source Material LC Timings](./cpe_source_material_lc_timings.png)
 
