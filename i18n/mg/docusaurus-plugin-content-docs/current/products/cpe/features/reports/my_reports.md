@@ -16,7 +16,7 @@ Rehefa hampiditra tatitra, dia safidio alohan ny taom-panompoana sy ny volana ti
 
 - Misafidiana **Daty.**
 
-- Ampidiro avy eo ny tatitrao. Tonga dia voatahiry avy hatrany izay tarehimarika ampidirinao.
+- Enter each item accordingly. All the changes you made are automatically saved.
 
   ![Fampidirana Tatitra S4 Isan’andro](./cpe_my_reports_1.png)
 
@@ -24,11 +24,11 @@ Rehefa hampiditra tatitra, dia safidio alohan ny taom-panompoana sy ny volana ti
 
 ### Fanisana Ora - CPE
 
-Afaka ampiasaina mba hanisana ny ora nanaovana ny fanompoana koa ny CPE. Tsindrio ilay sary **_Handefa_** kely, mba handefasana an’ilay fanisana ora. Tsindrio ilay sary **_Hampiato_** kely, raha te hampiato an’ilay fanisana ora ianao. Azonao averina alefa indray ilay izy avy eo raha ilaina. Tsindrio ilay sary **_Hajanona_** kely, raha hanajanona an’ilay fanisana ora.
+CPE can be used as a stopwatch to record the time you spent in the field ministry. To start the timer, click the **_Start_** icon. To pause, click the **_Pause_** icon. You can resume it later if needed. And to stop the timer, click the **_Stop_** icon.
 
 ### Fampianarana Baiboly
 
-Ny lisitra avy any amin’ny [firaketana momba ny mpianatra Baibolinao](./my_bible_studies) no ampiasaina eto. Raha tsy misy anarana miseho eto, dia ataovy azo antoka hoe manana firaketana momba ny mpianatra Baiboly mbola ampiasaina ianao.
+This entry will use your [Bible Study records](./my_bible_studies). If no record appears, please make sure you have active Bible Studies records.
 
 ### Hamafa tatitra
 
@@ -49,7 +49,7 @@ Raha hamafa ny firaketana ny tatitra momba ny fanompoana ho an’ny andro ananki
 
 :::info
 
-Tsy ho afaka hanova ny tatitra momba ny fanompoanao mandritra ny volana intsony ianao rehefa lasa any amin’ny Mpitan-tsoratra ny tatitra S-4. Raha misy fanovana mila atao, dia mila marihinao hoe tsy lasa indray aloha ilay tatitra.
+It will no longer be possible to edit the daily record when the S-4 report is submitted. If changes are necessary, undo the submission.
 
 :::
 
