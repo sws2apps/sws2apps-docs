@@ -4,69 +4,69 @@ sidebar_position: 5
 
 # Mpandahan-teny Mpitsidika
 
-Open the Visiting Speakers from the Dashboard page. This is where you manage your congregation visiting speakers and the incoming speakers from other congregations.
+Sokafy ilay pejy hoe Mpandahan-teny Mpitsidika. Ao no handrindrana an’ireo mpandahan-teny mpitsidika avy ao amin’ny fiangonana misy anareo, sy ireo mpandahan-teny avy any amin’ny fiangonana hafa.
 
-## Manage congregation visiting speakers list
+## Handrindra ny mpandahan-teny mpitsidika ao amin’ny fiangonana
 
 ![Outgoing Speakers](./cpe_outgoing_speakers.png)
 
-### Appoint new speaker
+### Hanendry mpandahan-teny
 
-- Find the speaker record from the dropdown list and click the _Plus_ icon.
+- Karohy eo amin’ilay lisitra ny anaran’ilay mpandahan-teny, dia tsindrio avy eo ilay sary _Plus._
 
   ![Outgoing Speaker Add](./cpe_outgoing_speaker_add.png)
 
-### Edit speaker talks
+### Hanamboatra ny lahateny ataon’ny mpandahan-teny
 
-- Find the speaker from the list, and add or remove talks he has prepared to be delivered in another congregations.
+- Jereo eo amin’ilay lisitra ny anaran’ilay mpandahan-teny, dia ampidiro na anesory ny lahateny efa nomaniny ka afaka ataony amin’ny fiangonana hafa.
 
   ![Outgoing Speaker Talks](./cpe_outgoing_speaker_talks.png)
 
-### Remove speaker
+### Hanala mpandahan-teny
 
-- Find the speaker from the list, and click the _Delete_ icon.
+- Jereo eo amin’ilay lisitra ny anaran’ilay mpandahan-teny, dia tsindrio avy eo ilay sary _Hamafa._
 
   ![Outgoing Speaker Delete](./cpe_outgoing_speaker_delete.png)
 
-### View and edit congregations having access to speakers list
+### Handrindra an’ireo fiangonana afaka mijery ny lisitry ny mpandahan-teny mpitsidika
 
-- Click the _Key_ icon next to your congregation name to open the access editor.
+- Tsindrio ilay sary _lakile_ eo akaikin’ny anaran’ny fiangonana misy anareo raha hanokatra ny fandrindrana ny alalana hijery mpandahan-teny mpitsidika.
 
   ![Outgoing Speakers Access](./cpe_outgoing_speakers_access.png)
 
-- To remove a congregation from the list, click the **x** icon next to its name.
+- Tsindrio ilay **x** eo akaikin’ny anaran’ilay fiangonana raha tsy omena alalana hahita ny lisitry ny mpandahan-teny intsony ilay fiangonana.
 
   ![Outgoing Speakers Access](./cpe_outgoing_speakers_access_alt.png)
 
-- Click the _Key_ icon again to close the access editor.
+- Tsindrio indray ilay sary _lakile_ raha hanakatona ny fandrindrana ny alalana hijery mpandahan-teny mpitsidika.
 
-### Share the speakers list
+### Hizara ny lisitry ny mpandahan-teny mpitsidika
 
-- Click the _Share_ icon next to your congregation name to share the speakers list. The list will be encrypted and saved on the cloud to be fetched by other congregations using CPE.
+- Tsindrio ilay _Hizara_ eo akaikin’ny anaran’ny fiangonana misy anareo raha hizara ny lisitry ny mpandahan-teny mpitsidika. Ho voaro sy voatahiry amin’ny toerana azo antoka any amin’ny internet avy eo ilay lisitra mba ho azon’ireo fiangonana mampiasa CPE alaina.
 
   ![Outgoing Speakers Share](./cpe_outgoing_speakers_share.png)
 
-### Handle incoming speakers access requests
+### Fikarakarana ny fangatahana hijery ny lisitry ny mpandahan-teny mpitsidika
 
-- When another congregation requests access to view your visiting speakers list, the following notification will appear:
+- Hisy hafatra toy izao hipoitra rehefa misy fiangonana hafa mangataka ny hijery ny lisitry ny mpandahan-teny mpitsidika ao aminareo:
 
   ![Outgoing Speakers Request](./cpe_outgoing_speakers_access_request.png)
 
-- Choose whether to accept or reject the request.
+- Afaka manaiky na mandà an’ilay fangatahana ianao.
 
-## Manage visiting speakers from other congregations
+## Handrindra ny mpandahan-teny mpitsidika avy any amin’ny fiangonana hafa
 
-### Congregation using CPE
+### Fiangonana mampiasa CPE
 
-#### Add congregation
+#### Hanampy fiangonana
 
-- Click the **ADD CONGREGATION** button.
+- Tsindrio ilay hoe **HANAMPY FIANGONANA.**
 
-- Search and choose the congregation you want to add.
+- Karohy sy safidio avy eo ilay fiangonana tianao ampidirina.
 
   ![Incoming Speakers Find Congregation](./cpe_incoming_speakers_find_cpe_cong.png)
 
-- Click **SAVE** to complete.
+- Tsindrio ny **HITAHIRY.**
 
 - The newly added congregation will be added to the list with an _orange_ icon. This means that it is waiting for an approval from the requested congregation. You will not be able to download and see the speakers list until the request is approved.
 
@@ -98,15 +98,15 @@ Open the Visiting Speakers from the Dashboard page. This is where you manage you
 
 ### Adding congregation manually
 
-#### Add congregation
+#### Hanampy fiangonana
 
-- Click the **ADD CONGREGATION** button.
+- Tsindrio ilay hoe **HANAMPY FIANGONANA.**
 
 - Enter the congregation name and number.
 
   ![Incoming Speakers Add Congregation](./cpe_incoming_speakers_add_cong.png)
 
-- Click **SAVE** to complete.
+- Tsindrio ny **HITAHIRY.**
 
 - The newly added congregation will be added to the list with a _blue_ icon.
 
