@@ -6,7 +6,7 @@ sidebar_position: 3
 
 :::tip
 
-Tsy mampirisika ny hampiasana an’ity izahay. Hitaky fotoana betsaka kokoa aminao mantsy ny hampiditra an’ireo fanazavana avy amin’ny Tari-dalana Ho An’ny Fivoriana sy Ny Tilikambo Fiambenana ho an’ny herinandro tsirairay.
+We do not recommend using this feature. The reason: it will take too much time for you to enter all the meeting data from the Meeting Workbook and Watchtower Study for each week.
 
 :::
 
