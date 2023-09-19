@@ -26,85 +26,82 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 - **Taona:** taonan’ilay olona amin’izao. Feno ho azy izy io, ary tsy azo ovaina.
 - **Adiresy email:** adiresy emai ampiasain’ilay olona
 - **Adiresy:** adiresin’ilay olona
-- **Telefaonina:** nomerao telefaonin’ilay olona
+- **Phone number:** phone number(s) of the person
 
-  :::caution
+:::caution
 
-  Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
-
+Some of these informations can only be edit by the Congregation Secretary.
 
 :::
 
 ### Lafiny Ara-panahy
 
-![Lafiny Ara-panahy Rehetra](./person_spiritual_status_main.png)
+![Person Spiritual Status Main](./person_spiritual_status_main.png)
 
 - Safidio hoe **voahosotra** ve ilay olona sa **ondry hafa.**
 - Safidio hoe **vita batisa** ve ilay olona sa tsia. Raha eny, dia ampidiro ny **Datin’ny batisa.** Ho feno ho azy avy eo ny **Taona** efa nahavita batisa an’ilay olona.
-- **Tatitra voalohany:** Ity ny volana voalohany nanangonana ny tatitra ho an’io olona io.
+- **First report:** This is the month where field service report is first collected for this person.
 
-  :::danger
+:::danger
 
-  Ataovy azo antoka hoe marina tsara io daty io, indrindra raha vao voalohany ianao no mampiasa CPE, na hoe nifindra fiangonana ao aminareo ilay olona. Raha tsy izany mantsy dia mety ho voasokajy ho anisan’ny mpitory tapatapaka ilay olona.
-
-
-:::
-
-- **Lafiny Ara-panahy:** lafiny ara-panahin’ilay olona. Tafiditra amin’izany ny hoe **Mpitory, Mpikarakara Fiangonana** ary **Anti-panahy** ve izy.
-
-  ![Lafiny Ara-panahy](./person_spiritual_status.png)
-
-  :::caution
-
-  Raha miova ny lafiny ara-panahin’ilay olona, dia asio daty nifaranana ny nisy azy teo aloha, ary ampidiro ny lafiny ara-panahy vaovao ka ataovy marina tsara ny daty nanombohany.
-
+Make sure that this date is correct, especially the first time you use CPE, or when person move to your congregation. Otherwise, you will have falsy report where the person will be counted as an inactive publisher.
 
 :::
 
-- **Tombontsoam-panompoana hafa:** tombontsoam-panompoana hafa ananan’ilay olona. Tafiditra amin’izany ny hoe **Mpisava Lalana Mpanampy, Mpisava Lalana Maharitra** ary **Mpisava Lalana Manokana** ve izy.
+- **Spiritual Status:** person’s spiritual status history. This includes when the person is a **Publisher, Ministerial Servant** and **Elder**.
+
+  ![Person Spiritual Status](./person_spiritual_status.png)
 
 :::caution
 
-Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
+When a person’s status is changed, add an end date to the previous active status, and add the new status with the correct start date.
+
+:::
+
+- **Other form of services:** person’s other form of service history. This includes when the person is an **Auxiliary Pioneer, Regular Pioneer** and **Special Pioneer**.
+
+:::caution
+
+All these informations can only be edit by the Congregation Secretary.
 
 :::
 
 ### Anjara azony atao
 
-![Anjara azo atao](./person_assignments.png)
+![Person Assignments](./person_assignments.png)
 
-Eto amin’ity fizarana ity no ahitana ny anjara rehetra azon’ilay atao amin’ny fivoriana. Ny fanendrena amin’ny fivoriana andavanandro ihany aloha izao no miseho eto.
+This section is for all meeting assignments for the person. Currently, it only contains midweek meeting assignments.
 
 :::caution
 
-Ny Mpiandraikitra ny Fivoriana Momba ny Fiainantsika sy ny Fanompoana na ny mpanampy azy ihany aloha izao no afaka manova an’ireo fanamboarana ireo.
+Currently, these informations can only be edit by the Life and Ministry Meeting Overseer or his assistant.
 
 :::
 
 ### Anjara efa nataony
 
-![Anjara efa natao](./person_assignments_history.png)
+![Person Assignments History](./person_assignments_history.png)
 
-Hita eto amin’ity fizarana ity ny anjara rehetra efa nataon’ilay olona. Natao _hojerena fotsiny_ ny fanazavana miseho eto.
+This section contains all the meeting assignments this person had. It is a _read only_ information.
 
 ### Fotoana tsy maha eo
 
-![Fotoana tsy maha eo](./person_time_away.png)
+![Person Time Away](./person_time_away.png)
 
-Hita eto amin’ity fizarana ity ny fotoana rehetra tsy maha eo an’ilay olona ka tsy ho afaka omena anjara amin’ny fivoriana izy.
+This section contains all the dates when the person will not be available for any meeting assignments.
 
 ## Hitahiry ny fanovana ataonao
 
-Tsindrio ilay hoe **Hitahiry** eo ambony indrindra amin’ilay pejy, raha hitahiry ny fanovana nataonao tamin’ny olona anankiray.
+To save the changes you made for the person, click the **Save** button on the top of the page.
 
 ## Marihina hoe nifindra fiangonana
 
-Raha nifindra fiangonana ny olona iray, dia tsindrio ilay hoe **Nifindra Fiangonana** eo ambony indrindra amin’ilay pejy. Tsy hiseho intsony eo amin’ny lisitry ny Olona ao Amin’ny Fiangonana izy aorian’izay.
+If a person is moved to another congregation, , click the **Mark Move** button on the top of the person details page. This will remove the person from the Congregation Persons list.
 
 ## Marihina hoe tsy mahafeno fepetra
 
-Raha tsy mahafeno fepetra intsony ny olona iray, dia tsindrio ilay hoe **Tsy Mahafeno Fepetra** eo ambony indrindra amin’ilay pejy. Tsy hahazo anjara amin’ny fivoriana intsony ilay olona aorian’izay.
+If a person is disqualified, click the **Mark Disqualified** button on the top of the person details page. The person will no longer be able to receive any meeting assignments.
 
 ## Marihina hoe omena anjara
 
-Raha mahafeno fepetra handray anjara amin’ny fivoriana indray ny olona iray, dia tsindrio ilay hoe **Omena Anjara** eo ambony indrindra amin’ilay pejy.
+If a person is qualified again for meeting assignments, click the **Mark Enabled** button on the top of the person details page.
