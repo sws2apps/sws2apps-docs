@@ -21,7 +21,7 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 
 - **Anarana:** anaran’ilay olona
 - **Fanafohezana:** fanafohezana ny anaran’ilay olona. Feno ho azy izy io, nefa azonao soloana izay misoratra eo. Hiseho any amin’ny fandaharam-pivoriana ho atao printy ity fanafohezana anarana ity, arakaraka ny fanamboarana nosafidiana ho an’ny fiangonanareo.
-- Safidio hoe **Lahy** sa **Vavy** ilay olona
+- Safidio hoe **Lahy** sa <0>Vavy</0> ilay olona
 - **Daty nahaterahana:** daty nahaterahan’ilay olona
 - **Taona:** taonan’ilay olona amin’izao. Feno ho azy izy io, ary tsy azo ovaina.
 - **Adiresy email:** adiresy emai ampiasain’ilay olona
