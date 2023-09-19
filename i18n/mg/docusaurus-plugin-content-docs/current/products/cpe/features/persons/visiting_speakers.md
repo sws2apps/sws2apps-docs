@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Mpandahan-teny Mpitsidika
 
-Open the Visiting Speakers from the Dashboard page. This is where you manage your congregation visiting speakers and the incoming speakers from other congregations.
+Sokafy ilay pejy hoe Mpandahan-teny Mpitsidika. Ao no handrindrana an’ireo mpandahan-teny mpitsidika avy ao amin’ny fiangonana misy anareo, sy ireo mpandahan-teny avy any amin’ny fiangonana hafa.
 
 ## Handrindra ny mpandahan-teny mpitsidika ao amin’ny fiangonana
 
@@ -42,7 +42,7 @@ Open the Visiting Speakers from the Dashboard page. This is where you manage you
 
 ### Hizara ny lisitry ny mpandahan-teny mpitsidika
 
-- Click the _Share_ icon next to your congregation name to share the speakers list. The list will be encrypted and saved on the cloud to be fetched by other congregations using CPE.
+- Tsindrio ilay _Hizara_ eo akaikin’ny anaran’ny fiangonana misy anareo raha hizara ny lisitry ny mpandahan-teny mpitsidika. Ho voaro sy voatahiry amin’ny toerana azo antoka any amin’ny internet avy eo ilay lisitra mba ho azon’ireo fiangonana mampiasa CPE alaina.
 
   ![Outgoing Speakers Share](./cpe_outgoing_speakers_share.png)
 
@@ -68,7 +68,7 @@ Open the Visiting Speakers from the Dashboard page. This is where you manage you
 
 - Tsindrio ny **HITAHIRY.**
 
-- The newly added congregation will be added to the list with an _orange_ icon. This means that it is waiting for an approval from the requested congregation. You will not be able to download and see the speakers list until the request is approved.
+- Hipoitra eo amin’ilay lisitra avy eo ilay fiangonana vao avy nampidirina, ary misy loko _volondaoranjy_ miaraka aminy. Io no famantarana fa mbola miandry ny faneken’ilay fiangonana ny fangatahana nalefanao. Tsy ho afaka maka na mahita ny lisitry ny mpandahan-teny ianao raha mbola tsy nekena io fangatahana io.
 
   ![Incoming Speakers Congregation Pending](./cpe_incoming_speakers_cong_pending.png)
 
@@ -92,7 +92,7 @@ Open the Visiting Speakers from the Dashboard page. This is where you manage you
 
     ![Incoming Speakers Download Single](./cpe_incoming_speakers_download_single.png)
 
-- The speakers information will be downloaded and added to your record. Please note that you cannot edit any of these informations. If changes are needed, contact the congregation directly.
+- Ho alain’ny CPE ary ho tafiditra ao amin’ny firaketana avy eo ny lisitra sy ny mombamomba an’ireo mpandahan-teny. Tsy afaka manova an’ireo fanazavana ireo ianao. Ampahafantaro ny fiangonana misy an’ilay mpandahan-teny raha misy fanovana mila atao.
 
   ![Incoming Speakers List](./cpe_incoming_speakers_list_read_only.png)
 
