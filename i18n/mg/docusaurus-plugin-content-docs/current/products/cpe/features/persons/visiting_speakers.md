@@ -68,64 +68,64 @@ Sokafy ilay pejy hoe Mpandahan-teny Mpitsidika. Ao no handrindrana an’ireo mpa
 
 - Tsindrio ny **HITAHIRY.**
 
-- The newly added congregation will be added to the list with an _orange_ icon. This means that it is waiting for an approval from the requested congregation. You will not be able to download and see the speakers list until the request is approved.
+- Hipoitra eo amin’ilay lisitra avy eo ilay fiangonana vao avy nampidirina, ary misy loko _volondaoranjy_ miaraka aminy. Io no famantarana fa mbola miandry ny faneken’ilay fiangonana ny fangatahana nalefanao. Tsy ho afaka maka na mahita ny lisitry ny mpandahan-teny ianao raha mbola tsy nekena io fangatahana io.
 
   ![Incoming Speakers Congregation Pending](./cpe_incoming_speakers_cong_pending.png)
 
-- When your request is approved, the following notification will appear:
+- Hisy hafatra toy izao hipoitra rehefa nanaiky ny fangatahanao ilay fiangonana:
 
   ![Incoming Speakers Request Approved](./cpe_incoming_speakers_request_approved.png)
 
-  And the _orange_ icon will turn _green._
+  Hiova ho loko _maintso_ ilay loko _volondaoranjy_ amin’izay.
 
   ![Incoming Speakers Congregation Approved](./cpe_incoming_speakers_cong_approved.png)
 
-#### Get Speakers List
+#### Haka ny lisitra ny mpandahan-teny
 
-- To get the speakers list from congregations using CPE, you have two options:
+- Misy fomba roa azonao ampiasaina raha haka ny lisitry ny mpandahan-teny mpitsidika avy any amin’ny fiangonana mampiasa CPE ianao:
 
-  - Use the **GET ALL SPEAKERS** to download speakers from all approved congregations in the list.
+  - Ampiasao ilay hoe **HAKA NY MPANDAHAN-TENY REHETRA** raha haka ny lisitry ny mpandahan-teny rehetra avy amin’ireo fiangonana efa nanaiky ny hizara an’izany aminareo.
 
     ![Incoming Speakers Download All](./cpe_incoming_speakers_download_all.png)
 
-  - Use the _Download_ icon next to each congregation to download only its speakers list.
+  - Ampiasao ilay sary _Haka_ eo akaikin’ny anaran’ilay fiangonana raha haka ny lisitry ny mpandahan-teny avy amin’io fiangonana io ihany.
 
     ![Incoming Speakers Download Single](./cpe_incoming_speakers_download_single.png)
 
-- The speakers information will be downloaded and added to your record. Please note that you cannot edit any of these informations. If changes are needed, contact the congregation directly.
+- Ho alain’ny CPE ary ho tafiditra ao amin’ny firaketana avy eo ny lisitra sy ny mombamomba an’ireo mpandahan-teny. Tsy afaka manova an’ireo fanazavana ireo ianao. Ampahafantaro ny fiangonana misy an’ilay mpandahan-teny raha misy fanovana mila atao.
 
   ![Incoming Speakers List](./cpe_incoming_speakers_list_read_only.png)
 
-### Adding congregation manually
+### Fiangonana tsy mampiasa CPE
 
 #### Hanampy fiangonana
 
 - Tsindrio ilay hoe **HANAMPY FIANGONANA.**
 
-- Enter the congregation name and number.
+- Ampidiro ny anaran’ny fiangonana sy nomerao.
 
   ![Incoming Speakers Add Congregation](./cpe_incoming_speakers_add_cong.png)
 
 - Tsindrio ny **HITAHIRY.**
 
-- The newly added congregation will be added to the list with a _blue_ icon.
+- Hipoitra eo amin’ilay lisitra avy eo ilay fiangonana vao avy nampidirina, ary misy loko _manga_ miaraka aminy.
 
   ![Incoming Speakers Congregation Offline](./cpe_incoming_speakers_cong_offline.png)
 
-#### Manage speakers list
+#### Handrindra ny lisitry ny mpandahan-teny
 
-- To add new speaker, fill all the required information and click **ADD**.
+- Raha hampiditra mpandahan-teny vaovao, dia fenoy tsara ny fanazavana rehetra ilaina. Tsindrio avy eo ilay hoe **HANAMPY.**
 
   ![Incoming Speakers Add](./cpe_incoming_speakers_add.png)
 
-- Then add or remove the talks this person can deliver.
+- Amboary avy eo ny lisitry ny lahateny azon’ilay rahalahy atao.
 
   ![Incoming Speakers Talks Edit](./cpe_incoming_speakers_talks_edit.png)
 
-- Click the **DELETE** button to delete a speaker from the visiting speakers list.
+- Tsindrio ilay hoe **HAMAFA** raha ho esorina tsy ho amin’ilay lisitry ny mpandahan-teny ilay rahalahy.
 
-### Delete congregation
+### Hamafa fiangonana
 
-- Click the _Delete_ icon next to the congregation name to delete it from your record.
+- Tsindrio ilay sary _Hamafa_ eo akaikin’ny anaran’ilay fiangonana raha ho esorina tsy ho ao amin’ny firaketana ilay fiangonana.
 
   ![Incoming Speakers Delete Congregation](./cpe_incoming_speakers_delete_cong.png)
