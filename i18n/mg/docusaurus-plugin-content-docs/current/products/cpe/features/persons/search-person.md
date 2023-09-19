@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Hikaroka Olona
 
-You can search for a person using his/her name in the Persons page. Additionally, depending on your role, filters have been added to easily find the records you need.
+Afaka mampiasa ny anaran’ilay olona ianao eo amin’ilay pejy hoe Olona ao Amin’ny Fiangonana mba hitadiavana ny firaketana momba azy. Ankoatra izay, dia misy sivana fanampiny koa azo ampiasaina mba hanaovana an’ilay fikarohana, arakaraka ny andraikitrao.
 
 :::caution
 
