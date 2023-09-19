@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Marika Famantarana
 
-When person records is displayed on the Persons page, badges are added to each person record. They are:
+Misy marika famantarana miseho eo amin’ny anaran’ny olona tsirairay miseho eo amin’ilay pejy hoe Olona ao Amin’ny Fiangonana. Ireto avy izany:
 
 - **A:** Anti-panahy
 - **B:** Vita Batisa
