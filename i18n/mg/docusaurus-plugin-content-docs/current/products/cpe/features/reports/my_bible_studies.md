@@ -29,4 +29,4 @@ Mila an’ity firaketana momba ny mpianatra Baiboly ity ianao rehefa [hampiditra
 
 - Jereo eo amin’ilay lisitra ilay mpianatra tianao fafana, dia tsindrio avy eo ilay hoe **Hamafa.**
 - Raha toa ka tsy ampiasaina intsony any amin’ny tatitra momba ny fanompoanao ilay olona, dia ho voafafa ny firaketana momba azy ary hiala tsy ho eo amin’ilay lisitra intsony izy.
-- Raha mbola hita any amin’ny tatitrao kosa ny anarany, dia hisy marika hoe **_Tsy ampiasaina intsony_** izy eo amin’ilay lisitra. Azonao andramana fafana indray izy any aoriana.
+- If the person is still in use, the record will be marked as **_inactive_**. You can try deleting it later.
