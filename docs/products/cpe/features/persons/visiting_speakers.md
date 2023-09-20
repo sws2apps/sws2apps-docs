@@ -46,6 +46,12 @@ Open the Visiting Speakers from the Dashboard page. This is where you manage you
 
   ![Outgoing Speakers Share](./cpe_outgoing_speakers_share.png)
 
+:::caution
+
+Make sure that the latest changes to your congregation persons records was already backed up on the internet.
+
+:::
+
 ### Handle incoming speakers access requests
 
 - When another congregation requests access to view your visiting speakers list, the following notification will appear:
