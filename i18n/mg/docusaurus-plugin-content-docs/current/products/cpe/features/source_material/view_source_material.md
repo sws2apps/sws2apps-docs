@@ -42,6 +42,24 @@ Izao hatao raha mila ovana ny anjara ao amin’ny Fiainantsika Kristianina:
 
   ![Weekend Meeting PDF](./cpe_weekend_meeting_pdf.png)
 
+### Circuit Overseers Talks
+
+- Make sure that the week **Type** is **Visit of Circuit Overseer.**
+
+- Sokafy ilay fizarana hoe FIVORIANA ANDAVANANDRO.
+
+- Under Living As Christians, enter the title of the circuit overseer service talk for the midweek meeting. Enter the concluding song also if it is provided.
+
+  ![Midweek Meeting CO Visit](./cpe_midweek_meeting_co_visit.png)
+
+- Sokafy ilay fizarana hoe FIVORIANA FARAN’NY HERINANDRO.
+
+- Enter the title of the circuit overseer public talk for the weekend meeting.
+
+  ![Weekend Meeting CO Visit](./cpe_weekend_meeting_co_visit.png)
+
+- Don’t forget to click the _Save_ icon to save your changes.
+
 ## Hamafa herinandro
 
 - Tsindrio ilay sary _Hamafa_ eo akaikin’ilay herinandro raha tianao hofafana ao amin’ny loharanon-kevitra ilay izy.
