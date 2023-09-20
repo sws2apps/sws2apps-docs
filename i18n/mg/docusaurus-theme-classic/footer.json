@@ -11,10 +11,6 @@
     "message": "Fifanoratana | GitHub",
     "description": "The label of footer link with label=GitHub Discussions linking to https://github.com/sws2apps/discussions"
   },
-  "link.item.label.Blog": {
-    "message": "Vaovao",
-    "description": "The label of footer link with label=Blog linking to /blog"
-  },
   "link.item.label.GitHub": {
     "message": "GitHub",
     "description": "The label of footer link with label=GitHub linking to https://github.com/sws2apps"
@@ -42,5 +38,9 @@
   "link.item.label.Congregation Program for Everyone": {
     "message": "Congregation Program for Everyone",
     "description": "The label of footer link with label=Congregation Program for Everyone linking to docs/category/congregation-program-for-everyone"
+  },
+  "link.item.label.News": {
+    "message": "News",
+    "description": "The label of footer link with label=News linking to /blog"
   }
 }
