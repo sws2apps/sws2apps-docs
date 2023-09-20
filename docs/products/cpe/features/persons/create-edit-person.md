@@ -28,7 +28,7 @@ From the Persons page, click the _Pencil_ icon to view the details of a person. 
 - **Address:**: address of the person
 - **Phone number:** phone number(s) of the person
 
-:::caution
+:::info
 
 Some of these informations can only be edit by the Congregation Secretary.
 
@@ -42,7 +42,7 @@ Some of these informations can only be edit by the Congregation Secretary.
 - Choose whether the person is **baptized** or not. If yes, enter the **Date immersed**. The **Years** since the person was baptized will be auto calculated.
 - **First report:** This is the month where field service report is first collected for this person.
 
-:::danger
+:::caution
 
 Make sure that this date is correct, especially the first time you use CPE, or when person move to your congregation. Otherwise, you will have falsy report where the person will be counted as an inactive publisher.
 
@@ -60,7 +60,7 @@ When a person’s status is changed, add an end date to the previous active stat
 
 - **Other form of services:** person’s other form of service history. This includes when the person is an **Auxiliary Pioneer, Regular Pioneer** and **Special Pioneer**.
 
-:::caution
+:::info
 
 All these informations can only be edit by the Congregation Secretary.
 
@@ -70,11 +70,11 @@ All these informations can only be edit by the Congregation Secretary.
 
 ![Person Assignments](./person_assignments.png)
 
-This section is for all meeting assignments for the person. Currently, it only contains midweek meeting assignments.
+This section is for all meeting assignments for the person.
 
-:::caution
+:::info
 
-Currently, these informations can only be edit by the Life and Ministry Meeting Overseer or his assistant.
+These informations can only be edit by the Life and Ministry Meeting Overseer or his assistant, the Public Talk Coordinator and the Coordinator.
 
 :::
 

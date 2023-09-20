@@ -67,7 +67,7 @@ const config = {
 						label: 'Products',
 						to: 'docs/category/products',
 					},
-					{ to: '/blog', label: 'Blog', position: 'left' },
+					{ to: '/blog', label: 'News', position: 'left' },
 					{ to: '/about', label: 'About Us', position: 'left' },
 					{
 						type: 'localeDropdown',
@@ -109,7 +109,7 @@ const config = {
 						title: 'More',
 						items: [
 							{
-								label: 'Blog',
+								label: 'News',
 								to: '/blog',
 							},
 							{

@@ -42,6 +42,24 @@ When it is necessary to replace parts in Living As Christians, do the following:
 
   ![Weekend Meeting PDF](./cpe_weekend_meeting_pdf.png)
 
+### Circuit Overseers Talks
+
+- Make sure that the week **Type** is **Visit of Circuit Overseer.**
+
+- Expand the MIDWEEK MEETING section.
+
+- Under Living As Christians, enter the title of the circuit overseer service talk for the midweek meeting. Enter the concluding song also if it is provided.
+
+  ![Midweek Meeting CO Visit](./cpe_midweek_meeting_co_visit.png)
+
+- Expand the WEEKEND MEETING section.
+
+- Enter the title of the circuit overseer public talk for the weekend meeting.
+
+  ![Weekend Meeting CO Visit](./cpe_weekend_meeting_co_visit.png)
+
+- Don’t forget to click the _Save_ icon to save your changes.
+
 ## Delete a week
 
 - Click the _Delete_ icon next to the week date to delete it from the source material.
