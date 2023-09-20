@@ -3,10 +3,6 @@
     "message": "Ny Ekipa Scheduling Workbox System",
     "description": "The title in the navbar"
   },
-  "item.label.Blog": {
-    "message": "Vaovao",
-    "description": "Navbar item with label Blog"
-  },
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
@@ -22,5 +18,9 @@
   "item.label.About Us": {
     "message": "Momba Anay",
     "description": "Navbar item with label About Us"
+  },
+  "item.label.News": {
+    "message": "News",
+    "description": "Navbar item with label News"
   }
 }
