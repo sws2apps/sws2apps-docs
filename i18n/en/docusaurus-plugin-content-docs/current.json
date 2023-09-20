@@ -34,5 +34,9 @@
   "sidebar.tutorialSidebar.category.Reports": {
     "message": "Reports",
     "description": "The label for category Reports in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Schedule": {
+    "message": "Schedule",
+    "description": "The label for category Schedule in sidebar tutorialSidebar"
   }
 }
