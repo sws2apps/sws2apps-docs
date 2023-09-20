@@ -46,6 +46,12 @@ Sokafy ilay pejy hoe Mpandahan-teny Mpitsidika. Ao no handrindrana an’ireo mpa
 
   ![Outgoing Speakers Share](./cpe_outgoing_speakers_share.png)
 
+:::caution
+
+Make sure that the latest changes to your congregation persons records was already backed up on the internet.
+
+:::
+
 ### Fikarakarana ny fangatahana hijery ny lisitry ny mpandahan-teny mpitsidika
 
 - Hisy hafatra toy izao hipoitra rehefa misy fiangonana hafa mangataka ny hijery ny lisitry ny mpandahan-teny mpitsidika ao aminareo:
