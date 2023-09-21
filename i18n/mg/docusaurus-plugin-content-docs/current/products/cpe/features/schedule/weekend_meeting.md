@@ -2,19 +2,19 @@
 sidebar_position: 4
 ---
 
-# Weekend Meeting
+# Fivoriana Faran’ny Herinandro
 
-Here is the section where you will manage the meeting parts for the weekend meeting.
+Ato amin’ity pejy ity no hanaovana ny fanendrena rehetra amin’ny fivoriana faran’ny herinandro.
 
 ## Hanendry olona
 
 ### Hameno ho azy
 
-- Click the **AUTOFILL** button at the top of the page.
+- Tsindrio ilay hoe **HAMENO HO AZY** eny amin’ny farany ambony amin’ilay pejy.
 
   ![Weekend Meeting Autofill](./cpe_weekend_meeting_autofill.png)
 
-- Select the starting and ending dates you want to autofill, and click **CONTINUE** to confirm.
+- Safidio hoe manomboka aiza ka hatraiza ny herinandro tianao hofenoina ho azy, dia tsindrio ilay hoe **HANOHY.**
 
   ![Weekend Meeting Autofill Confirm](./cpe_weekend_meeting_autofill_confirm.png)
 
@@ -28,19 +28,19 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
 ### Hanendry anjara tsirairay
 
-- Locate from the list and expand the week you want edit.
+- Jereo eo amin’ilay lisitra sy sokafy ny herinandro tianao ovaina.
 
   ![Weekend Meeting Manual Assign](./cpe_weekend_meeting_manual_assign.png)
 
-- Choose a person to assign for each meeting part. Please note the following when doing manual assignment:
+- Safidio amin’izay avy eo ny olona tendrenao amin’ny anjara tsirairay. Mariho azafady ireto fanazavana manaraka ireto rehefa manendry tsirairay ianao:
 
-  - The **last assignment** column is the last time this person was assigned for the same part.
+  - Ny daty nanaovan’ilay olona an’io anjara io farany no aseho eo amin’ilay hoe **Anjara farany.**
 
     ![Weekend Meeting Person Select](./cpe_weekend_meeting_person_select.png)
 
     Ny daty nanendrena an’ireo rahalahy ireo ho Mpitari-draharaha farany izao no aseho eo amin’ilay ohatra eo ambony.
 
-  - When you select a speaker delivering only a symposium talk, a new field will appear automatically to assign the next speaker.
+  - Rehefa manendry mpandahan-teny manao ampahana lahateny ianao, dia hisy toerana azonao hisafidianana ny manao ny tapany farany amin’ilay lahateny hipoitra.
 
     ![Weekend Meeting Speaker 2](./cpe_weekend_meeting_speaker2.png)
 
@@ -56,43 +56,43 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
     ![Weekend Meeting Assignments Delete](./cpe_meeting_assignments_delete.png)
 
-### Assign visiting speaker
+### Hanendry mpandahan-teny mpitsidika
 
-- Locate from the list and expand the week you want assign a visiting speaker.
+- Jereo eo amin’ilay lisitra sy sokafy ny herinandro tianao hanendrena mpandahan-teny mpitsidika.
 
-- Check the **Delivered by Visiting Speaker** checkbox.
+- Asio marika ilay hoe **Ataona Mpandahan-teny Mpitsidika.**
 
   ![Weekend Meeting Enable Visiting Speaker](./cpe_weekend_meeting_enable_visiting_speaker.png)
 
-- Click the _Find_ icon to find for a visiting speaker.
+- Tsindrio ilay sary _Hikaroka_ mba hitadiavana ny mpandahan-teny mpitsidika.
 
   ![Weekend Meeting Find Speaker](./cpe_weekend_meeting_find_speaker.png)
 
-- Choose the speaker and talk by clicking the _Assign_ icon.
+- Tsindrio ilay sary _Hanendry_ mifanandrify amin’ilay mpandahan-teny sy ny lahateny ho ataony.
 
   ![Weekend Meeting Select Speaker](./cpe_weekend_meeting_select_speaker.png)
 
-- To remove an assigned visiting speaker, click the _Find_ icon next to his name. Then click the _Remove_ icon.
+- Raha hamafa ny fanendren’ny mpandahan-teny mpitsidika, dia tsindrio ilay sary _Hikaroka_ eo akaikin’ny anarany. Tsindrio avy eo ilay sary _Hamafa._
 
   ![Weekend Meeting Remove Speaker](./cpe_weekend_meeting_remove_speaker.png)
 
 ## Hamafa fanendrena
 
-- Click the **DELETE** button at the top of the page.
+- Tsindrio ilay hoe **HAMAFA** eny amin’ny farany ambony amin’ilay pejy.
 
   ![Weekend Meeting Delete](./cpe_weekend_meeting_delete.png)
 
-- Select the starting and ending dates you want to delete, and click **CONTINUE** to confirm.
+- Safidio hoe manomboka aiza ka hatraiza ny herinandro tianao hofafana, dia tsindrio ilay hoe **HANOHY.**
 
   ![Weekend Meeting Delete Confirm](./cpe_weekend_meeting_delete_confirm.png)
 
-## Export schedule to PDF
+## Hamoaka ny fandaharana ho PDF
 
-- Click the **EXPORT** button at the top of the page.
+- Tsindrio ilay hoe **PRINTY** eny amin’ny farany ambony amin’ilay pejy.
 
   ![Weekend Meeting Export](./cpe_weekend_meeting_export.png)
 
-- Select the starting and ending dates you want to export, and click **CONTINUE** to confirm.
+- Safidio hoe manomboka aiza ka hatraiza ny herinandro tianao ho atao PDF, dia tsindrio ilay hoe **HANOHY.**
 
   ![Weekend Meeting Export Confirm](./cpe_weekend_meeting_export_confirm.png)
 
