@@ -17,7 +17,7 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 
 ### Mombamomba an’ilay olona
 
-![Mombamomba an’ilay olona](./person_basic.png)
+![Person Basic](./person_basic.png)
 
 - **Anarana:** anaran’ilay olona
 - **Fanafohezana:** fanafohezana ny anaran’ilay olona. Feno ho azy izy io, nefa azonao soloana izay misoratra eo. Hiseho any amin’ny fandaharam-pivoriana ho atao printy ity fanafohezana anarana ity, arakaraka ny fanamboarana nosafidiana ho an’ny fiangonanareo.
@@ -70,11 +70,11 @@ Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
 ![Person Assignments](./person_assignments.png)
 
-This section is for all meeting assignments for the person.
+Eto amin’ity fizarana ity no ahitana ny anjara rehetra azon’ilay olona atao rehefa fivoriana.
 
 :::info
 
-These informations can only be edit by the Life and Ministry Meeting Overseer or his assistant, the Public Talk Coordinator and the Coordinator.
+Ny Mpiandraikitra ny Fivoriana Momba ny Fiainantsika sy ny Fanompoana na ny mpanampy azy, ny Mpandrindra Lahateny ho An’ny Besinimaro ary Anti-panahy Mpandrindra ihany no afaka manova an’ireo fanazavana ireo.
 
 :::
 
