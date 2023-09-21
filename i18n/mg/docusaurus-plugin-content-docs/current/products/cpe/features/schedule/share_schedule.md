@@ -2,10 +2,10 @@
 sidebar_position: 5
 ---
 
-# Share Schedule
+# Hizara Fandaharana
 
-This feature will publish the meeting schedules to all CPE users in your congregation, including other appointed brothers.
+Ity no ahafahana mizarana ny fandaharam-pivoriana amin’ireo izay mampiasa CPE rehetra ao amin’ny fiangonanareo, anisan’izany ireo rahalahy voatendry.
 
-Choose which schedules do you want to share, and click **PUBLISH.**
+Safidio eo amin’ilay lisitra hoe inona avy ny fandaharana tianao hozaraina, dia tsindrio ilay hoe **HANDEFA.**
 
 ![Meeting Schedule Share](./cpe_meeting_schedule_share.png)
