@@ -17,7 +17,7 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 
 ### Mombamomba an’ilay olona
 
-![Mombamomba an’ilay olona](./person_basic.png)
+![Person Basic](./person_basic.png)
 
 - **Anarana:** anaran’ilay olona
 - **Fanafohezana:** fanafohezana ny anaran’ilay olona. Feno ho azy izy io, nefa azonao soloana izay misoratra eo. Hiseho any amin’ny fandaharam-pivoriana ho atao printy ity fanafohezana anarana ity, arakaraka ny fanamboarana nosafidiana ho an’ny fiangonanareo.
@@ -28,7 +28,7 @@ Sokafy ilay pejy hoe Olona ao Amin’ny Fiangonana, dia tsindrio ilay sary _Pens
 - **Adiresy:** adiresin’ilay olona
 - **Telefaonina:** nomerao telefaonin’ilay olona
 
-:::caution
+:::info
 
 Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
@@ -42,7 +42,7 @@ Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 - Safidio hoe **vita batisa** ve ilay olona sa tsia. Raha eny, dia ampidiro ny **Datin’ny batisa.** Ho feno ho azy avy eo ny **Taona** efa nahavita batisa an’ilay olona.
 - **Tatitra voalohany:** Ity ny volana voalohany nanangonana ny tatitra ho an’io olona io.
 
-:::danger
+:::caution
 
 Ataovy azo antoka hoe marina tsara io daty io, indrindra raha vao voalohany ianao no mampiasa CPE, na hoe nifindra fiangonana ao aminareo ilay olona. Raha tsy izany mantsy dia mety ho voasokajy ho anisan’ny mpitory tapatapaka ilay olona.
 
@@ -60,7 +60,7 @@ Raha miova ny lafiny ara-panahin’ilay olona, dia asio daty nifaranana ny nisy 
 
 - **Tombontsoam-panompoana hafa:** tombontsoam-panompoana hafa ananan’ilay olona. Tafiditra amin’izany ny hoe **Mpisava Lalana Mpanampy, Mpisava Lalana Maharitra** ary **Mpisava Lalana Manokana** ve izy.
 
-:::caution
+:::info
 
 Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
@@ -70,11 +70,11 @@ Ny Mpitan-tsoratra ihany no afaka manova an’ireo fanazavana sasantsasany ireo.
 
 ![Person Assignments](./person_assignments.png)
 
-Eto amin’ity fizarana ity no ahitana ny anjara rehetra azon’ilay atao amin’ny fivoriana. Ny fanendrena amin’ny fivoriana andavanandro ihany aloha izao no miseho eto.
+Eto amin’ity fizarana ity no ahitana ny anjara rehetra azon’ilay olona atao rehefa fivoriana.
 
-:::caution
+:::info
 
-Ny Mpiandraikitra ny Fivoriana Momba ny Fiainantsika sy ny Fanompoana na ny mpanampy azy ihany aloha izao no afaka manova an’ireo fanamboarana ireo.
+Ny Mpiandraikitra ny Fivoriana Momba ny Fiainantsika sy ny Fanompoana na ny mpanampy azy, ny Mpandrindra Lahateny ho An’ny Besinimaro ary Anti-panahy Mpandrindra ihany no afaka manova an’ireo fanazavana ireo.
 
 :::
 

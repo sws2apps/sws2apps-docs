@@ -42,6 +42,24 @@ Izao hatao raha mila ovana ny anjara ao amin’ny Fiainantsika Kristianina:
 
   ![Weekend Meeting PDF](./cpe_weekend_meeting_pdf.png)
 
+### Lahateny ataon’ny Mpiandraikitra ny Faritra
+
+- Ataovy azo antoka aloha hoe efa **Fitsidihan’ny Mpiandraikitra ny Faritra** ny karazana herinandro.
+
+- Sokafy ilay fizarana hoe FIVORIANA ANDAVANANDRO.
+
+- Ampidiro ny lohatenin’ny lahateny momba ny fanompoana ataon’ny mpiandraikitra ny faritra ho an’ny fivoriana andavanandro, eo ambanin’ilay fizarana hoe Ny Fiainantsika Kristianina. Ampidiro koa ny hira famaranana raha nomeny mialoha.
+
+  ![Midweek Meeting CO Visit](./cpe_midweek_meeting_co_visit.png)
+
+- Sokafy ilay fizarana hoe FIVORIANA FARAN’NY HERINANDRO.
+
+- Ampidiro ny lohatenin’ny lahateny ho an’ny besinimaro ataon’ny mpiandraikitra ny faritra ho an’ny fivoriana faran’ny herinandro.
+
+  ![Weekend Meeting CO Visit](./cpe_weekend_meeting_co_visit.png)
+
+- Aza adino ny manindry an’ilay sary _Hitahiry_ mba hitahirizana ny fanovana nataonao.
+
 ## Hamafa herinandro
 
 - Tsindrio ilay sary _Hamafa_ eo akaikin’ilay herinandro raha tianao hofafana ao amin’ny loharanon-kevitra ilay izy.
