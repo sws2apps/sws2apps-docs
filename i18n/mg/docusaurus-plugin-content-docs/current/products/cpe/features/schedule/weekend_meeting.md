@@ -6,9 +6,9 @@ sidebar_position: 4
 
 Here is the section where you will manage the meeting parts for the weekend meeting.
 
-## Assign person
+## Hanendry olona
 
-### Use autofill
+### Hameno ho azy
 
 - Click the **AUTOFILL** button at the top of the page.
 
@@ -20,13 +20,13 @@ Here is the section where you will manage the meeting parts for the weekend meet
 
 :::info
 
-If some parts were already assigned, the autofill action **will not** override them.
+**Tsy ho** voasolo ireo anjara efa vita fanendrena rehefa mameno ho azy fandaharana ianao.
 
-While autofill also will greatly simplify much of your works, we trust that you will use good judgment and balance when doing the assignments. 😉
+Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izahay hoe hahay handinika sy handanjalanja ianao rehefa mampiasa azy io mba hanaovana ny fanendrena. 😉
 
 :::
 
-### Manual assignment
+### Hanendry anjara tsirairay
 
 - Locate from the list and expand the week you want edit.
 
@@ -38,21 +38,21 @@ While autofill also will greatly simplify much of your works, we trust that you 
 
     ![Weekend Meeting Person Select](./cpe_weekend_meeting_person_select.png)
 
-    In the example above, these dates indicate the last time these brothers were used as Chairman.
+    Ny daty nanendrena an’ireo rahalahy ireo ho Mpitari-draharaha farany izao no aseho eo amin’ilay ohatra eo ambony.
 
   - When you select a speaker delivering only a symposium talk, a new field will appear automatically to assign the next speaker.
 
     ![Weekend Meeting Speaker 2](./cpe_weekend_meeting_speaker2.png)
 
-  - Click the _Details_ icon to view all assignments of a person.
+  - Tsindrio ilay sary _Tsipiriany_ raha hijery ny anjara rehetra nanendrena an’ilay olona.
 
     ![Weekend Meeting Person Details](./cpe_meeting_assignments_person_details.png)
 
-    The following list will appear:
+    Hiseho ity lisitra ity avy eo:
 
     ![Weekend Meeting Person Assignments](./cpe_weekend_meeting_person_assignments.png)
 
-  - To delete an assignment, click the **x** icon next to the person name.
+  - Tsindrio ilay **x** eo akaikin’ny anaran’ilay olona raha tsy hanendry azy indray.
 
     ![Weekend Meeting Assignments Delete](./cpe_meeting_assignments_delete.png)
 
@@ -76,7 +76,7 @@ While autofill also will greatly simplify much of your works, we trust that you 
 
   ![Weekend Meeting Remove Speaker](./cpe_weekend_meeting_remove_speaker.png)
 
-## Delete assignments
+## Hamafa fanendrena
 
 - Click the **DELETE** button at the top of the page.
 
@@ -96,4 +96,4 @@ While autofill also will greatly simplify much of your works, we trust that you 
 
   ![Weekend Meeting Export Confirm](./cpe_weekend_meeting_export_confirm.png)
 
-- Depending on your device settings, the PDF file will be downloaded directly or you will be asked where to save it.
+- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny fitaovana ampiasainao ilay PDF, na hisy hafatra hanasa anao hisafidy ny toerana asiana azy.
