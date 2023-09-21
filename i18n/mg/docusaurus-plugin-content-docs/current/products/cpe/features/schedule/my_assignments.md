@@ -2,34 +2,34 @@
 sidebar_position: 1
 ---
 
-# My Assignments
+# Anjarako
 
-This section will display all your assignments for midweek and weekend meetings. If you delegate other persons, their assignments will be displayed here too.
+Aseho eto amin’ity fizarana ity ny anjaranao rehetra amin’ny fivoriana andavanandro sy faran’ny herinandro. Raha misolo tena olon-kafa koa ianao, dia hiseho eto ny anjaran’izy ireo.
 
-![My Assignments](./cpe_my_assignments.png)
+![Anjarako](./cpe_my_assignments.png)
 
-In most of cases, no setup is needed to have your meeting parts to be displayed here. However, if CPE prompts you to setup, do the following:
+Amin’ny ankapobeny dia tsy misy zavatra fanampiny mila ataonao mba hiseho eto ny anjaranao amin’ny fivoriana. Raha manasa anao mba hanamboatra an’izany anefa ny CPE, dia izao atao:
 
-## Initial setup
+## Fanamboarana voalohany
 
-- Click the **SETUP** button.
+- Tsindrio ilay hoe **HANAMBOATRA.**
 
   ![My Assignments Setup](./cpe_my_assignments_setup.png)
 
-- Select your name from the list.
+- Safidio eo amin’ilay lisitra ny anaranao.
 
   ![My Assignments Select Record](./cpe_my_assignments_select_record.png)
 
-- Click **SAVE.**
+- Tsindrio ny **HITAHIRY.**
 
-## Edit your local record
+## Hanamboatra ny firaketana mifandray amin’ny kaontinao
 
-- Click the _Pensil_ icon if you want to change your local record.
+- Tsindrio ilay sary _Pensilihazo_ raha tianao ovana hoe mifanitsy amin’iza ao amin’ny firaketana ny kaontinao.
 
   ![My Assignments Edit Record](./cpe_my_assignments_edit_record.png)
 
-## Refresh assignments
+## Hamerina hitady ireo fanendrena
 
-- Click the _Refresh_ icon to refresh the assignments.
+- Tsindrio ilay sary _Actualiser_ raha hamerina hitady indray an’ireo fanendrena.
 
   ![My Assignments Refresh](./cpe_my_assignments_refresh.png)
