@@ -48,7 +48,7 @@ Sokafy ilay pejy hoe Mpandahan-teny Mpitsidika. Ao no handrindrana an’ireo mpa
 
 :::caution
 
-Make sure that the latest changes to your congregation persons records was already backed up on the internet.
+Ataovy azo antoka hoe efa nandefa rakitra fiandry misy ny lisitry ny olona ao amin’ny fiangonana farany ianao.
 
 :::
 
