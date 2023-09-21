@@ -2,128 +2,128 @@
 sidebar_position: 3
 ---
 
-# Midweek Meeting
+# Fivoriana Andavanandro
 
-Here is the section where you will manage the meeting parts for the midweek meeting.
+Ato amin’ity pejy ity no hanaovana ny fanendrena rehetra amin’ny fivoriana andavanandro.
 
-## Assign person
+## Hanendry olona
 
-Locate from the list which schedule you want edit. Then, you have two options to assign the meeting parts:
+Jereo eo amin’ilay lisitra hoe inona ilay fandaharana tianao amboarina. Misy fomba roa azonao ampiasaina avy eo mba hanaovana ny fanendrena:
 
-### Use autofill
+### Hameno ho azy
 
-- Click the **Autofill** button.
+- Tsindrio ilay hoe **Hameno ho azy.**
 
   ![Midweek Meeting Autofill](./cpe_midweek_meeting_autofill.png)
 
-- A confirmation message will appear and click **AUTOFILL** to confirm.
+- Hisy hafatra hipoitra avy eo, dia tsindrio ilay hoe **HAMENO HO AZY** raha hanohy.
 
   ![Midweek Meeting Autofill Confirm](./cpe_midweek_meeting_autofill_confirm.png)
 
 :::info
 
-If some parts were already assigned, the autofill action **will not** override them.
+**Tsy ho** voasolo ireo anjara efa vita fanendrena rehefa mameno ho azy fandaharana ianao.
 
-While autofill also will greatly simplify much of your works, we trust that you will use good judgment and balance when doing the assignments. 😉
+Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izahay hoe hahay handinika sy handanjalanja ianao rehefa mampiasa azy io mba hanaovana ny fanendrena. 😉
 
 :::
 
-### Manual assignment
+### Hanendry anjara tsirairay
 
-- Click the **Open** button.
+- Tsindrio ilay **Hanokatra.**
 
   ![Midweek Meeting Open](./cpe_midweek_meeting_open.png)
 
-- A summary page will open:
+- Hisy pejy hamintina ny fanendrena rehetra amin’ilay volana avy eo hipoitra:
 
   ![Midweek Meeting Summary](./cpe_midweek_meeting_summary.png)
 
-  Click the **EDIT** button next to the week date you want to make assignments.
+  Tsindrio ilay hoe **HANOVA** eo akaikin’ilay herinandro tianao hanaovana fanendrena.
 
-- Finally, choose a person to assign for each meeting part. Please note the following when doing manual assignment:
+- Safidio amin’izay avy eo ny olona tendrenao amin’ny anjara tsirairay. Mariho azafady ireto fanazavana manaraka ireto rehefa manendry tsirairay ianao:
 
-  - The **last assignment** column when choosing a person to handle a non-student part is the last time this person delivered the same part.
+  - Rehefa misafidy olona hanao anjara hafa ankoatran’ny anjaran’ny mpianatra ianao, dia ny daty farany nanaovany an’io anjara io no miseho eo amin’ilay **Anjara farany.**
 
     ![Midweek Meeting Person Select Other](./cpe_midweek_meeting_person_select.png)
 
-    In the example above, these dates indicate the last time these brothers were used as Chairman.
+    Ny daty nanendrena an’ireo rahalahy ireo ho Mpitari-draharaha farany izao no aseho eo amin’ilay ohatra eo ambony.
 
-  - For the students parts, choose whether to assign **Male** or **Female**. The **last assignment** column when choosing a person to handle the student part is the last time this person was used as a student, regardless of the assignment type. The **assistant** column is the last time this person was used as an assistant.
+  - Rehefa hanendry ny anjaran’ny mpianatra ianao, dia afaka misafidy na hanendry **Lahy** na **Vavy.** Ny daty nanaovan’ilay mpianatra mpitarika farany no aseho eo amin’ilay **Anjara farany,** na inona na inona karazan’ilay anjara. Ny daty nanendrena azy farany ho mpanampy kosa no aseho eo amin’ilay **Mpanampy.**
 
     ![Midweek Meeting Person Select Person](./cpe_midweek_meeting_person_select_student.png)
 
-  - For the students parts, you will not be able to assign an assistant until the student is assigned.
+  - Tsy ho afaka hanendry ny mpanampy amin’ny anjaran’ny mpianatra mihitsy ianao, raha tsy efa voatendry aloha ny mpitarika.
 
-  - Click the _Details_ icon to view all assignments of a person.
+  - Tsindrio ilay sary _Tsipiriany_ raha hijery ny anjara rehetra nanendrena an’ilay olona.
 
     ![Midweek Meeting Person Details](./cpe_meeting_assignments_person_details.png)
 
-    The following list will appear:
+    Hiseho ity lisitra ity avy eo:
 
     ![Midweek Meeting Person Assignments](./cpe_midweek_meeting_person_assignments.png)
 
-    When viewing the assignments history of an assistant, all the assistants who were already with the student will also be displayed:
+    Rehefa mijery ny anjara rehetra efa nanendrena ny mpanampy amin’ny anjaran’ny mpianatra ianao, dia hiseho eo koa ny lisitry ny mpanampy rehetra efa niara-nanao anjara tamin’ilay mpitarika:
 
     ![Midweek Meeting Assistant Assignments](./cpe_midweek_meeting_assistant_details.png)
 
-  - To delete an assignment, click the **x** icon next to the person name.
+  - Tsindrio ilay **x** eo akaikin’ny anaran’ilay olona raha tsy hanendry azy indray.
 
     ![Midweek Meeting Assignments Delete](./cpe_meeting_assignments_delete.png)
 
-  - It will not be possible to select a person for some meetings parts that do not need assignment. (organizational accomplishments, etc...)
+  - Tsy mila olona tendrena hanao azy ny anjara sasany amin’ny fivoriana, ohatra hoe zava-bitan’ny Fandaminana, sns...
 
-  - For meeting part that should be handled by an elder, the list will only show all the elders. (local needs, etc...)
+  - Ny lisitry ny anti-panahy ihany no hiseho rehefa misy anjara sasany tokony hataon’ny anti-panahy, ohatra hoe zavatra ilain’ny Fiangonana, sns...
 
-  - Use the _Forward_ and _Backward_ buttons in the top of the page to navigate between weeks.
+  - Ampiasao ilay hoe _Handeha eo aloha_ na _Hiverina any aoriana_ eny amin’ny farany ambony indrindra amin’ny pejy raha hanova ny herinandro hanaovana fanendrena.
 
     ![Midweek Meeting Week Navigation](./cpe_midweek_meeting_week_navigation.png)
 
-## Delete assignments
+## Hamafa fanendrena
 
-- If you want to delete all assignments for the month:
+- Raha tianao fafana ny fanendrena rehetra amin’ilay volana:
 
-  - Click the **Delete** button.
+  - Tsindrio ilay hoe **Hamafa.**
 
     ![Midweek Meeting Schedule Delete](./cpe_midweek_meeting_schedule_delete.png)
 
-  - A confirmation message will appear and click **DELETE** to confirm.
+  - Hisy hafatra hipoitra avy eo, dia tsindrio ilay hoe **HAMAFA** raha hanohy.
 
     ![Midweek Meeting Schedule Delete Confirm](./cpe_midweek_meeting_schedule_delete_confirm.png)
 
-- If you want to delete all assignments for a week only:
+- Raha tianao fafana ny fanendrena rehetra amin’ny herinandro iray:
 
-  - Click the **Open** button.
+  - Tsindrio ilay **Hanokatra.**
 
     ![Midweek Meeting Open](./cpe_midweek_meeting_open.png)
 
-  - In the summary page, click the **DELETE** button next to the week containing the assignments you want to delete.
+  - Rehefa misokatra ilay pejy mamintina ny fanendrena rehetra amin’ilay volana, dia tsindrio ilay hoe **HAMAFA** eo akaikin’ilay herinandro misy ny fanendrena tianao hofafana.
 
     ![Midweek Meeting Week Delete](./cpe_midweek_meeting_week_delete.png)
 
-  - A confirmation message will appear and click **DELETE** to confirm.
+  - Hisy hafatra hipoitra avy eo, dia tsindrio ilay hoe **HAMAFA** raha hanohy.
 
     ![Midweek Meeting Week Delete Confirm](./cpe_midweek_meeting_week_delete_confirm.png)
 
-## Export schedule
+## Hanao printy fandaharana
 
-### S-89 Assignment Form
+### Fanomezana Anjara S-89
 
-- Click the **Export** button and choose **S-89 Assignment Form.**
+- Tsindrio ilay hoe **Printy,** dia safidio avy eo ilay hoe **Fanomezana Anjara S-89.**
 
   ![Midweek Meeting Export S-89](./cpe_midweek_meeting_export_s89.png)
 
-- Select which week and assignment you want to print, and click **PREVIEW.**
+- Safidio hoe herinandro sa anjara inona avy no tianao ho atao printy, dia tsindrio ilay hoe **HIJERY MIALOHA.**
 
   ![S-89 Assignment Selector](./cpe_s89_assignment_selector.png)
 
-- After the preview is generated, click the **PDF** button to export the S-89 Assignment Form.
+- Rehefa vita ny fanamboarana an’ilay S-89 jerena mialoha, dia tsindrio ilay hoe **PDF** raha hitahiry an’ilay S-89 amin’ny endrika PDF.
 
   ![S-89 Export PDF](./cpe_s89_export_pdf.png)
 
-### Midweek Meeting Schedule (S-140)
+### Fandaharam-pivoriana Andavanandro (S-140)
 
-- Click the **Export** button and choose **Midweek Meeting Schedule.**
+- Tsindrio ilay hoe **Printy,** dia safidio avy eo ilay hoe **Fandaharam-pivoriana Andavanandro.**
 
   ![Midweek Meeting Export S-140](./cpe_midweek_meeting_export_s140.png)
 
-- Depending on your device settings, the PDF file will be downloaded directly or you will be asked where to save it.
+- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny fitaovana ampiasainao ilay PDF, na hisy hafatra hanasa anao hisafidy ny toerana asiana azy.
