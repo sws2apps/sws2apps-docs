@@ -1,6 +1,6 @@
 ---
 slug: cpe-weekend-meeting
-title: Schedule Weekend Meeting with CPE
+title: Fandaharana Fivoriana Faran’ny Herinandro amboarina amin’ny CPE
 authors:
   - admin
 tags:
@@ -8,12 +8,12 @@ tags:
   - cpe
 ---
 
-We are very pleased to let you know that it is now possible to schedule the weekend meeting in CPE. Therefore, two new roles were added:
+Tianay ny mampahafantatra anareo fa efa azo amboarina amin’ny alalan’ny CPE izao ny fandaharam-pivoriana faran’ny herinandro. Nisy andraikitra vaovao roa fanampiny nampidirina vokatr’izany:
 
-- Public Talk Coordinator
-- Coordinator
+- Mpandrindra Lahateny ho An’ny Besinimaro
+- Anti-panahy Mpandrindra
 
-To learn more about CPE features, please visit the Products page.
+Midira ao amin’ilay pejy hoe Zavatra Misy raha te hahazo fanazavana bebe kokoa momba ny fampiasana ny programa CPE.
 
 Misaotra betsaka  
 Ny Ekipa Scheduling Workbox System
