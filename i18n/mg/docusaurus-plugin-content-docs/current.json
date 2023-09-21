@@ -36,7 +36,7 @@
     "description": "The label for category Reports in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Schedule": {
-    "message": "Schedule",
+    "message": "Fandaharana",
     "description": "The label for category Schedule in sidebar tutorialSidebar"
   }
 }
