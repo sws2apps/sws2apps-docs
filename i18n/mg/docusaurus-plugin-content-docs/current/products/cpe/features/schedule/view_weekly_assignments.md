@@ -2,18 +2,18 @@
 sidebar_position: 2
 ---
 
-# View Weekly Assignments
+# Hijery ny Fandaharana
 
-In this section, you can _view only_ all the weekly assignments for midweek and weekend meetings.
+Afaka _mijery fotsiny_ ny fandaharana isan-kerinandro amin’ny fivoriana andavanandro sy faran’ny herinandro ianao ato amin’ity fizarana ity.
 
-Click the _Home_ icon to view the current weekly assignments.
+Tsindrio ilay sary _Trano_ raha hijery ny fandaharam-pivoriana amin’ity herinandro ity.
 
 ![Weekly Assignments Current](./cpe_weekly_assignments_current.png)
 
-Click the _Forward_ icon to view the assignments for the next week.
+Tsindrio ilay sary _Handeha any aloha_ raha hijery ny fandaharana ho an’ny herinandro manaraka.
 
 ![Weekly Assignments Next](./cpe_weekly_assignments_next.png)
 
-Click the _Backward_ icon to view the assignments for the previous week.
+Tsindrio ilay sary _Handeha any aoriana_ raha hijery ny fandaharana tamin’ny herinandro lasa.
 
 ![Weekly Assignments Previous](./cpe_weekly_assignments_previous.png)
