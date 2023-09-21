@@ -42,13 +42,13 @@ Izao hatao raha mila ovana ny anjara ao amin’ny Fiainantsika Kristianina:
 
   ![Weekend Meeting PDF](./cpe_weekend_meeting_pdf.png)
 
-### Circuit Overseers Talks
+### Lahateny ataon’ny Mpiandraikitra ny Faritra
 
-- Make sure that the week **Type** is **Visit of Circuit Overseer.**
+- Ataovy azo antoka aloha hoe efa **Fitsidihan’ny Mpiandraikitra ny Faritra** ny karazana herinandro.
 
 - Sokafy ilay fizarana hoe FIVORIANA ANDAVANANDRO.
 
-- Under Living As Christians, enter the title of the circuit overseer service talk for the midweek meeting. Enter the concluding song also if it is provided.
+- Ampidiro ny lohatenin’ny lahateny momba ny fanompoana ataon’ny mpiandraikitra ny faritra ho an’ny fivoriana andavanandro, eo ambanin’ilay fizarana hoe Ny Fiainantsika Kristianina. Ampidiro koa ny hira famaranana raha nomeny mialoha.
 
   ![Midweek Meeting CO Visit](./cpe_midweek_meeting_co_visit.png)
 
