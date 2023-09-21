@@ -54,11 +54,11 @@ Izao hatao raha mila ovana ny anjara ao amin’ny Fiainantsika Kristianina:
 
 - Sokafy ilay fizarana hoe FIVORIANA FARAN’NY HERINANDRO.
 
-- Enter the title of the circuit overseer public talk for the weekend meeting.
+- Ampidiro ny lohatenin’ny lahateny ho an’ny besinimaro ataon’ny mpiandraikitra ny faritra ho an’ny fivoriana faran’ny herinandro.
 
   ![Weekend Meeting CO Visit](./cpe_weekend_meeting_co_visit.png)
 
-- Don’t forget to click the _Save_ icon to save your changes.
+- Aza adino ny manindry an’ilay sary _Hitahiry_ mba hitahirizana ny fanovana nataonao.
 
 ## Hamafa herinandro
 
