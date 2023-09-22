@@ -2,21 +2,21 @@
 sidebar_position: 5
 ---
 
-# Mpandahan-teny Mpitsidika
+# Mpandahateny Mpitsidika
 
-Sokafy ilay pejy hoe Mpandahan-teny Mpitsidika. Ao no handrindrana an’ireo mpandahan-teny mpitsidika avy ao amin’ny fiangonana misy anareo, sy ireo mpandahan-teny avy any amin’ny fiangonana hafa.
+Sokafy ilay pejy hoe Mpandahateny Mpitsidika. Ao no handrindrana an’ireo mpandahateny mpitsidika avy ao amin’ny fiangonana misy anareo, sy ireo mpandahateny avy any amin’ny fiangonana hafa.
 
-## Handrindra ny mpandahan-teny mpitsidika ao amin’ny fiangonana
+## Handrindra ny mpandahateny mpitsidika ao amin’ny fiangonana
 
 ![Outgoing Speakers](./cpe_outgoing_speakers.png)
 
-### Hanendry mpandahan-teny
+### Hanendry mpandahateny
 
-- Karohy eo amin’ilay lisitra ny anaran’ilay mpandahan-teny, dia tsindrio avy eo ilay sary _Plus._
+- Karohy eo amin’ilay lisitra ny anaran’ilay mpandahateny, dia tsindrio avy eo ilay sary _Plus._
 
   ![Outgoing Speaker Add](./cpe_outgoing_speaker_add.png)
 
-### Hanamboatra ny lahateny ataon’ny mpandahan-teny
+### Hanamboatra ny lahateny ataon’ny mpandahateny
 
 - Jereo eo amin’ilay lisitra ny anaran’ilay mpandahan-teny, dia ampidiro na anesory ny lahateny efa nomaniny ka afaka ataony amin’ny fiangonana hafa.
 
