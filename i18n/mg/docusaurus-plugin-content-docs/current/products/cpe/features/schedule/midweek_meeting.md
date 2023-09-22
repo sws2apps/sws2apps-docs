@@ -126,4 +126,4 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
   ![Midweek Meeting Export S-140](./cpe_midweek_meeting_export_s140.png)
 
-- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny fitaovana ampiasainao ilay PDF, na hisy hafatra hanasa anao hisafidy ny toerana asiana azy.
+- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny ilay fitaovana ve ilay PDF, sa hisy hafatra hanasa anao hisafidy ny toerana hitehirizana azy.
