@@ -97,7 +97,7 @@ const config = {
 						items: [
 							{
 								label: 'Telegram',
-								href: 'https://t.me/+H0fr4uoDghA4MDg8',
+								href: 'https://t.me/+cSAJmkiVneQwNjQ8',
 							},
 							{
 								label: 'GitHub Discussions',
