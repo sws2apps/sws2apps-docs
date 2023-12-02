@@ -40,7 +40,7 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
     Ny daty nanendrena an’ireo rahalahy ireo ho Mpitari-draharaha farany izao no aseho eo amin’ilay ohatra eo ambony.
 
-  - Rehefa manendry mpandahan-teny manao ampahana lahateny ianao, dia hisy toerana azonao hisafidianana ny manao ny tapany farany amin’ilay lahateny hipoitra.
+  - Rehefa manendry mpandahateny manao ampahana lahateny ianao, dia hisy toerana azonao hisafidianana ny manao ny tapany farany amin’ilay lahateny hipoitra.
 
     ![Weekend Meeting Speaker 2](./cpe_weekend_meeting_speaker2.png)
 
@@ -56,23 +56,23 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
     ![Weekend Meeting Assignments Delete](./cpe_meeting_assignments_delete.png)
 
-### Hanendry mpandahan-teny mpitsidika
+### Hanendry mpandahateny mpitsidika
 
-- Jereo eo amin’ilay lisitra sy sokafy ny herinandro tianao hanendrena mpandahan-teny mpitsidika.
+- Jereo eo amin’ilay lisitra sy sokafy ny herinandro tianao hanendrena mpandahateny mpitsidika.
 
-- Asio marika ilay hoe **Ataona Mpandahan-teny Mpitsidika.**
+- Asio marika ilay hoe **Ataona Mpandahateny Mpitsidika.**
 
   ![Weekend Meeting Enable Visiting Speaker](./cpe_weekend_meeting_enable_visiting_speaker.png)
 
-- Tsindrio ilay sary _Hikaroka_ mba hitadiavana ny mpandahan-teny mpitsidika.
+- Tsindrio ilay sary _Hikaroka_ mba hitadiavana ny mpandahateny mpitsidika.
 
   ![Weekend Meeting Find Speaker](./cpe_weekend_meeting_find_speaker.png)
 
-- Tsindrio ilay sary _Hanendry_ mifanandrify amin’ilay mpandahan-teny sy ny lahateny ho ataony.
+- Tsindrio ilay sary _Hanendry_ mifanandrify amin’ilay mpandahateny sy ny lahateny ho ataony.
 
   ![Weekend Meeting Select Speaker](./cpe_weekend_meeting_select_speaker.png)
 
-- Raha hamafa ny fanendren’ny mpandahan-teny mpitsidika, dia tsindrio ilay sary _Hikaroka_ eo akaikin’ny anarany. Tsindrio avy eo ilay sary _Hamafa._
+- Raha hamafa ny fanendren’ny mpandahateny mpitsidika, dia tsindrio ilay sary _Hikaroka_ eo akaikin’ny anarany. Tsindrio avy eo ilay sary _Hamafa._
 
   ![Weekend Meeting Remove Speaker](./cpe_weekend_meeting_remove_speaker.png)
 
@@ -96,4 +96,4 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
   ![Weekend Meeting Export Confirm](./cpe_weekend_meeting_export_confirm.png)
 
-- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny fitaovana ampiasainao ilay PDF, na hisy hafatra hanasa anao hisafidy ny toerana asiana azy.
+- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny ilay fitaovana ve ilay PDF, na hisy hafatra hanasa anao hisafidy ny toerana hitehirizana azy.
