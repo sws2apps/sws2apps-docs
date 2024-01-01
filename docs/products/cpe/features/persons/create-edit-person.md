@@ -96,7 +96,7 @@ To save the changes you made for the person, click the **Save** button on the to
 
 ## Mark person as moved
 
-If a person is moved to another congregation, , click the **Mark Move** button on the top of the person details page. This will remove the person from the Congregation Persons list.
+If a person is moved to another congregation, click the **Mark Move** button on the top of the person details page. This will remove the person from the Congregation Persons list.
 
 ## Mark person as disqualified
 

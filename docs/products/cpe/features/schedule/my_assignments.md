@@ -24,7 +24,7 @@ In most of cases, no setup is needed to have your meeting parts to be displayed 
 
 ## Edit your local record
 
-- Click the _Pensil_ icon if you want to change your local record.
+- Click the _Pencil_ icon if you want to change your local record.
 
   ![My Assignments Edit Record](./cpe_my_assignments_edit_record.png)
 
