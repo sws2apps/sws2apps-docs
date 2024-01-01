@@ -96,7 +96,7 @@ Tsindrio ilay hoe **Hitahiry** eo ambony indrindra amin’ilay pejy, raha hitahi
 
 ## Marihina hoe nifindra fiangonana
 
-If a person is moved to another congregation, click the **Mark Move** button on the top of the person details page. This will remove the person from the Congregation Persons list.
+Raha nifindra fiangonana ny olona iray, dia tsindrio ilay hoe **Nifindra Fiangonana** eo ambony indrindra amin’ilay pejy. Tsy hiseho intsony eo amin’ny lisitry ny Olona ao Amin’ny Fiangonana izy aorian’izay.
 
 ## Marihina hoe tsy mahafeno fepetra
 
