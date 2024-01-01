@@ -24,7 +24,7 @@ Amin’ny ankapobeny dia tsy misy zavatra fanampiny mila ataonao mba hiseho eto 
 
 ## Hanamboatra ny firaketana mifandray amin’ny kaontinao
 
-- Click the _Pencil_ icon if you want to change your local record.
+- Tsindrio ilay sary _Pensilihazo_ raha tianao ovana hoe mifanitsy amin’iza ao amin’ny firaketana ny kaontinao.
 
   ![My Assignments Edit Record](./cpe_my_assignments_edit_record.png)
 
