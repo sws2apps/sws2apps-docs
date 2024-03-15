@@ -71,6 +71,11 @@ const config = {
 					{ to: '/blog', label: 'News', position: 'left' },
 					{ to: '/about', label: 'About Us', position: 'left' },
 					{
+						type: 'docsVersionDropdown',
+						position: 'right',
+						dropdownActiveClassDisabled: true,
+					},
+					{
 						type: 'localeDropdown',
 						position: 'right',
 					},

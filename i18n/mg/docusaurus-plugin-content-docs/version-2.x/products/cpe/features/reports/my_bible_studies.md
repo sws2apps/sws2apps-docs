@@ -16,8 +16,8 @@ Mila an’ity firaketana momba ny mpianatra Baiboly ity ianao rehefa [hampiditra
 
 ## Hampiditra fampianarana Baiboly vaovao
 
-- Tsindrio ilay sary _**Plus**_ kely, eo amin’ny farany ambany indrindra ankavanana, raha hampiditra firaketana momba ny fampianarana Baiboly vaovao.
-- Ampidiro avy eo ny \*\*anarana, \*\* sy ny **telefaonina** ary ny \*\*adiresin’\*\*ilay olona raha ilaina izany.
+- Tsindrio ilay sary ***Plus*** kely, eo amin’ny farany ambany indrindra ankavanana, raha hampiditra firaketana momba ny fampianarana Baiboly vaovao.
+- Ampidiro avy eo ny **anarana, ** sy ny **telefaonina** ary ny **adiresin’**ilay olona raha ilaina izany.
 - Tsindrio avy eo ilay hoe **Hitahiry**.
 
 ## Hanova ny mombamomba ny mpianatra Baiboly

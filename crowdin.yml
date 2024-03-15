@@ -1,6 +1,6 @@
-'pull_request_title': 'feat(localize): updated translation from Crowdin'
-'pull_request_labels': ['crowdin']
-
+pull_request_title: 'feat(localize): updated translation from Crowdin'
+pull_request_labels:
+  - crowdin
 preserve_hierarchy: 1
 files:
   - source: /i18n/en/**/*
@@ -11,3 +11,5 @@ files:
     ignore:
       - '*.yml'
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-blog/**/%original_file_name%
+  - source: /versioned_docs/**/*
+    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/**/%original_file_name%

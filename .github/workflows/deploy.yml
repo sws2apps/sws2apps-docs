@@ -22,12 +22,12 @@ jobs:
 
     steps:
       - name: Checkout for release preparation
-        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11
+        uses: actions/checkout@9bb56186c3b09b4f86b1c65136769dd318469633
         with:
           persist-credentials: false
 
       - name: Use Node.js current version
-        uses: actions/setup-node@b39b52d1213e96004bfcb1c61a8a6fa8ab84f3e8
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8
         with:
           node-version: lts/Hydrogen
 
@@ -41,13 +41,13 @@ jobs:
 
       - name: Check if build is successfull
         id: check_build
-        uses: andstor/file-existence-action@20b4d2e596410855db8f9ca21e96fbe18e12930b
+        uses: andstor/file-existence-action@076e0072799f4942c8bc574a82233e1e4d13e9d6
         with:
           files: 'build'
 
       - name: Upload artifact
         if: ${{ steps.check_build.outputs.files_exists == 'true' }}
-        uses: actions/upload-pages-artifact@0252fc4ba7626f0298f0cf00902a25c6afc77fa8
+        uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
         with:
           path: ./build
 
@@ -62,4 +62,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@7a9bd943aa5e5175aeb8502edcc6c1c02d398e10
+        uses: actions/deploy-pages@decdde0ac072f6dcbe43649d82d9c635fff5b4e4

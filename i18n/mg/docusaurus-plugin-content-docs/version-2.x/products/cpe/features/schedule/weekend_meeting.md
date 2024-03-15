@@ -96,4 +96,4 @@ Manamora ny asa ilay hoe afaka fenoina ho azy ny fandaharana. Matoky anefa izaha
 
   ![Weekend Meeting Export Confirm](./cpe_weekend_meeting_export_confirm.png)
 
-- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny ilay fitaovana ve ilay PDF, sa hisy hafatra hanasa anao hisafidy ny toerana hitehirizana azy.
+- Miankina amin’ny fitaovana ampiasainao avy eo ny hoe ho voatahiry avy hatrany ao amin’ny ilay fitaovana ve ilay PDF, na hisy hafatra hanasa anao hisafidy ny toerana hitehirizana azy.
