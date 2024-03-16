@@ -32,7 +32,7 @@ Ny lisitra avy any amin’ny [firaketana momba ny mpianatra Baibolinao](./my_bib
 
 ### Hamafa tatitra
 
-Raha hamafa ny firaketana ny tatitra momba ny fanompoana ho an’ny andro anankiray, dia karohy eo amin’ilay lisitra ilay tatitra, dia tsindrio avy hoe ilay sary kely hoe ***Hamafa***.
+Raha hamafa ny firaketana ny tatitra momba ny fanompoana ho an’ny andro anankiray, dia karohy eo amin’ilay lisitra ilay tatitra, dia tsindrio avy hoe ilay sary kely hoe _**Hamafa**_.
 
 ## Tatitra Momba ny Fanompoana S-4
 
