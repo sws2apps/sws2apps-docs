@@ -60,7 +60,7 @@ const config = {
 				title: 'Scheduling Workbox System',
 				logo: {
 					alt: 'sws2apps logo',
-					src: 'img/sws2apps.png',
+					src: 'img/sws2apps.svg',
 				},
 				items: [
 					{
@@ -93,8 +93,8 @@ const config = {
 						title: 'Products',
 						items: [
 							{
-								label: 'Congregation Program for Everyone',
-								to: 'docs/category/congregation-program-for-everyone',
+								label: 'Organized',
+								to: 'docs/next/products/organized/getting-started/about-organized',
 							},
 						],
 					},
@@ -119,6 +119,14 @@ const config = {
 								to: '/blog',
 							},
 							{
+								label: 'GitHub',
+								href: 'https://github.com/sws2apps',
+							},
+							{
+								label: 'YouTube',
+								href: 'https://www.youtube.com/@organized-app',
+							},
+							{
 								label: 'Privacy Policy',
 								to: '/privacy',
 							},
@@ -126,14 +134,10 @@ const config = {
 								label: 'Terms of Use',
 								to: '/terms',
 							},
-							{
-								label: 'GitHub',
-								href: 'https://github.com/sws2apps',
-							},
 						],
 					},
 				],
-				copyright: `Copyright © ${new Date().getFullYear()} Scheduling Workbox System. Built with Docusaurus.`,
+				copyright: `Copyright © ${new Date().getFullYear()} Scheduling Workbox System`,
 			},
 			prism: {
 				theme: lightTheme,
