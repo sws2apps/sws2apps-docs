@@ -3,13 +3,13 @@ pull_request_labels:
   - crowdin
 preserve_hierarchy: 1
 files:
-  - source: /i18n/en/**/*
-    translation: /i18n/%two_letters_code%/**/%original_file_name%
-  - source: /docs/**/*
-    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
-  - source: /blog/**/*
+  - source: /orgs/i18n/en/**/*
+    translation: /orgs/i18n/%two_letters_code%/**/%original_file_name%
+  - source: /orgs/docs/**/*
+    translation: /orgs/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+  - source: /orgs/blog/**/*
     ignore:
       - '*.yml'
-    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-blog/**/%original_file_name%
-  - source: /versioned_docs/**/*
-    translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/**/%original_file_name%
+    translation: /orgs/i18n/%two_letters_code%/docusaurus-plugin-content-blog/**/%original_file_name%
+  - source: /orgs/versioned_docs/**/*
+    translation: /orgs/i18n/%two_letters_code%/docusaurus-plugin-content-docs/**/%original_file_name%
