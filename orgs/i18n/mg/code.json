@@ -1,0 +1,310 @@
+{
+  "theme.ErrorPageContent.title": {
+    "message": "Nisy olana ka tsy nisokatra ity pejy ity.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Andramo indray",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.NotFound.title": {
+    "message": "Tsy hita ny pejy notadiavinao",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Tsy afaka nahita ny fanazavana notadiavinao izahay.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Mifandraisa amin’ny tompon’ny tranonkala izay nahazoanao an’io rohy io. Ilazao ry zareo tsy mandeha ilay izy.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.admonition.note": {
+    "message": "naoty",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "soso-kevitra",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "tandremo",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "tsara ho fantatra",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "tadidio",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Hanidy",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Hiverina any ambony",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Tahiry",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Tahiry",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Fijerena an’ireo vaovao",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Vao Nampidirina",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Efa Ela",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Fijerena an’ireo vaovao",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Vao Nampidirina",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Efa Ela",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "Vaovao 1|Vaovao {count}",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "Vaovao {nPosts} misy marika hoe \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Hijery ny Famantarana Rehetra",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Hisafidy na hampiasa maizina na mazava ({mode} no miasa izao)",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "maizina",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "mazava",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Pejy fandraisana",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Ireo nojerena",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "Isany: {count}",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Fijerena an’ireo pejy",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Teo aloha",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Manaraka",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "Lahatsoratra 1 misy famantarana|Lahatsoratra {count} misy famantarana",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} misy hoe \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Fanazavana tsy mbola nivoaka mahakasika ny {siteTitle} version {versionLabel} ity.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Fanazavana mahakasika ny {siteTitle} {versionLabel} ity, ary efa tsy misy mikarakara intsony.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Raha te hijery ny fanazavana farany, dia jereo ny {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "version farany",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Hanao fanovana amin’ity pejy ity",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Rohy mankeny ambony",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " tamin’ny {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " nataon’i {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Nohavaozina farany{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Version",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Hijery ny votoatiny avy hatrany",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Famantarana:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Fijerena an’ireo vaovao farany",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Nadika",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Handika ny kaody",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Handika",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Handefa na hanajanona ny midina an-dalana ho azy",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Hampiseho na hanafina ny sokajy '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Fiteny",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Eto amin’ity pejy ity",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Hamaky misimisy kokoa",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Hamaky misimisy kokoa momba ny {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Voavaky ao anatin’ny 1 min|Voavaky ao anatin’ny {readingTime} min",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Hanafina",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Hanafina",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Hiverina any amin’ny voalohany",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Hampiseho",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Hampiseho",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Fijerena ny tranokala",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Fijerena ny tranokala amin’ny sisim-pejy",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Hanafina ny fijerena ny tranokala",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Hampiseho na hanafina ny fijerena ny tranokala",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Famantarana",
+    "description": "The title of the tag list page"
+  },
+  "Help and documentations for Scheduling Workbox System applications": {
+    "message": "Fanampiana amin’ny fampiasana an’ireo programa Scheduling Workbox System",
+    "description": "SEO website description"
+  },
+  "Welcome!": {
+    "message": "Tongasoa!"
+  },
+  "Our team, the Scheduling Workbox System team, is very happy to welcome you to our website. Our goal is to build modern web technologies to assist congregations of Jehovah’s Witnesses to accomplish their tasks.": {
+    "message": "Ny ekipan’ny Scheduling Workbox System dia faly miarahaba anao tongasoa eto amin’ny tranokalanay. Hanamboatra programa manaraka ny toetr’andro mba hanampiana ny fiangonan’ny Vavolombelon’i Jehovah mba hamita ny andraikiny no tena tanjonay."
+  },
+  "Easy to use": {
+    "message": "Mora ampiasaina"
+  },
+  "Easy to use applications using modern web technologies": {
+    "message": "Programa mora ampiasaina, sady mampiasa ny teknolojia farany"
+  },
+  "Progressive Web Apps (PWA)": {
+    "message": "Progressive Web Apps (PWA)"
+  },
+  "Enjoy with faster and more reliable applications, work offline and cross-platform.": {
+    "message": "Programa mandeha haingana sady azo antoka tsara, mandeha na tsy misy internet aza, sady mety amin’ny fitaovana rehetra."
+  },
+  "Security by design": {
+    "message": "Azo antoka tsara"
+  },
+  "We are doing our best to secure our applications and your data.": {
+    "message": "Miezaka izahay mba ho azo antoka tsara ny programa amboarinay sy ny rakitra tehirizinao ao."
+  },
+  "This documentation is still a work in progress. Updated content will be posted as soon as they are available.": {
+    "message": "Mbola eo am-panoratana an’ity tranokala ity izahay amin’izao. Mandefa fanavaozana izahay isaky ny vonona izany."
+  },
+  "homepage.productsPage": {
+    "message": "Raha te hahazo fanazavana misimisy kokoa mahakasika ireo programa amboarinay, dia tsidiho ilay pejy hoe {productsLink}"
+  },
+  "homepage.productsPage.linkLabel": {
+    "message": "Zavatra Misy"
+  }
+}
