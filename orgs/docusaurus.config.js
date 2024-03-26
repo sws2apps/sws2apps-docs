@@ -94,7 +94,7 @@ const config = {
 						items: [
 							{
 								label: 'Organized',
-								to: 'docs/next/products/organized/getting-started/about-organized',
+								to: 'https://guide.organized-app.com',
 							},
 						],
 					},
