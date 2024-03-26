@@ -34,10 +34,10 @@ jobs:
           node-version: lts/Hydrogen
 
       - name: Install package dependencies
-        run: npm ci
+        run: cd orgs & npm ci
 
       - name: Build docs
-        run: npm run build
+        run: cd orgs & npm run build
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
@@ -45,13 +45,13 @@ jobs:
         id: check_build
         uses: andstor/file-existence-action@076e0072799f4942c8bc574a82233e1e4d13e9d6
         with:
-          files: 'build'
+          files: 'orgs/build'
 
       - name: Upload artifact
         if: ${{ steps.check_build.outputs.files_exists == 'true' }}
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa
         with:
-          path: ./build
+          path: ./orgs/build
 
   deploy:
     name: Deploy Artifact to GitHub Pages
