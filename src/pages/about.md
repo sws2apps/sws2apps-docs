@@ -15,8 +15,7 @@ We build modern web applications and tools to simplify the work of the brothers 
 Do you want to join our team? We are very confident that “there is accomplishment through many advisers.” You could be one of our contributors by visiting our organization profile on [GitHub](https://github.com/sws2apps). Find projects that you want to contribute to, read the contributing guidelines and let's collaborate! We would really appreciate your assistance if you know React development, UI/UX design, or motion design.
 
 ## Contact Us
-
-Feel free to send an email to sws2apps.notification@gmail.com.
+You are welcome to email us at sws2apps.notification@gmail.com.
 
 ## Support us
 
