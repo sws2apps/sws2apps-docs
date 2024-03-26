@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Ny Ekipa Scheduling Workbox System",
+    "description": "The title in the navbar"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "logo.alt": {
+    "message": "Sary famantarana sws2apps",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Products": {
+    "message": "Zavatra Misy",
+    "description": "Navbar item with label Products"
+  },
+  "item.label.About Us": {
+    "message": "Momba Anay",
+    "description": "Navbar item with label About Us"
+  },
+  "item.label.News": {
+    "message": "Vaovao",
+    "description": "Navbar item with label News"
+  }
+}
