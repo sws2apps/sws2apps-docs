@@ -34,10 +34,10 @@ jobs:
           node-version: lts/Hydrogen
 
       - name: Install package dependencies
-        run: cd orgs & npm ci
+        run: cd orgs && npm ci
 
       - name: Build docs
-        run: cd orgs & npm run build
+        run: cd orgs && npm run build
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
