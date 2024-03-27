@@ -30,8 +30,8 @@ While Organized already supports many languages, we're always looking to expand 
 
 The translation process is not complicated. Simply:
 1. Create a Crowdin account, 
-2. Open the Organized translation project
-3. And start translating. 
+2. Open the Organized [translation project](https://crowdin.com/project/organized),
+3. Start translating. 
 
 For better unserstanding, please view our short [video tutorial](https://www.youtube.com/watch?v=GG5q_NkfD6s) about the Organized translation process using Crowdin.
 
