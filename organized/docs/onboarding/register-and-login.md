@@ -34,7 +34,7 @@ Ask your elders or the Organized administrator in your congregation for your per
 
 ### Enter congregation’s encryption code
 
-Great! The next step is entering your congregation’s encryption code. That is a code created by elders to ensure the security of the app. Please don’t share the code without a direct permission of your elders.
+Great! The next step is entering your congregation’s encryption code. That is a code created by elders to ensure the security of the app. Please don’t share the code without direct permission from your elders.
 
 Click on the “Validate” button, and if the code is correct, your account will be created.
 
