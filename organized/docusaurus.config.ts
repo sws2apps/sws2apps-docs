@@ -57,7 +57,7 @@ const config: Config = {
 		// Replace with your project's social card
 		image: 'img/organized-og-image.jpg',
 		navbar: {
-			title: 'Organized',
+			title: 'Organized | How to use guide',
 			logo: {
 				alt: 'Organized How to use guide',
 				src: 'img/logo.svg',
@@ -81,10 +81,10 @@ const config: Config = {
 			style: 'dark',
 			links: [
 				{
-					title: 'Docs',
+					title: 'How to use',
 					items: [
 						{
-							label: 'Guide',
+							label: 'Text guide',
 							to: '/docs/intro',
 						},
 						{
@@ -99,6 +99,10 @@ const config: Config = {
 						{
 							label: 'GitHub Discussions',
 							href: 'https://github.com/sws2apps/organized-app/discussions',
+						},
+						{
+							label: 'Telegram',
+							href: 'https://t.me/+cSAJmkiVneQwNjQ8',
 						},
 					],
 				},
@@ -124,7 +128,7 @@ const config: Config = {
 					],
 				},
 			],
-			copyright: `Copyright © ${new Date().getFullYear()} Organized. Built by sws2apps team.`,
+			copyright: `© Organized ${new Date().getFullYear()}. Built by sws2apps team.`,
 		},
 		prism: {
 			theme: prismThemes.github,
