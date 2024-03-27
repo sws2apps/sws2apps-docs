@@ -12,7 +12,7 @@ Whether you're sharing Organized with others, joining our development efforts, o
 
 Got skills in React, Javascript, Typescript, or Node.JS? That's fantastic! We'd love for you to join our development team. With our organized approach and clear documentation, you can jump right in and start contributing. Since Organized app is an open-source project, together, we can make Organized an even more powerful tool for our global brotherhood.
 
-For more detailed information, please see [Organized GitHub repository](https://github.com/sws2apps/organized-app) and [development contribution guide](https://github.com/sws2apps/organized-app/blob/main/CONTRIBUTING.md) and [local environment setup tutorial](https://github.com/sws2apps/organized-app/blob/main/LOCAL_ENVIRONMENT_SETUP.md).
+For more detailed information, please see [Organized GitHub repository](https://github.com/sws2apps/organized-app), [development contribution guide](https://github.com/sws2apps/organized-app/blob/main/CONTRIBUTING.md), and [local environment setup tutorial](https://github.com/sws2apps/organized-app/blob/main/LOCAL_ENVIRONMENT_SETUP.md).
 
 ## Share your design ideas
 
