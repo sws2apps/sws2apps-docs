@@ -30,7 +30,7 @@ Once you connect to the congregation, Organized app will remember your device ID
 
 ### Enter your invitation code
 
-Ask your elders or Organized administrator in your congregation for your personal invitation code. After you have entered the code, click on the “Activate” button. If you get an error, double-check the code or see the error message details.
+Ask your elders or the Organized administrator in your congregation for your personal invitation code. After you have entered the code, click on the “Activate” button. If you get an error, double-check the code or see the error message details.
 
 ### Enter congregation’s encryption code
 
