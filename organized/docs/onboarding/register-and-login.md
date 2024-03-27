@@ -22,7 +22,7 @@ Click the "Publisher or student midweek meeting" button. This option is for:
 
 ### Connect to your congregation
 
-After selecting this option, you need to connect to your congregation. You can ask Organized administrator in your congregation for the code. 
+After selecting this option, you need to connect to your congregation. You can ask the Organized administrator in your congregation for the code. 
 
 :::tip[Please, remember]
 Once you connect to the congregation, Organized app will remember your device ID and will associate this device with your account. 
