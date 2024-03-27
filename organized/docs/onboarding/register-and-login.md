@@ -46,7 +46,7 @@ The account is successfully created and connected with your congregation. The im
 
 Click the "Baptized brother" button. This option is for all baptized brothers, including: 
 - Baptized brothers, that don’t have any responsibilities yet (but might have in the future), 
-- Baptized brothers, that have responsibilities (e.g help with territories, filling out forms, etc),
+- Baptized brothers, that have responsibilities (e.g., help with territories, filling out forms, etc.),
 - Ministerial servants,
 - Elders.
 
