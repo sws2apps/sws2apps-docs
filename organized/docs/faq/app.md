@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Where can I find the Organized app?
 
-Organized is a PWA app, meaining it operates in your device's browser. So you don't need to download it from App Store or Google Play. Simply visit the [organized-app.com](https://organized-app.com) link and you will open the app right away.
+Organized is a PWA app, meaining it operates in your device's browser. So you don't need to download it from App Store or Google Play. Simply visit the [organized-app.com](https://organized-app.com) link, and you will open the app right away.
 
 ## Can I download or install the app?
 
