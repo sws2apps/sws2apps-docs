@@ -14,7 +14,7 @@ The main elements on this page are:
 
 ## List view
 
-List view provides you a full list of all public talks. You can sort them by number, title, last delivery date, and speaker name. Click on any of those coumns title to apply sorting.
+List view provides you a full list of all public talks. You can sort them by number, title, last delivery date, and speaker name. Click on any of those columns title to apply sorting.
 Click on any of the talk rows to expand it and see more past speakers. 
 
 ![Public talks list](./img/public-talks-general-view.png)
