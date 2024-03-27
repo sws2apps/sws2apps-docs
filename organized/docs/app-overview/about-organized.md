@@ -18,7 +18,7 @@ Some of the Organized differentiators are: 1. Free for everyone, 2. Open source 
 
 No, it is not an official app from the organization of Jehovah’s Witnesses. Organized offers beneficial features for congregations, but its use is your choice. We recommend speaking with your congregation elders before starting to use the app for the whole congregation.
 
-## Why Organized is a web application? Is it safe to use in a congregation?
+## Why is Organized a web application? Is it safe to use in a congregation?
 
 We believe that transitioning from desktop applications to web applications offers more advantages and flexibility. Web applications are not dependent on system or hardware specifications; you can launch them from any platform or device with a browser, whether you work with Windows, Mac, Linux, ChromeOS or mobile Android, iPadOS, or iOS devices. We are well aware of the security challenges of web applications. Be confident that we have built the app using the most advanced and secure approach, and we are actively enhancing the security of Organized, consistently keeping up with the latest advancements and changes in web technologies. We've implemented multiple special security measures (for example, local storage, end-to-end encryption, two-factor authentication, app lock feature, and more) to ensure that only members of your congregation can access the information, keeping it strongly confidential.
 
