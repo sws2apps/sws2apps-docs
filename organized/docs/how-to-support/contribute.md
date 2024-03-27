@@ -22,7 +22,7 @@ If you have any ideas in mind – feel free to create some sketches or wireframe
 
 ## Let's make more video tutorials
 
-If you're proficient in motion design and video editing, we can collaborate to create more visual video tutorials for Organized [YouTube channel](https://www.youtube.com/@organized-app). Depending on your availability and skills, you can work on either longer-format videos or on Shorts (up to 60s) that demonstrate one feature at a time. We already have a lot of features we want to tell about, so your assistance will be so much appreciated!
+If you're proficient in motion design and video editing, we can collaborate to create more visual video tutorials for Organized [YouTube channel](https://www.youtube.com/@organized-app). Depending on your availability and skills, you can work on either longer-format videos or on Shorts (up to 60s) that demonstrate one feature at a time. We already have numerous features we want to share, so your assistance will be greatly appreciated!
 
 ## Help us translate
 
