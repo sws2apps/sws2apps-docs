@@ -40,7 +40,7 @@ Click on the “Validate” button, and if the code is correct, your account wil
 
 ### Notify administrator about your new account
 
-The account is successfully created and connected with your congregation. The important thing left to do – is ask your congregation’s Organized administrator to adjust your account’s roles and rights. After doing so, you will be able to access the app and see the schedules and assignments. 
+The account is successfully created and connected with your congregation. The important thing left to do is to ask your congregation’s Organized administrator to adjust your account’s roles and rights. After doing so, you will be able to access the app and see the schedules and assignments. 
 
 ## Option 2: Log in as a Baptized brother
 
