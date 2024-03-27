@@ -41,4 +41,4 @@ If you would like to add a language that is not yet present on Crowding, please 
 
 If you decide to contact us and propose your assisstance in any of mentioned areas, you can send us an email at [support@organized-app.com](mailto:support@organized-app.com). Please mention the area of collaboration in your email topic. 
 
-If you already have great ideas, feel free to share them on your [GitHub Discussions](https://github.com/sws2apps/organized-app/discussions) page.
+If you already have great ideas, feel free to share them on [GitHub Discussions](https://github.com/sws2apps/organized-app/discussions).
