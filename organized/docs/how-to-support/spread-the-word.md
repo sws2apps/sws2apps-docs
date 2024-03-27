@@ -10,7 +10,7 @@ The Organized app helps publishers in a congregation and appointed brothers in m
 
 ## Why?
 
-As more congergations use Organized, it becomes more helpful and improves the collaboration between appointed brothers and between congregations. So, by spreading the word, you're helping create a better and more helpful community for all of us.
+As more congregations use Organized, it becomes more helpful and improves the collaboration between appointed brothers and between congregations. So, by spreading the word, you're helping create a better and more helpful community for all of us.
 
 ## How?
 
