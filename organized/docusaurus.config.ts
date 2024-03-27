@@ -3,11 +3,11 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-	title: 'Organized Documentation',
+	title: 'Organized | How to use guide',
 	favicon: 'img/favicon.ico',
 
 	// Set the production url of your site here
-	url: 'https://docs.organized-app.com',
+	url: 'https://guide.organized-app.com',
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: '/',
@@ -55,11 +55,11 @@ const config: Config = {
 
 	themeConfig: {
 		// Replace with your project's social card
-		image: 'img/docusaurus-social-card.jpg',
+		image: 'img/organized-og-image.jpg',
 		navbar: {
 			title: 'Organized',
 			logo: {
-				alt: 'My Site Logo',
+				alt: 'Organized How to use guide',
 				src: 'img/logo.svg',
 			},
 			items: [
@@ -67,7 +67,7 @@ const config: Config = {
 					type: 'docSidebar',
 					sidebarId: 'tutorialSidebar',
 					position: 'left',
-					label: 'Tutorial',
+					label: 'Guide',
 				},
 				{ to: '/blog', label: 'Blog', position: 'left' },
 				{
@@ -84,8 +84,12 @@ const config: Config = {
 					title: 'Docs',
 					items: [
 						{
-							label: 'Tutorial',
+							label: 'Guide',
 							to: '/docs/intro',
+						},
+						{
+							label: 'YouTube tutorials',
+							href: 'https://www.youtube.com/@organized-app',
 						},
 					],
 				},
@@ -110,10 +114,6 @@ const config: Config = {
 							href: 'https://about.organized-app.com',
 						},
 						{
-							label: 'YouTube',
-							href: 'https://www.youtube.com/@organized-app',
-						},
-						{
 							label: 'Privacy Policy',
 							to: 'https://sws2apps.com/privacy',
 						},
@@ -124,7 +124,7 @@ const config: Config = {
 					],
 				},
 			],
-			copyright: `Copyright © ${new Date().getFullYear()} Organized. Built with Docusaurus.`,
+			copyright: `Copyright © ${new Date().getFullYear()} Organized. Built by sws2apps team.`,
 		},
 		prism: {
 			theme: prismThemes.github,
