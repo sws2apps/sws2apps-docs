@@ -13,12 +13,16 @@ Once you open the Organized app, you need to log in to your account. If you don�
 
 Here you need to select an option that suits your main current congregation role.
 
+![Welcome](./img/welcome.png)
+
 ## Option 1: Log in as a publisher or a midweek meeting student
 
 Click the "Publisher or student midweek meeting" button. This option is for: 
 - Baptized sisters, 
 - Unbaptized brothers and sisters,
 - Persons who have assignment on midweek meetings.
+
+![Publisher](./img/select.png)
 
 ### Connect to your congregation
 
@@ -28,15 +32,21 @@ After selecting this option, you need to connect to your congregation. You can a
 Once you connect to the congregation, Organized app will remember your device ID and will associate this device with your account. 
 :::
 
+![Connect to congregation](./img/connect.png)
+
 ### Enter your invitation code
 
 Ask your elders or the Organized administrator in your congregation for your personal invitation code. After you have entered the code, click on the “Activate” button. If you get an error, double-check the code or see the error message details.
+
+![Invitation](./img/invitation.png)
 
 ### Enter congregation’s encryption code
 
 Great! The next step is entering your congregation’s encryption code. That is a code created by elders to ensure the security of the app. Please don’t share the code without direct permission from your elders.
 
 Click on the “Validate” button, and if the code is correct, your account will be created.
+
+![Enter encryption](./img/enter-encryption.png)
 
 ### Notify administrator about your new account
 
@@ -50,15 +60,25 @@ Click the "Baptized brother" button. This option is for all baptized brothers, i
 - Ministerial servants,
 - Elders.
 
+![Baptized brother](./img/brother.png)
+
 ### Read and accept the terms
 
 After selecting “Baptized brother” option, you will see this important message about how the Organized app works and keeps your data safe. Please read it so you understand it and even can explain it to others. Then select the checkbox below and click “Next”.
+
+
+![Read and accept](./img/accept.png)
 
 ### Select your login method
 
 Now select how you'd like to log in to Organized. Remember your choice for next time, so you can access your existing account instead of making a new one.
 
+
+![Log in](./img/select-login.png)
+
 **Alternative:** If you don’t have any account in Google, Microsoft, GitHub or Yahoo, you can log in with your email address. Just select “Continue with Email” option and and follow the short and simple instructions.
+
+![Email auth](./img/email-auth.png)
 
 ### Request adjustments of your rights
 
@@ -67,5 +87,4 @@ Well done! Your “Baptized brother” account is now created! You just need to:
 2. Provide him your email address that you used for account registration
 3. Wait until he assigns you all the necessarry roles and rights.
 
-Afterwards, so you can open the Organized app and start using it.
-
+#### Afterward, so you can open the Organized app and start using it.

@@ -2,9 +2,10 @@
 sidebar_position: 2
 ---
 
-# App overview and navigation
 
-Organized is a helpful all-in-one app made for everyone in a congregation. You can access all its features easily on the Home page. Let's take a closer look!
+# User interface navigation
+
+You can access all features of Organized app easily from the Home page dashboard. Let's take a closer look!
 
 ## Home page dashboard
 
