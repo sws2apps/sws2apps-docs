@@ -41,6 +41,9 @@ const config: Config = {
 					editLocalizedFiles: true,
 				},
 				blog: false,
+				theme: {
+					customCss: ['./src/css/custom.css'],
+				},
 			} satisfies Preset.Options,
 		],
 	],
@@ -63,7 +66,6 @@ const config: Config = {
 			],
 		},
 		footer: {
-			style: 'dark',
 			links: [
 				{
 					title: 'How to use',
@@ -106,7 +108,6 @@ const config: Config = {
 				},
 			],
 			copyright: `© Organized ${new Date().getFullYear()}. Built by sws2apps team.`,
-
 		},
 		prism: {
 			theme: prismThemes.github,
