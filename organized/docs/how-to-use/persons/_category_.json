@@ -1,9 +1,7 @@
 {
-    "label": "Persons",
-    "position": 4
-  ,
-    "link": {
-      "type": "generated-index"
-    }
-  }
-  
+	"label": "Persons",
+	"position": 4,
+	"link": {
+		"type": "generated-index"
+	}
+}

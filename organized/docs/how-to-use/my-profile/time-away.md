@@ -1,4 +1,3 @@
-
 ---
 sidebar_position: 5
 ---
@@ -19,4 +18,3 @@ To add an away period, follow these steps:
 ![Time away set up](./img/time-away.png)
 
 By adding away periods, you help the scheduler make informed decisions when assigning tasks, even during times when you're unavailable. Keep it updated to help responsible brothers and yourself.
-
