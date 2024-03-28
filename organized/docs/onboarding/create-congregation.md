@@ -14,16 +14,23 @@ Please, ensure elders of your congregation approve Organized app usage before pr
 
 After completing the registration, click on the "Create Congregation" button at the bottom of the page. 
 
+![Create a congregation](./img/create.png)
+
 ## Enter details
 
-After doing so, enter your congregation’s details in corresponding fields.
+After doing so, enter your congregation’s details in corresponding fields. Congregation name and number is fetched directly from jw.org.
+
+![Congregation details](./img/details.png)
 
 ### Set up an encryption code.
 
-This code safeguards your congregation's info. This code should be strong, but without too tricky symbols. Remember that publishers should be able to enter this code on their devices as well. Avoid using widely known or obvious numbers and words like 1914, or Organized. 
+This code safeguards your congregation's info. This code should be strong, but without too tricky symbols. Remember that publishers should be able to enter this code on their devices as well. Please, avoid using widely known or obvious numbers and words like _1914_, or _Organized_. 
 
 :::danger[Encryption code is very important]
 If you lose this code, you'll need to start all over again, all congregation data will be lost. Note it and keep it safe! Notify brothers and sisters to not share it without a direct approval. Keeping your congregation info secure is a joint goal and responsibility of all users.
+:::
+
+![Congregation encryption code](./img/encryption.png)
 
 ### Your congregation is created!
 
