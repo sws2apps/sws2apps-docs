@@ -1,9 +1,7 @@
 {
-    "label": "Reports",
-    "position": 5
-  ,
-    "link": {
-      "type": "generated-index"
-    }
-  }
-  
+	"label": "Meeting materials",
+	"position": 5,
+	"link": {
+		"type": "generated-index"
+	}
+}

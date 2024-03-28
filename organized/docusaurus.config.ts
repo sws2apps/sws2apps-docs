@@ -33,22 +33,14 @@ const config: Config = {
 			'classic',
 			{
 				docs: {
+					routeBasePath: '/',
 					sidebarPath: './sidebars.ts',
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main/organized',
 					editLocalizedFiles: true,
 				},
-				blog: {
-					showReadingTime: true,
-					// Please change this to your repo.
-					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main/organized',
-					editLocalizedFiles: true,
-				},
-				theme: {
-					customCss: './src/css/custom.css',
-				},
+				blog: false,
 			} satisfies Preset.Options,
 		],
 	],
@@ -64,13 +56,6 @@ const config: Config = {
 			},
 			items: [
 				{
-					type: 'docSidebar',
-					sidebarId: 'tutorialSidebar',
-					position: 'left',
-					label: 'Guide',
-				},
-				{ to: '/blog', label: 'Blog', position: 'left' },
-				{
 					href: 'https://github.com/sws2apps/organized-app',
 					label: 'GitHub',
 					position: 'right',
@@ -83,10 +68,6 @@ const config: Config = {
 				{
 					title: 'How to use',
 					items: [
-						{
-							label: 'Text guide',
-							to: '/docs/intro',
-						},
 						{
 							label: 'YouTube tutorials',
 							href: 'https://www.youtube.com/@organized-app',
@@ -109,10 +90,6 @@ const config: Config = {
 				{
 					title: 'More',
 					items: [
-						{
-							label: 'Blog',
-							to: '/blog',
-						},
 						{
 							label: 'About Organized',
 							href: 'https://about.organized-app.com',

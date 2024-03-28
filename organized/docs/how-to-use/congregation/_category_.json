@@ -1,9 +1,7 @@
 {
-    "label": "Reports",
-    "position": 7
-  ,
-    "link": {
-      "type": "generated-index"
-    }
-  }
-  
+	"label": "Congregation",
+	"position": 7,
+	"link": {
+		"type": "generated-index"
+	}
+}

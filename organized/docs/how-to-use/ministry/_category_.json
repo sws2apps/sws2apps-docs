@@ -1,9 +1,7 @@
 {
-    "label": "Ministry",
-    "position": 2
-  ,
-    "link": {
-      "type": "generated-index"
-    }
-  }
-  
+	"label": "Ministry",
+	"position": 2,
+	"link": {
+		"type": "generated-index"
+	}
+}
