@@ -1,20 +1,20 @@
 .welcome {
-  padding: 3em 1em;
+	padding: 3em 1em;
 }
 
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+	display: flex;
+	align-items: center;
+	padding: 2rem 0;
+	width: 100%;
 }
 
 .featureImg {
-  height: 90px;
-  width: auto;
-  border-radius: 8px;
+	height: 90px;
+	width: auto;
+	border-radius: 8px;
 }
 
 .startFaqs {
-  margin: 20px 0;
+	margin: 20px 0;
 }
