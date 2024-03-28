@@ -27,7 +27,7 @@ After doing so, enter your congregation’s details in corresponding fields. Con
 This code safeguards your congregation's info. This code should be strong, but without too tricky symbols. Remember that publishers should be able to enter this code on their devices as well. Please, avoid using widely known or obvious numbers and words like _1914_, or _Organized_. 
 
 :::danger[Encryption code is very important]
-If you lose this code, you'll need to start all over again, all congregation data will be lost. Note it and keep it safe! Notify brothers and sisters to not share it without a direct approval. Keeping your congregation info secure is a joint goal and responsibility of all users.
+If you lose this code, you'll need to start all over again, **all congregation data will be lost**. Note it and keep it safe! Notify brothers and sisters to not share it with others. Keeping your congregation info secure is a joint goal and responsibility of all users.
 :::
 
 ![Congregation encryption code](./img/encryption.png)

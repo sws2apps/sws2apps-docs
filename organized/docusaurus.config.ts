@@ -84,6 +84,7 @@ const config: Config = {
 					title: 'How to use',
 					items: [
 						{
+
 							label: 'Text guide',
 							to: '/docs/intro',
 						},
@@ -129,6 +130,7 @@ const config: Config = {
 				},
 			],
 			copyright: `© Organized ${new Date().getFullYear()}. Built by sws2apps team.`,
+
 		},
 		prism: {
 			theme: prismThemes.github,
