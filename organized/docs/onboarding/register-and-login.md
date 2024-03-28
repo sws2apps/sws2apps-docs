@@ -66,11 +66,13 @@ Click the "Baptized brother" button. This option is for all baptized brothers, i
 
 After selecting “Baptized brother” option, you will see this important message about how the Organized app works and keeps your data safe. Please read it so you understand it and even can explain it to others. Then select the checkbox below and click “Next”.
 
+
 ![Read and accept](./img/accept.png)
 
 ### Select your login method
 
 Now select how you'd like to log in to Organized. Remember your choice for next time, so you can access your existing account instead of making a new one.
+
 
 ![Log in](./img/select-login.png)
 
@@ -85,4 +87,4 @@ Well done! Your “Baptized brother” account is now created! You just need to:
 2. Provide him your email address that you used for account registration
 3. Wait until he assigns you all the necessarry roles and rights.
 
-Afterward, so you can open the Organized app and start using it.
+#### Afterward, so you can open the Organized app and start using it.

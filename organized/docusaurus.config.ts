@@ -106,6 +106,7 @@ const config: Config = {
 				},
 			],
 			copyright: `© Organized ${new Date().getFullYear()}. Built by sws2apps team.`,
+
 		},
 		prism: {
 			theme: prismThemes.github,

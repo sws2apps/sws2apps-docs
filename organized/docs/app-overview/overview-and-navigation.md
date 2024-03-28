@@ -2,6 +2,7 @@
 sidebar_position: 2
 ---
 
+
 # User interface navigation
 
 You can access all features of Organized app easily from the Home page dashboard. Let's take a closer look!
