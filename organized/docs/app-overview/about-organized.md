@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /
 ---
 
 # About Organized app
@@ -12,13 +13,14 @@ Organized is a free progressive web application crafted specifically for Jehovah
 
 We know that there are other apps aiming to support congregations. We're not trying to judge which app is the best. Simply try Organized to see if it's a good fit for you.
 
-Some of the Organized differentiators are: 
- 1. Free for everyone,
- 2. Open-source code with full transparency,
- 3. User-centered and design-first approach,
- 4. Easy and convenient to use,
- 5. Cross-platform flexibility,
- 6. An active team dedicated to constantly improving the app.
+Some of the Organized differentiators are:
+
+1.  Free for everyone,
+2.  Open-source code with full transparency,
+3.  User-centered and design-first approach,
+4.  Easy and convenient to use,
+5.  Cross-platform flexibility,
+6.  An active team dedicated to constantly improving the app.
 
 ## Is Organized an official application from the organization?
 

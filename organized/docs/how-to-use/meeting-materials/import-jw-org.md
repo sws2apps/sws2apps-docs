@@ -8,4 +8,4 @@ Importing meeting materials from jw.org is simple and fast with Organized! On th
 
 ![Import from jw.org](./img/import-jw-org.gif)
 
-The imported meeting materials language matches your [Congregation settings](/organized/docs/how-to-use/congregation/congregation-settings.md) import language setting. So, if you're getting wrong language materials imported, please check out the settings on that page.
+The imported meeting materials language matches your [Congregation settings](../congregation/congregation-settings.md) import language setting. So, if you're getting wrong language materials imported, please check out the settings on that page.

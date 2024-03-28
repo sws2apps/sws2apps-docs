@@ -3,21 +3,21 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-	title: 'Organized | How to use guide',
+	title: 'Scheduling Workbox System',
 	favicon: 'img/favicon.ico',
 
 	// Set the production url of your site here
-	url: 'https://guide.organized-app.com',
+	url: 'https://sws2apps.com',
 	// Set the /<baseUrl>/ pathname under which your site is served
 	// For GitHub pages deployment, it is often '/<projectName>/'
 	baseUrl: '/',
 
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
-	organizationName: 'sws2apps', // Usually your GitHub org/user name.
-	projectName: 'sws2apps-docs', // Usually your repo name.
+	organizationName: 'facebook', // Usually your GitHub org/user name.
+	projectName: 'docusaurus', // Usually your repo name.
 
-	onBrokenLinks: 'warn',
+	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 
 	// Even if you don't use internationalization, you can use this field to set
@@ -33,30 +33,31 @@ const config: Config = {
 			'classic',
 			{
 				docs: {
-					routeBasePath: '/',
 					sidebarPath: './sidebars.ts',
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
-					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main/organized',
-					editLocalizedFiles: true,
+					editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
 				},
 				blog: false,
+				theme: {
+					customCss: './src/css/custom.css',
+				},
 			} satisfies Preset.Options,
 		],
 	],
 
 	themeConfig: {
 		// Replace with your project's social card
-		image: 'img/organized-og-image.jpg',
+		image: 'img/docusaurus-social-card.jpg',
 		navbar: {
-			title: 'Organized | How to use guide',
+			title: 'Scheduling Workbox System',
 			logo: {
-				alt: 'Organized How to use guide',
-				src: 'img/logo.svg',
+				alt: 'logo',
+				src: 'img/sws2apps.svg',
 			},
 			items: [
 				{
-					href: 'https://github.com/sws2apps/organized-app',
+					href: 'https://github.com/sws2apps',
 					label: 'GitHub',
 					position: 'right',
 				},
@@ -66,24 +67,15 @@ const config: Config = {
 			style: 'dark',
 			links: [
 				{
-					title: 'How to use',
-					items: [
-						{
-							label: 'YouTube tutorials',
-							href: 'https://www.youtube.com/@organized-app',
-						},
-					],
-				},
-				{
 					title: 'Community',
 					items: [
 						{
-							label: 'GitHub Discussions',
-							href: 'https://github.com/sws2apps/organized-app/discussions',
-						},
-						{
 							label: 'Telegram',
 							href: 'https://t.me/+cSAJmkiVneQwNjQ8',
+						},
+						{
+							label: 'GitHub Discussions',
+							href: 'https://github.com/sws2apps/discussions',
 						},
 					],
 				},
@@ -91,22 +83,21 @@ const config: Config = {
 					title: 'More',
 					items: [
 						{
-							label: 'About Organized',
-							href: 'https://about.organized-app.com',
+							label: 'GitHub',
+							href: 'https://github.com/sws2apps',
 						},
 						{
 							label: 'Privacy Policy',
-							to: 'https://sws2apps.com/privacy',
+							to: '/privacy',
 						},
 						{
 							label: 'Terms of Use',
-							to: 'https://sws2apps.com/terms',
+							to: '/terms',
 						},
 					],
 				},
 			],
-			copyright: `© Organized ${new Date().getFullYear()}. Built by sws2apps team.`,
-
+			copyright: `Copyright © ${new Date().getFullYear()} Scheduling Workbox System`,
 		},
 		prism: {
 			theme: prismThemes.github,
