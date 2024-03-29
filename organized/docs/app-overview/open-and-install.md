@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Open and install the app
 
-To open and install the Organized app, visit the organized-app.com link in your web browser, that's where you can always find it. You can use the app directly in your browser, or install it for a better experience. Once installed, you can use the app with or without an internet connection.
+To open the Organized app, visit the organized-app.com link in your web browser; this is the central hub for accessing the app. You have the option to use the app directly in your browser or to install it for an enhanced experience. Once installed, the app can be used with or without an internet connection.
 
 ## How to install Organized on Android and iOS? 
 
