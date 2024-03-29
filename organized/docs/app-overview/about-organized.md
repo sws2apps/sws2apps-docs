@@ -27,7 +27,7 @@ When it comes to tangible benefits in real-life situations, consider the followi
 
 ## Is Organized an official application from the organization?
 
-No, it is not an official app from the organization of Jehovah’s Witnesses. Our team consistst of volunteer brothers and sisters who serve in different countries. Organized offers beneficial features for congregations, but its use is your choice. We recommend speaking with your congregation elders before starting to use the app for the whole congregation.
+No, it is not an official app from the organization of Jehovah’s Witnesses. Our team consists of volunteer brothers and sisters who serve in different countries. Organized offers beneficial features for congregations, but its use is your choice. We recommend speaking with your congregation elders before starting to use the app for the whole congregation.
 
 ## Why is Organized a web application? Is it safe to use in a congregation?
 
