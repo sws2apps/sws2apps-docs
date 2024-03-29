@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Contact Organized support
 
-Our support is happy to help you, if you're facing any issues with the app that are not yet covered in this How to use guide. There are two ways to reach us out.
+Our support is happy to help you, if you're facing any issues with the app that are not yet covered in this How to use guide articles. There are two ways to reach us out.
 
 ## Open an Issue on GitHub
 
@@ -15,3 +15,7 @@ By submitting an Issue, you can help us identify and fix problems more quickly, 
 ## Send an email
 
 If you need to discuss your issue privately or you don't have a GitHub account, please send us an email at [support@organized-app.com](mailto:support@organized-app.com). We will do our best to respond to your inquiry as soon as possible and provide any necessary assistance.
+
+## Ask in our Telegram chat
+
+If you have any questions or need help with our app in more real-time way, feel free to ask in our Telegram group chat. Our community is made up of fellow worshippers who are happy to help and share their experiences using the app. You can join our [Sheduling Workbox System Telegram chat](https://t.me/+cSAJmkiVneQwNjQ8) and ask your questios in the English topic/subchat, or a one in your lagnuage if it exists. Please note that while our Telegram chat is a great resource for getting help from us and the community, we encourage to share idea or ask questions that may be beneficial for others on our GitHub repository page by [opening an Issue](https://github.com/sws2apps/organized-app/issues/new/choose) or creating a new [Discussions post](https://github.com/sws2apps/organized-app/discussions).
