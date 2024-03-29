@@ -8,6 +8,9 @@ Of course! We are more than happy to receive support from you, if you are very i
 
 Each "How to use" article in this repository is basically a markdown-styled file. Feel free to dive deeper into the project structure, create new pages, edit existing once and propose your changes.
 
+`Organized` folder contains [Organized App's](https://guide.organized-app.com/faq/relation-to-organization) related guide. 
+`Orgs` folder contains the whole [sws2app](http://sws2apps.com) team's documentation.
+
 ## Noticed and issue or have an idea?
 
 Open a new issue in this repository and we will review it.
