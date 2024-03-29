@@ -37,7 +37,7 @@ If you use any other browser besides Safari, the installation process is the sam
 But if you use Safari, to install the Organized app on macOS and add it to the Dock, follow these steps:
 
 1. Visit the organized-app.com link in Safari.
-2. Click on the "File" menu in the top left corner of the screen.
+2. Click on the "File" menu in the top-left corner of the screen.
 3. Select "Add to Dock..." from the dropdown menu.
 4. A pop-up window will appear asking if you want to add the app to your home screen. Click "Add" to confirm.
 5. The app will be downloaded and installed on your computer.
