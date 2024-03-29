@@ -12,7 +12,7 @@ Yes, you can use the Organized app with full functionality on your smartphone. Y
 1. Visit the organized-app.com link in your web browser and you'll instantly access the app. 
 2. To install it, open the "More" menu _(usually represented by three dots on Android and a share icon on iOS)_.
 3. Click "Install" or "Add to home screen" button from your browser's menu. 
-4. In a moment, the Organized app will then be available in your app list.
+4. Soon, the Organized app will be available in your app list.
 
 With the Organized app installed on your smartphone, you can easily manage your personal study, field service, and congregation activities from anywhere, even when you're on the go.
 
