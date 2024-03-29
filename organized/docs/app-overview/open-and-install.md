@@ -34,7 +34,7 @@ Once the installation is complete, you can access the app from your Start menu o
 
 If you use any other browser besides Safari, the installation process is the same as the Windows installation steps above.
 
-But if you use Safati, to install the Organized app on MacOS and add it to the Dock, follow these steps:
+But if you use Safari, to install the Organized app on macOS and add it to the Dock, follow these steps:
 
 1. Visit the organized-app.com link in Safari.
 2. Click on the "File" menu in the top left corner of the screen.
