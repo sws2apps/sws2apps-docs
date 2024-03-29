@@ -15,10 +15,10 @@
 	--ifm-color-primary-lightest: #6782f2;
 	--ifm-code-font-size: 95%;
 	--ifm-footer-title-color: inherit;
-	--ifm-footer-background-color: #f4f4f4;
+	--ifm-footer-background-color: #F2F5FF;
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
-	--body-bg: #ffffff; /* Light theme body background color */
+	--body-bg: #FDFDFF; /* Light theme body background color */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -31,10 +31,10 @@
 	--ifm-color-primary-lighter: #88a5ff;
 	--ifm-color-primary-lightest: #9aaaff;
 	--ifm-footer-title-color: inherit;
-	--ifm-footer-background-color: #333333;
+	--ifm-footer-background-color: #242526;
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 
-	--body-bg: #121212; /* Dark theme body background color */
+	--body-bg: #1E2025; /* Dark theme body background color */
 }
 
 body {

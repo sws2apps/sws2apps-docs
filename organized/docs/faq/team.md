@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# The team
+# The Organized team
 
 ## Who develops the Organized app?
 

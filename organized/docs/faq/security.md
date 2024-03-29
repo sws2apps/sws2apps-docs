@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Security
+# Security and privacy
 
 ## Is Organized secure and protected to be used in a congregation?
 
@@ -42,7 +42,7 @@ _For example, a coordinator of a congregation may have access to all data and fe
 
 ## Does the Organized app share my data with third-party companies?
 
-No, we do not share your data with third-party companies. 
+No, we do not share your data with any third-party companies. 
 
 When you choose to use our Organized app, we only collect essential information like your name and email. Additionally, we gather your device's IP address and your device's user agent details to enhance your experience with our app. **We prioritize your privacy and never allow advertising companies to track you through our services** or use your data for targeted ads. Any information you provide in the Organized app remains strictly confidential and is never shared with outside parties. We are committed to protecting your personal information and maintaining your trust.
 
