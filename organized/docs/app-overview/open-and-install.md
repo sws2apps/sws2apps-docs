@@ -9,7 +9,7 @@ To open and install the Organized app, visit the organized-app.com link in your 
 ## How to install Organized on Android and iOS? 
 
 Yes, you can use the Organized app with full functionality on your smartphone. You don't need to search for it in the App Store or Google Play. Simply follow these steps:
-1. Visit the organized-app.com link in your web browser and you'll instantly access the app. 
+1. Visit the organized-app.com link in your web browser, and you'll instantly access the app. 
 2. To install it, open the "More" menu _(usually represented by three dots on Android and a share icon on iOS)_.
 3. Click "Install" or "Add to home screen" button from your browser's menu. 
 4. Soon, the Organized app will be available in your app list.
