@@ -30,7 +30,7 @@ Once the installation is complete, you can access the app from your Start menu o
 **Note:** The Organized app is a Progressive Web App (PWA), which means it can be installed and used like a native app on your Windows computer. However, it doesn't require any special installation or download from the Microsoft Store.
 
 
-## How to install Organized on MacOS?
+## How to install Organized on macOS?
 
 If you use any other browser besides Safari, the installation process is the same as the Windows installation steps above.
 
