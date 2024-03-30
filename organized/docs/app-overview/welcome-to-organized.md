@@ -12,7 +12,7 @@ Organized is a free progressive web application crafted specifically for Jehovah
 
 When it comes to benefits in real-life situations, consider the following: Reduced stress for every congregation member, hundreds of hours saved for appointed brothers, streamlined digital processes with way less waste, improved speed of collaboration, and enhanced convenience for all. 
 
-To explore Organized concept, features and its benefits a more visual format, feel free to visit our [About Organized](https://about.organized-app.com) webpage — an ideal resource to introduce Organized to others, or view video tutorials on you [YouTube channel](https://www.youtube.com/@organized-app).
+To explore the Organized concept, features, and its benefits in a more visual format, feel free to visit our [About Organized](https://about.organized-app.com) webpage — an ideal resource to introduce Organized to others, or view video tutorials on our [YouTube channel](https://www.youtube.com/@organized-app).
 
 ## How Organized is different compared to other theocratic apps?
 
