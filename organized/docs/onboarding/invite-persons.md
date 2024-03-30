@@ -4,9 +4,9 @@ sidebar_position: 3
 
 # Invite persons to your congregation
 
-To invite persons to your congregation on Organized, follow these steps based on their user type. There are two global user types: "Baptised brother" and "Publisher or midweek student".
+To invite persons to your congregation on Organized, follow these steps based on their user type. There are two global user types: "Baptized brother" and "Publisher or midweek student".
 
-- **"Baptised brother"** is any baptized brother. We create an account for any baptized brother specifically, so that his profile is already in the right user group once he is appointed to a ministerial servant or other assistant role.
+- **"Baptized brother"** is any baptized brother. We create an account for any baptized brother specifically, so that his profile is already in the right user group once he is appointed to a ministerial servant or other assistant role.
 
 - **"Publisher or midweek student"** is any other member of the congregation, including baptized sisters, unbaptized brothers or sisters, or male or female students on a midweek meeting.
 
