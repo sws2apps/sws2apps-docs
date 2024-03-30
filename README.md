@@ -8,6 +8,7 @@ The repository is divided into two main sections:
 
 1. **`organized`: [Organized App guide](https://guide.organized-app.com/app-overview/welcome-to-organized)**: This section contains comprehensive guides for each of our applications. The guides are organized into different folders based on the application they pertain to. Each folder contains a `custom.css` file for styling and a `/docs` folder where you can find "How to use" guide articles.
 
+
 2. **`orgs`: [sws2apps team documentation](http://sws2apps.com)**: Similar to the app's related guide section, this directory has its own folder with a `custom.css` file and a `/docs` folder for articles.
 
 ## Creating a New Article
