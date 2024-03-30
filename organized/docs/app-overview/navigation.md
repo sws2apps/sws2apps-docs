@@ -2,10 +2,9 @@
 sidebar_position: 3
 ---
 
-
 # App navigation
 
-You can access all features of Organized app easily from the Home page dashboard. Let's take a closer look!
+Once you've [registered](/organized/docs/onboarding/register-and-login.md) your account and joined your congregation, you'll land on the home page. From here, you can easily access all the features of the Organized app through the Home page dashboard. Let's take a closer look!
 
 ## Home page dashboard
 
