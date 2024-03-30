@@ -6,7 +6,7 @@ sidebar_position: 4
 
 ## Star the GitHub project
 
-One of the easiest ways to show your support for the Organized app and help it gain more visibility is to star the [Organized repository on GitHub](https://github.com/sws2apps/organized-app). To do this, click the star icon ⭐️ in the top right corner of the repository's main page. By starring the repository, you'll make it easier for other enthusiastic publishers and developers on GitHub to discover and contribute to the project. This small action can have a significant impact on the growth and improvement of the Organized app. 
+One of the easiest ways to show your support for the Organized app and help it gain more visibility is to star the [Organized repository on GitHub](https://github.com/sws2apps/organized-app). To support, simply click the star icon ⭐️ in the top-right corner of the repository's main page. By starring the repository, you'll make it easier for other enthusiastic publishers and developers on GitHub to discover and contribute to the project. This small action can have a significant impact on the growth and improvement of the Organized app. 
 
 ## Subscribe to our YouTube channel
 
