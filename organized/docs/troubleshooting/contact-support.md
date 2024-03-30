@@ -18,4 +18,4 @@ If you have any questions or need help with our app in more real-time way, or as
 
 ## Send an email
 
-If you need to discuss your issue privately or you don't have a GitHub account, please send us an email at [support@organized-app.com](mailto:support@organized-app.com). We will do our best to respond to your inquiry as soon as possible and provide any necessary assistance.
+If you need to discuss your issue privately or don't have a GitHub account, please email us at [support@organized-app.com](mailto:support@organized-app.com). We will do our best to respond to your inquiry as soon as possible and provide any necessary assistance.
