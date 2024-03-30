@@ -26,7 +26,7 @@ To add a baptized brother to your congregation, he should already have an accoun
 3. Use this email to add him to your congregation.
 
 :::tip[If you see "No user found with this email address":]
-Make sure that you enter the correct email address with no typos and that the brother has indeed created an Organized account and he sees "Thanks for registering" message on Organized app
+Ensure you enter the correct email address without typos and that the brother has indeed created an Organized account and sees the "Thanks for registering" message in the Organized app.
 :::
 ![No user found with this email address](./img/brother-error.png)
 
