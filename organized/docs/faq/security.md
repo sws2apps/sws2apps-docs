@@ -18,6 +18,19 @@ End-to-end encryption, encryption key, app PIN code, two-factor authentication, 
 
 No, the Organized app team **can not** access your congregation data. Without the encryption key, no one on the Internet can access your congregation data, including the Organized app team.
 
+## What does "Organized is open-source" mean? Is it safe?
+
+In the case of Organized, this means that anyone can access the code that makes the app work. Before making the app's source code available online, we've completed comprehensive test of its security, and we continue improving it. Open-source approach is safe and has several benefits, including:
+
+- **Transparency:** Anyone can check how the app works, this increases trust in its security.
+- **Collaboration:** Developers can work together to improve the code and add new features.
+
+Regarding security, it's important to note that **the app's codebase is completely separate from the database that contains the congregation's data**. The code is how the app works, while the database contains the data that is displayed for users. The data is always privately secured and encrypted, and access is restricted to only those who are authorized to view it.
+
+In fact, open-source software can often be more secure than closed-source software because the code is publicly available for scrutiny. This means that any security vulnerabilities can be identified and fixed more quickly.
+
+_In summary, "Organized is open-source" means that the app's source code is publicly available for anyone to view, use, and collaborate. However, this does not mean that anybody can view or access user data from it. The codebase and the database are completely separate, and the data is always privately secured and encrypted. Only authorized individuals can view and access the data, ensuring that it remains confidential and protected at all times._
+
 ## What is end-to-end encryption, and how does it protect congregation data?
 
 End-to-end encryption is a security protocol that ensures data is encrypted **before** it is sent or synced to servers. With end-to-end encryption, only the sender and intended recipient can access the data, making it virtually impossible for unauthorized users to intercept or access the data. Each congregation has their own strong encryption code that contains symbols, letters, numbers, and is not even mathematically generated.

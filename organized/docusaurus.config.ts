@@ -84,7 +84,7 @@ const config: Config = {
 							href: 'https://github.com/sws2apps/organized-app/discussions',
 						},
 						{
-							label: 'Telegram',
+							label: 'Telegram group',
 							href: 'https://t.me/+cSAJmkiVneQwNjQ8',
 						},
 					],
