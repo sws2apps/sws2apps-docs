@@ -26,7 +26,7 @@ A Progressive Web App (PWA) is a type of website that works like a native app bu
 
 ## What operating systems are supported?
 
-All modern systems are supported – Android, iOS, MacOS, Windows, ChromeOS and Linux. Organized is a progressive web app (PWA) that operates seamlessly with a modern browser, making it accessible on any device without the need for separate mobile or desktop apps. This means that you always have access to the full power and functionality of the app, whether you're using a smartphone, tablet, or computer. Enjoy this flexibility of using your account on multiple desktop or mobile devices simultaneously!
+All modern systems are supported – Android, iOS, macOS, Windows, ChromeOS, and Linux. Organized is a progressive web app (PWA) that operates seamlessly with a modern browser, making it accessible on any device without the need for separate mobile or desktop apps. This means that you always have access to the full power and functionality of the app, whether you're using a smartphone, tablet, or computer. Enjoy this flexibility of using your account on multiple desktop or mobile devices simultaneously!
 
 ## What languages are available in Organized?
 
