@@ -74,6 +74,10 @@ const config: Config = {
 							label: 'YouTube tutorials',
 							href: 'https://www.youtube.com/@organized-app',
 						},
+						{
+							label: 'Text guide',
+							href: '',
+						},
 					],
 				},
 				{

@@ -62,3 +62,11 @@ When you choose to use our Organized app, we only collect essential information 
 ## Can I run the Organized without my own server and database?
 
 We are currently working on this. With the next updates, you will be able to run Organized on your own server with your own database, giving you uncompromized control over all data and access. 
+
+## Where my Organized data is stored?
+
+Your data is stored securely in Organized, depending on how you use the app. 
+
+If you're using the app alone on a single device, your data is stored only locally on that device. 
+
+However, if you're using the app with your congregation or on multiple devices, your data backups are still stored on your device, but it is also regularly shared with other members of your congregation _(only the data that you allow them to view, such as schedules, persons, groups, etc.)_. All the data backups are encrypted using your own strong encryption code and securely shared across congregation members through our servers. All data is stored with the highest level of security, and no one unauthorized can access or read it.

@@ -16,13 +16,17 @@ Yes, you can download and install the Organized PWA app on your device. As a Pro
 
 Yes, the Organized app is absolutely free for everyone. We don't ask for a monthly or annual subscription. Currently, we cover the server and maintenance costs ourselves. However, your donations will contribute to keeping the app free forever, especially for congregations in less affluent countries.
 
+## Is Organized available as a mobile app? Or is it computer-only? 
+
+Organized is a web app, which means that you can access it from any device It's a Progressive Web App (PWA), which offers the convenience and functionality of a native app on both computer and mobile devices.
+
 ## Organized is PWA. What does it mean? 
 
 A Progressive Web App (PWA) is a type of website that works like a native app but runs in your web browser. It provides a fast and reliable experience, can work offline, and even send you notifications. You can either use it on any device with a modern web browser, just like a regular website, or click “Install” button to add the app to your home page and get better experience.
 
 ## What operating systems are supported?
 
-All modern systems are supported – Android, iOS, MacOS, Windows, ChromeOS and Linux. Organized is a PWA app that operates seamlessly with a modern browser as its primary requirement. Enjoy the flexibility of using your account on multiple desktop or mobile devices simultaneously.
+All modern systems are supported – Android, iOS, MacOS, Windows, ChromeOS and Linux. Organized is a progressive web app (PWA) that operates seamlessly with a modern browser, making it accessible on any device without the need for separate mobile or desktop apps. This means that you always have access to the full power and functionality of the app, whether you're using a smartphone, tablet, or computer. Enjoy this flexibility of using your account on multiple desktop or mobile devices simultaneously!
 
 ## What languages are available in Organized?
 
@@ -31,5 +35,3 @@ Currently, Organized supports more than 20 languages, either fully and partially
 :::tip[Don't see your language in the supported list?]
 If you want to translate the app into your language, it's easy – see our [translation video tutorial](https://www.youtube.com/watch?v=GG5q_NkfD6s) and feel free to check out our [Crowdin.com translation project](https://crowdin.com/project/organized) where you can contribute.
 :::
-
-
