@@ -20,7 +20,7 @@ No, you don't have to! Organized can automatically fetch all meeting parts, publ
 
 ## Can I export print templates of the schedules?
 
-Sure thing! Organized helps you efficiently manage schedules and other activities, providing the added convenience of easily exporting them into attractive print-ready files. Print them your information board or share them as PDFs with others. Our top-quality PDF templates are created by a team of designers and have many variations and include all the important and additional information.
+Sure thing! Organized helps you efficiently manage schedules and other activities, providing the added convenience of easily exporting them into attractive print-ready files. Print them for your information board or share them as PDFs with others. Our top-quality PDF templates are created by a team of designers and have many variations and include all the important and additional information.
 
 ## What about Meeting Assignment Form?
 
