@@ -18,7 +18,7 @@ Yes, the Organized app is absolutely free for everyone. We don't ask for a month
 
 ## Is Organized available as a mobile app? Or is it computer-only? 
 
-Organized is a web app, which means that you can access it from any device It's a Progressive Web App (PWA), which offers the convenience and functionality of a native app on both computer and mobile devices.
+Organized is a web app, which means that you can access it from any device. It's a Progressive Web App (PWA), which offers the convenience and functionality of a native app on both computer and mobile devices.
 
 ## Organized is PWA. What does it mean? 
 
