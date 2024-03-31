@@ -22,7 +22,7 @@ Firstly, there are many Bethel branches worldwide. We have spoken to many brothe
 
 ## Do you have more questions? 
 
-If you have any further questions or concerns, don't hesitate to diligently explore the application code on our [GitHub repository](https://github.com/sws2apps/organized-app) or this How to use guide that you're currently reading, especially other [Frequently asked questions](/organized/docs/faq/). If you can't find an answer to your question, please ask it on our GitHub Discussions.
+If you have any further questions or concerns, don't hesitate to explore the application code on our [GitHub repository](https://github.com/sws2apps/organized-app) or this How to Use guide that you're currently reading, especially the [Frequently Asked Questions](/organized/docs/faq/). If you can't find an answer to your question, please ask it on our GitHub Discussions.
 
 ## Is there anything else I should know about Organized?
 
