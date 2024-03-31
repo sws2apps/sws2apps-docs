@@ -14,7 +14,7 @@ Our software is not mandatory to use, but it complies with all up-to-date Govern
 
 The usage of unofficial theocratic apps developed by Jehovah's Witnesses for Jehovah's Witnesses is subject to the choice of the body of elders of each congregation, considering local circumstances and organizational guidelines. Therefore, since there is no such thing as an "official list of theocratic apps approved by Bethel," the Organized app is unlikely to be officially authorized by the organization of Jehovah's Witnesses.
 
-Using Organized is not forbidden. We always make sure to align the application, its security, and use cases with all the latest directions from the Faithful and Discreet Slave. Moreover, many publishers serving both onsite and remotely for different Bethels worldwide are directly involved into development of the Organized application.
+Using Organized is not forbidden. We always make sure to align the application, its security, and use cases with all the latest directions from the Faithful and Discreet Slave. Moreover, many publishers serving both onsite and remotely for different Bethels worldwide are directly involved in the development of the Organized application.
 
 ## Is Bethel aware of Organized app?
 
