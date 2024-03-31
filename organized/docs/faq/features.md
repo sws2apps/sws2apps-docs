@@ -28,7 +28,7 @@ Organized has you covered! In addition to easily exporting the midweek meeting s
 
 ## Can I import a congregation data from another apps?
 
-In our roadmap we have the import feature that will allow in import most of your congregation data from a few specific popular apps. In the meantime, you can manually enter your congregation data into Organized. Stay updated! 
+In our roadmap, we have the import feature that will allow you to import most of your congregation data from a few specific popular apps. In the meantime, you can manually enter your congregation data into Organized. Stay updated! 
 
 ## Does the app have a dark theme?
 
