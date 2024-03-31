@@ -22,7 +22,7 @@ No, you don't have to! Organized can automatically fetch all meeting parts, publ
 
 Sure thing! Organized helps you efficiently manage schedules and other activities, providing the added convenience of easily exporting them into attractive print-ready files. Print them your information board or share them as PDFs with others. Our top-quality PDF templates are created by a team of designers and have many variations and include all the important and additional information.
 
-## What about Meeting Assingment Form?
+## What about Meeting Assignment Form?
 
 Organized has you covered! In addition to easily exporting the midweek meeting schedule, the app also allows you to export all the student assignments in the S-89 form with just one click. You can then print them or share them digitally, whichever you prefer. This feature can save time and effort for appointed brothers and their assistants who typically fill out these forms and give them to students. With Organized, these brothers can focus more on supporting publishers and less on routine copy-paste tasks.
 
