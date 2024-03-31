@@ -25,7 +25,7 @@ In the case of Organized, this means that anyone can access the code that makes 
 - **Transparency:** Anyone can check how the app works, this increases trust in its security.
 - **Collaboration:** Developers can work together to improve the code and add new features.
 
-Regarding security, it's important to note that **the app's codebase is completely separate from the database that contains the congregation's data**. The code is how the app works, while the database contains the data that is displayed for users. The data is always privately secured and encrypted, and access is restricted to only those who are authorized to view it.
+Regarding security, it's important to note that **the app's codebase is completely separate from the database that contains the congregation's data**. The code is how the app works, while the database contains the data that is displayed to users. The data is always privately secured and encrypted, and access is restricted to only those who are authorized to view it.
 
 In fact, open-source software can often be more secure than closed-source software because the code is publicly available for scrutiny. This means that any security vulnerabilities can be identified and fixed more quickly.
 
