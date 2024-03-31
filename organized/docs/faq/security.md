@@ -20,7 +20,7 @@ No, the Organized app team **can not** access your congregation data. Without th
 
 ## What does "Organized is open-source" mean? Is it safe?
 
-In the case of Organized, this means that anyone can access the code that makes the app work. Before making the app's source code available online, we've completed comprehensive test of its security, and we continue improving it. Open-source approach is safe and has several benefits, including:
+In the case of Organized, this means that anyone can access the code that makes the app work. Before making the app's source code available online, we've completed a comprehensive test of its security, and we continue improving it. Open-source approach is safe and has several benefits, including:
 
 - **Transparency:** Anyone can check how the app works, this increases trust in its security.
 - **Collaboration:** Developers can work together to improve the code and add new features.
