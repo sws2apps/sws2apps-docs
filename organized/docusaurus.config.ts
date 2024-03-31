@@ -68,16 +68,17 @@ const config: Config = {
 		footer: {
 			links: [
 				{
-					title: 'How to use',
+					title: 'Other resources',
 					items: [
 						{
 							label: 'YouTube tutorials',
 							href: 'https://www.youtube.com/@organized-app',
 						},
 						{
-							label: 'Text guide',
-							href: '',
-						},
+							label: 'About Organized website',
+							href: 'https://about.organized-app.com',
+						},						
+						
 					],
 				},
 				{
@@ -97,10 +98,6 @@ const config: Config = {
 					title: 'More',
 					items: [
 						{
-							label: 'About Organized',
-							href: 'https://about.organized-app.com',
-						},
-						{
 							label: 'Privacy Policy',
 							to: 'https://sws2apps.com/privacy',
 						},
@@ -111,7 +108,7 @@ const config: Config = {
 					],
 				},
 			],
-			copyright: `© Organized ${new Date().getFullYear()}. Built by sws2apps team.`,
+			copyright: `© Organized ${new Date().getFullYear()}. Built by the [sws2apps team](https://github.com/sws2apps).`,
 		},
 		prism: {
 			theme: prismThemes.github,
