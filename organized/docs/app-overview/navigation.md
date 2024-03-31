@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-Slug: /
+slug: /
 ---
 
 # App navigation
