@@ -18,6 +18,19 @@ End-to-end encryption, encryption key, app PIN code, two-factor authentication, 
 
 No, the Organized app team **can not** access your congregation data. Without the encryption key, no one on the Internet can access your congregation data, including the Organized app team.
 
+## What does "Organized is open-source" mean? Is it safe?
+
+In the case of Organized, this means that anyone can access the code that makes the app work. Before making the app's source code available online, we've completed a comprehensive test of its security, and we continue improving it. Open-source approach is safe and has several benefits, including:
+
+- **Transparency:** Anyone can check how the app works, this increases trust in its security.
+- **Collaboration:** Developers can work together to improve the code and add new features.
+
+Regarding security, it's important to note that **the app's codebase is completely separate from the database that contains the congregation's data**. The code is how the app works, while the database contains the data that is displayed to users. The data is always privately secured and encrypted, and access is restricted to only those who are authorized to view it.
+
+In fact, open-source software can often be more secure than closed-source software because the code is publicly available for scrutiny. This means that any security vulnerabilities can be identified and fixed more quickly.
+
+_In summary, "Organized is open-source" means that the app's source code is publicly available for anyone to view, use, and collaborate. However, this does not mean that anybody can view or access user data from it. The codebase and the database are completely separate, and the data is always privately secured and encrypted. Only authorized individuals can view and access the data, ensuring that it remains confidential and protected at all times._
+
 ## What is end-to-end encryption, and how does it protect congregation data?
 
 End-to-end encryption is a security protocol that ensures data is encrypted **before** it is sent or synced to servers. With end-to-end encryption, only the sender and intended recipient can access the data, making it virtually impossible for unauthorized users to intercept or access the data. Each congregation has their own strong encryption code that contains symbols, letters, numbers, and is not even mathematically generated.
@@ -48,4 +61,12 @@ When you choose to use our Organized app, we only collect essential information 
 
 ## Can I run the Organized without my own server and database?
 
-We are currently working on this. With the next updates, you will be able to run Organized on your own server with your own database, giving you uncompromized control over all data and access. 
+We are currently working on this. With the next updates, you will be able to run Organized on your own server with your own database, giving you uncompromised control over all data and access. 
+
+## Where my Organized data is stored?
+
+Your data is stored securely in Organized, depending on how you use the app. 
+
+If you're using the app alone on a single device, your data is stored only locally on that device. 
+
+However, if you're using the app with your congregation or on multiple devices, your data backups are still stored on your device, but it is also regularly shared with other members of your congregation _(only the data that you allow them to view, such as schedules, persons, groups, etc.)_. All the data backups are encrypted using your own strong encryption code and securely shared across congregation members through our servers. All data is stored with the highest level of security, and no one unauthorized can access or read it.
