@@ -18,7 +18,7 @@ Using Organized is not forbidden. We always make sure to align the application, 
 
 ## Is Bethel aware of Organized app?
 
-Firstly, there are many Bethel branches worldwide. We have spoken to many brothers from various Bethel branches globally, therefore many Bethel workers are aware of Organized. In fact, some of them are even assisting us with development, translation, and advices. However, please do not expect any Bethel branch to officially recommend or authorize Organized, as it is not an official tool from the Jehovah's Witnesses organization. Ultimately, the choice of using such tools is something that each body of elders should decide for their congregation.
+Firstly, there are many Bethel branches worldwide. We have spoken to many brothers from various Bethel branches globally, therefore many Bethel workers are aware of Organized. In fact, some of them are even assisting us with development, translation, and advice. However, please do not expect any Bethel branch to officially recommend or authorize Organized, as it is not an official tool from the Jehovah's Witnesses organization. Ultimately, the choice of using such tools is something that each body of elders should decide for their congregation.
 
 ## Do you have more questions? 
 
