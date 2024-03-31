@@ -61,7 +61,7 @@ When you choose to use our Organized app, we only collect essential information 
 
 ## Can I run the Organized without my own server and database?
 
-We are currently working on this. With the next updates, you will be able to run Organized on your own server with your own database, giving you uncompromized control over all data and access. 
+We are currently working on this. With the next updates, you will be able to run Organized on your own server with your own database, giving you uncompromised control over all data and access. 
 
 ## Where my Organized data is stored?
 
