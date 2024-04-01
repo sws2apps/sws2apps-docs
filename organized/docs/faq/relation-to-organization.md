@@ -20,10 +20,10 @@ Using Organized is not forbidden. We always make sure to align the application, 
 
 Firstly, there are many Bethel branches worldwide. We have spoken to many brothers from various Bethel branches globally, therefore many Bethel workers are aware of Organized. In fact, some of them are even assisting us with development, translation, and advice. However, please do not expect any Bethel branch to officially recommend or authorize Organized, as it is not an official tool from the Jehovah's Witnesses organization. Ultimately, the choice of using such tools is something that each body of elders should decide for their congregation.
 
-## Do you have more questions? 
+## Do you have more questions?
 
-If you have any further questions or concerns, don't hesitate to explore the application code on our [GitHub repository](https://github.com/sws2apps/organized-app) or this How to Use guide that you're currently reading, especially the [Frequently Asked Questions](/organized/docs/faq/). If you can't find an answer to your question, please ask it on our GitHub Discussions.
+If you have any further questions or concerns, don't hesitate to explore the application code on our [GitHub repository](https://github.com/sws2apps/organized-app) or this How to Use guide that you're currently reading, especially the [Frequently Asked Questions](../faq). If you can't find an answer to your question, please ask it on our GitHub Discussions.
 
 ## Is there anything else I should know about Organized?
 
-Absolutely! Organized has many exciting features that can help you stay organized and productive in your ministry and theocratic responsibilities. We encourage you to explore the app and check out our user guides in the [How to use](/organized/docs/how-to-use/) category. We're constantly working on new features and improvements, so be sure to stay tuned for updates!
+Absolutely! Organized has many exciting features that can help you stay organized and productive in your ministry and theocratic responsibilities. We encourage you to explore the app and check out our user guides in the [How to use](../how-to-use) category. We're constantly working on new features and improvements, so be sure to stay tuned for updates!
