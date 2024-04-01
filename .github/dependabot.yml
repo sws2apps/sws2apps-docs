@@ -11,33 +11,15 @@ updates:
     directory: '/orgs'
     schedule:
       interval: 'daily'
-    commit-message:
-      prefix: 'feat(deps)'
-    groups:
-      docusaurus:
-        patterns:
-          - '@angular*'
-
-  - package-ecosystem: 'npm'
-    directory: '/orgs'
-    schedule:
-      interval: 'daily'
     allow:
       - dependency-type: 'production'
       - dependency-type: 'development'
     commit-message:
       prefix: 'feat(deps)'
-
-  - package-ecosystem: 'npm'
-    directory: '/organized'
-    schedule:
-      interval: 'daily'
-    commit-message:
-      prefix: 'feat(deps)'
     groups:
       docusaurus:
         patterns:
-          - '@angular*'
+          - '@docusaurus*'
 
   - package-ecosystem: 'npm'
     directory: '/organized'
@@ -48,3 +30,7 @@ updates:
       - dependency-type: 'development'
     commit-message:
       prefix: 'feat(deps)'
+    groups:
+      docusaurus:
+        patterns:
+          - '@docusaurus*'
