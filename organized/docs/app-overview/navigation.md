@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # App navigation
 
-Once you've [registered](/organized/docs/onboarding/register-and-login.md) your account and joined your congregation, you'll land on the home page. From here, you can easily access all the features of the Organized app through the Home page dashboard. Let's take a closer look!
+Once you've [registered](../onboarding/register-and-login.md) your account and joined your congregation, you'll land on the home page. From here, you can easily access all the features of the Organized app through the Home page dashboard. Let's take a closer look!
 
 ## Home page dashboard
 
@@ -32,11 +32,12 @@ Look at the top of your screen, and you'll spot some useful tools in the header.
 
 ## Inside any page
 
-Whenever you navigate inside any section or page, a few elements remain constant at the top: 
+Whenever you navigate inside any section or page, a few elements remain constant at the top:
+
 1. the page name
 2. the back arrow to return to the previous page
 3. action buttons for main tasks
-4. underneath, the actual content of the page you're viewing. 
+4. underneath, the actual content of the page you're viewing.
 
 ![Organized dashboard](./img/page-structure.png)
 

@@ -11,7 +11,7 @@ Organized is a free progressive web application crafted specifically for Jehovah
 
 ## What are the benefits of using the Organized app?
 
-When it comes to benefits in real-life situations, consider the following: Reduced stress for every congregation member, hundreds of hours saved for appointed brothers, streamlined digital processes with way less waste, improved speed of collaboration, and enhanced convenience for all. 
+When it comes to benefits in real-life situations, consider the following: Reduced stress for every congregation member, hundreds of hours saved for appointed brothers, streamlined digital processes with way less waste, improved speed of collaboration, and enhanced convenience for all.
 
 To explore the Organized concept, features, and its benefits in a more visual format, feel free to visit our [About Organized](https://about.organized-app.com) webpage — an ideal resource to introduce Organized to others, or view video tutorials on our [YouTube channel](https://www.youtube.com/@organized-app).
 
@@ -42,11 +42,11 @@ To ensure that only members of your congregation can access your data, we've imp
 
 ## Have more specific questions?
 
-Do you have more questions about the Organized app, its security, features, relation to our organization, or usage in congregation? Check out our [Frequently asked questions](/organized/docs/onboarding/register-and-login.md) category for answers to these and many other questions.
+Do you have more questions about the Organized app, its security, features, relation to our organization, or usage in congregation? Check out our [Frequently asked questions](../faq) category for answers to these and many other questions.
 
-## What's next? 
+## What's next?
 
-Now that you have a better understanding of what Organized is and how it can benefit your congregation, we encourage you to continue exploring this comprehensive How to use guide. We recommend going through the articles from top to bottom to learn more about the app, or selecting specific categories and articles that you're currently most interested in or facing some troubles with. 
+Now that you have a better understanding of what Organized is and how it can benefit your congregation, we encourage you to continue exploring this comprehensive How to use guide. We recommend going through the articles from top to bottom to learn more about the app, or selecting specific categories and articles that you're currently most interested in or facing some troubles with.
 
 ![Organized how to use guide table of contents](./img/guide-toc.png)
 
