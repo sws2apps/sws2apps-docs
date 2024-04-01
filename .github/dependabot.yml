@@ -12,9 +12,9 @@ updates:
     schedule:
       interval: 'daily'
     groups:
-      - package-patterns: ['@docusaurus*']
-        schedule:
-          interval: 'daily'
+      docusaurus:
+        patterns:
+          - '@angular*'
         commit-message:
           prefix: 'feat(deps)'
 
@@ -33,9 +33,9 @@ updates:
     schedule:
       interval: 'daily'
     groups:
-      - package-patterns: ['@docusaurus*']
-        schedule:
-          interval: 'daily'
+      docusaurus:
+        patterns:
+          - '@angular*'
         commit-message:
           prefix: 'feat(deps)'
 
