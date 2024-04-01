@@ -2,14 +2,11 @@ version: 2
 updates:
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: 'github-actions'
-    directory: '/orgs'
+    directory: '/'
     schedule:
       interval: 'daily'
-
-  - package-ecosystem: 'github-actions'
-    directory: '/organized'
-    schedule:
-      interval: 'daily'
+    commit-message:
+      prefix: 'chore(actions)'
 
   # Maintain dependencies for npm
   - package-ecosystem: 'npm'
@@ -21,6 +18,10 @@ updates:
       - dependency-type: 'development'
     commit-message:
       prefix: 'feat(deps)'
+    groups:
+      docusaurus:
+        patterns:
+          - '@docusaurus*'
 
   - package-ecosystem: 'npm'
     directory: '/organized'
@@ -31,3 +32,7 @@ updates:
       - dependency-type: 'development'
     commit-message:
       prefix: 'feat(deps)'
+    groups:
+      docusaurus:
+        patterns:
+          - '@docusaurus*'
