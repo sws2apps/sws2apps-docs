@@ -11,12 +11,12 @@ updates:
     directory: '/orgs'
     schedule:
       interval: 'daily'
+    commit-message:
+      prefix: 'feat(deps)'
     groups:
       docusaurus:
         patterns:
           - '@angular*'
-        commit-message:
-          prefix: 'feat(deps)'
 
   - package-ecosystem: 'npm'
     directory: '/orgs'
@@ -32,12 +32,12 @@ updates:
     directory: '/organized'
     schedule:
       interval: 'daily'
+    commit-message:
+      prefix: 'feat(deps)'
     groups:
       docusaurus:
         patterns:
           - '@angular*'
-        commit-message:
-          prefix: 'feat(deps)'
 
   - package-ecosystem: 'npm'
     directory: '/organized'
