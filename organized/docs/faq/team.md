@@ -22,4 +22,4 @@ Most of us has full- or part-time jobs, as we're not getting paid from the Organ
 
 ## How can I join?
 
-Since the project is open-source, you can directly contribute to our [GitHub repository](https://github.com/sws2apps/organized-app) if you have an idea. If you want to work with the team more closely, please contact us via email or join our [Telegram](https://t.me/+xqTWtvQvablmMDA0) group and tell us about your interest in helping us.
+Since the project is open-source, you can directly contribute to our [GitHub repository](https://github.com/sws2apps/organized-app) if you have an idea. To collaborate closely with the team, reach out via email or join our [Telegram](https://t.me/+xqTWtvQvablmMDA0) group to share your interest in contributing.
