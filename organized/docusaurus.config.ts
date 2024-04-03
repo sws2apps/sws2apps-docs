@@ -59,8 +59,13 @@ const config: Config = {
 			},
 			items: [
 				{
+					href: 'http://organized-app.com',
+					label: 'Organized app',
+					position: 'right',
+				},
+				{
 					href: 'https://github.com/sws2apps/organized-app',
-					label: 'GitHub',
+					label: 'GitHub Repo',
 					position: 'right',
 				},
 			],
@@ -77,12 +82,16 @@ const config: Config = {
 						{
 							label: 'About Organized website',
 							href: 'https://about.organized-app.com',
-						},						
+						},		
+						{
+							label: 'GitHub repository',
+							href: 'https://github.com/sws2apps/organized-app',
+						},					
 						
 					],
 				},
 				{
-					title: 'Community',
+					title: 'Discuss and contact',
 					items: [
 						{
 							label: 'GitHub Discussions',
@@ -92,10 +101,14 @@ const config: Config = {
 							label: 'Telegram group',
 							href: 'https://t.me/+cSAJmkiVneQwNjQ8',
 						},
+						{
+							label: 'Email support',
+							href: 'mailto:support@organized-app.com',
+						},
 					],
 				},
 				{
-					title: 'More',
+					title: 'Other',
 					items: [
 						{
 							label: 'Privacy Policy',
@@ -108,7 +121,7 @@ const config: Config = {
 					],
 				},
 			],
-			copyright: `© Organized ${new Date().getFullYear()}. Built by the [sws2apps team](https://github.com/sws2apps).`,
+			copyright: `© Organized ${new Date().getFullYear()}. Built by the sws2apps team`,
 		},
 		prism: {
 			theme: prismThemes.github,
