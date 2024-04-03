@@ -16,7 +16,7 @@ We spend our spare time to make Organized a better app, the one that we are happ
 
 ## Are you getting paid for the app?
 
-No, "There is more happiness in giving, than there is in receiving" 🙂
+No, "There is more happiness in giving, than there is in receiving." 🙂
 
 Most of us has full- or part-time jobs, as we're not getting paid from the Organized app in any way. All donations are used only to maintain the app and pay for servers, hosting, and software.
 
