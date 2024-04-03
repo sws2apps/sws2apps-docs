@@ -85,7 +85,7 @@ const config: Config = {
 						},		
 						{
 							label: 'GitHub repository',
-							href: 'https://about.organized-app.com',
+							href: 'https://github.com/sws2apps/organized-app',
 						},					
 						
 					],
