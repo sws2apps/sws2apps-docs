@@ -39,6 +39,7 @@ Customize assignment preferences and qualifications for each person by selecting
 ## Spiritual status
 
 There are three main options:
+
 1. Baptized publisher
 2. Unbaptized publisher
 3. Midweek meeting student
