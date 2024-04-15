@@ -10,7 +10,7 @@ There are still info and actions available only on the Edit person page:
 
 ## Assignment history
 
-One of the major differences difference between "**Add** person" and "**Edit** person" pages is that on the "Edit person" page you can view the assignments history of a person. That is so simply because on a moment of adding a person they don't have any meeting assignments history to display.
+One of the major differences between "**Add** person" and "**Edit** person" pages is that on the "Edit person" page you can view the assignments history of a person. That is so simply because on a moment of adding a person they don't have any meeting assignments history to display.
 
 The main difference between the "**Add** person" and "**Edit** person" pages is that on the "Edit person" page, you can view the assignments history of a person. This is because, at the time of adding a person, they do not have any meeting assignments history to display.
 
