@@ -22,7 +22,7 @@ If you have any ideas in mind – feel free to create some sketches or wireframe
 
 ## Graphic design contributions for Organized
 
-From time to time, we require some different images, illustrations, YouTube thumbnails, and other graphics for our apps, website, and announcements. If you have good graphic design skills and are open for collaboration, we invite you to contribute by creating visually appealing banners and other images for web usage. Your skills and volunteer spirit will help enhance the visual experience of the Organized ecosystem.
+Occasionally, we need images, illustrations, YouTube thumbnails, and other graphics for our apps, website, and announcements. If you have good graphic design skills and are open for collaboration, we invite you to contribute by creating visually appealing banners and other images for web usage. Your skills and volunteer spirit will help enhance the visual experience of the Organized ecosystem.
 
 ## Let's make more video tutorials
 

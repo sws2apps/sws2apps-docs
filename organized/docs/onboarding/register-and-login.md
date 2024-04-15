@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Register and join congregation
 
-Once you open the Organized app, you need to log in to your account. If you don’t have an account yet – registration process is identical to the sign-in process. When you follow the steps below, your account will be automatically created. 
+Once you open the [Organized app](https://organized-app.com/), you need to log in to your account. If you don’t have an account yet – registration process is identical to the sign-in process. When you follow the steps below, your account will be automatically created. 
 
 :::tip[There are two ways to log in to the Organized app:]
 1. As a **publisher or a midweek student**.
