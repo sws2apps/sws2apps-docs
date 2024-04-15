@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Add person
 
-The first step after creating a congregation account in Organized – is adding persons. Persons are all people who take part in your congregation's life. That's not only publishers, but also students on a midweek meetins, to allow everybody to view schedules and their assignments.
+The first step after creating a congregation account in Organized – is adding persons. Persons are all people who take part in your congregation's life. That's not only publishers, but also students on a midweek meetings, to allow everybody to view schedules and their assignments.
 
 ## Adding persons is important
 
