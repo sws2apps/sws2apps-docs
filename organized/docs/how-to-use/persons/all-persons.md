@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The All Persons page is where all the records of your congregation's members are created and stored. 
 
-Persons are all people that take part in your congregation's life. That's not only publishers, but also students on a midweek meetins, therefore the page is called Persons. Keeping the information and qualifications of each person up-to-date is important for accurate and efficient reporting and meeting scheduling.
+Persons are all people that take part in your congregation's life. That's not only publishers, but also students on a midweek meetings, therefore the page is called Persons. Keeping the information and qualifications of each person up-to-date is important for accurate and efficient reporting and meeting scheduling.
 
 ![All persons overview](./img/persons-overview.png)
 
