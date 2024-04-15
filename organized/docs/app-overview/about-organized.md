@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # About Organized app
 
-Organized is a free all-in-one web application crafted specifically for Jehovah's Witnesses congregations. Developed by our team at Scheduling Workbox System, it's designed for ease of use by every member of the congregation. We actively developing the app to bring more features and to make it more and more useful for every person in a congregation.
+Organized is a free all-in-one web application crafted specifically for Jehovah's Witnesses congregations. Developed by our team at Scheduling Workbox System, it's designed for ease of use by every member of the congregation. We are actively developing the app to bring more features and to make it more and more useful for every person in a congregation.
 
 ![Organized wallpaper](./img/wallpaper-4k.png)
 
