@@ -20,7 +20,7 @@ Let's dive deeper into the information you can enter on this page and how it can
 - **Display name:** It's a shorter form of a name to be used on schedules. For example "Cameron M." instead of "Mike Cameron". You can turn this "Display name" feature on or off on the [Congregation settings](../congregation/congregation-settings) page.
 - **Gender:** Either male or female. Note that some assignments, such as student parts, may only be available for sisters.
 - **Date of birth:** Enter the date and you will see the automatically calculated person's age.
-- **Contact info:** Email address, Phone number, and Address are needed to keep the contact info up-to-date and be always able to contact a person in case of emergency.
+- **Contact info:** Email address, phone number, and address are needed to keep the contact info up-to-date and be always able to contact a person in case of emergency.
 
 ![Person's basic information](./img/basic.png)
 
