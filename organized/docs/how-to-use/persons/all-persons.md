@@ -30,7 +30,7 @@ Search filters allow to search for congregation persons using more specific para
 
 To access the filter panel, simply click on it to expand it. Once you've applied your desired filters, you can collapse the panel to make it easier to view the persons. Don't worry, collapsing the panel won't reset your selected filters.
 
-![All persons overview](./img/filter-open.gif)
+![Open Organized person filters](./img/filter-open.gif)
 
 To apply a filter, click on it once to select it and click again to deselect it. Keep in mind that applying multiple filters may reduce the number of search results.
 
@@ -38,7 +38,11 @@ The "Filters applied" badge displays the count of filters you've selected, inclu
 
 ![All persons overview](./img/filters.png)
 
+## Clear filters
+
 If you need to clear all applied filters, simply click the **'Clear all'** button at the bottom of the filter panel. This will reset all filters, so you don't have to manually deselect each one.
+
+![Clear all the search filters](./img/clear-all-filters.gif)
 
 ## A person card
 

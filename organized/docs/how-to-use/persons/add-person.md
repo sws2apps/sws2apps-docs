@@ -32,7 +32,7 @@ Customize assignment preferences and qualifications for each person by selecting
 - **Assistant only**: If you select this parameter, the person will be able to get only the assistant role student assignments for the "Apply Yourself to the Field Ministry" part. That applies to both Autofill as well as manual methods of scheduling.
 - **Living Parts**: That is a general name for all parts in the "Living as Christians" meeting part. This term is used to describe one or more parts, that always have different titles (unlike Congregation Bible study which is always the same). That's why we need to come up with our own short general name for any "Living as Christians" part.
 - **Auxiliary classroom counselor**: Some congregations have only one brother, who is responsible for every meeting's auxiliary classroom parts. Others have a few brothers who take turns. Feel free to select one or more brothers that will have this qualification, this will be helpful especially for cases when one brother is away or sick and he needs a substitution.
-- **Speaker (Symposium)**: It's a type of a public talk when two speakers have one 30-minute talk split into two halves, so each speaker has a 15-minute talk part. Usually, such method is used for a newly appointed ministerial servant, who has his first talk(s).
+- **Speaker (Symposium)**: It's a type of public talk when two speakers have one 30-minute talk split into two halves, so each speaker has a 15-minute talk part. Usually, such method is used for a newly appointed ministerial servant, who has his first talk(s).
 
 ![Assignment settings](./img/assignments.png)
 
@@ -84,7 +84,7 @@ You can also encourage all Organized users in your congregation to edit their ti
 
 ## Emergency contacts
 
-Adding an emergency contact for a person is a great way to ensure that there are additional contacts available in case of an emergency. It's recommended to use the same contacts as listed on the person's "No Blood" document, so that the group overseer and other elders always have the most up-to-date and accurate information on who to contact in case of an extreme situation.
+Adding an emergency contact for a person is a great way to ensure that there are additional contacts available in case of an emergency. It's recommended to use the same contacts as listed on the person's "No Blood" document, so that the group overseer and other elders always have the most up-to-date and accurate information on whom to contact in case of an extreme situation.
 
 You can add as many contacts as needed. And in the "Contact info" field you can add different contact methods in the same row, for instance email, mobile phone, or a messaging app @username.
 
