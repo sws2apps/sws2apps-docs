@@ -3,4 +3,4 @@
 sidebar_position: 1
 ---
 
-# Meeting atendance record
+# Meeting attendance record
