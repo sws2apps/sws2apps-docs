@@ -48,7 +48,7 @@ When you hover over an assignment row, an 'Add to calendar' button appears. Clic
 
 ## Refresh the assignments list
 
-By clicking the 'Refresh' button at the top right corner, you can ensure you're viewing the most up-to-date list.
+By clicking the 'Refresh' button it the top right corner, you can ensure you're viewing the most up-to-date list.
 
 ## For administrators: Select a person record
 
