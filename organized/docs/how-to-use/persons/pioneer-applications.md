@@ -21,7 +21,7 @@ Click on the button to view all applications in more detail, such as the submiss
 Click on a specific auxiliary pioneer application to open and review it. You can see all the information entered by the publisher:
 
 - **Hour goal**: Either 30 hours or 15 hours (_only during announced 'special' months_).
-- **Month(s) of service**: Month(s) during which the publisher wants to serve as an auxiliary pioneer. The publisher can also select 'Serve continuously' checkbox to serve until further notice. In this case, the months selector is not available.
+- **Month(s) of service**: Month(s) during which the publisher wants to serve as an auxiliary pioneer. The publisher can also select 'Serve continuously' checkbox to serve until further notice. In this case, the month's selector is not available.
 - **Date and signature**: Date of submission and name of the applicant that serves as a signature.
 
 ![Review auxiliary pioneer application](./img/full-application.png)
