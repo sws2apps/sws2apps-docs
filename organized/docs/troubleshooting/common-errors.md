@@ -20,8 +20,6 @@ Once this is done, you'll be able to access your account. Please reload the page
 
 This means that the schedules are still being prepared by the responsible brothers. Once they are published, you will be able to see them in the app. Please be patient and check back later for updates. 
 
-It's also possible that the brothers are still working on them, or they may have forgotten to click 'Publish'. Try checking with them to see if the schedules are ready. Once they are published, you will be able to view them right away!
-
 ## Unsupported browser
 
 ![Unsupported browser](./img/unsupported-browser.png)

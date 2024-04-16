@@ -12,7 +12,7 @@ To accurately track your ministry time, start the timer when you begin your mini
 
 ![Pause Organized ministry timer](./img/pause-timer.gif)
 
-When you finish your ministry, open Organized and click the "Stop" timer button. A confirmation pop-up window will appear immediately after, which we will discuss in the next paragraphs.
+When you finish your ministry, open Organized and click the "Stop" timer button. A confirmation pop-up window will appear immediately after, which we will discuss in the next paragarphs.
 
 ## Forgot to start the timer? No problem!
 
@@ -67,9 +67,9 @@ If you want to edit a study's name or delete a study that you don't conduct anym
 Now, once you've added all your regular Bible studies into the list, it's easy to add them to your report after the study has been conducted. To do this:
 
 1. Open the "Individual Bible studies" dropdown menu.
-2. Click on the Bible study name(s). They are added to your report's total studies count automatically.
+2. Click on the Bible study name(s). They are added to your report's total studies count atomatically.
 3. To remove such study from the report, either click on the cross icon on the corresponding study badge, or open the individual Bible studies list and uncheck any study by clicking on it once again.
 
 ![Select Bible studies](./img/select-studies.gif)
 
-#### Well done! Now you know how to add your ministry information, including time and Bible studies, both manually and using the convenient ministry timer feature. The app will help you to stay organized and accurate in your reports.
+#### Great! Now you know how to add your ministry report information, including time and Bible studies, both manually and using the convenient ministry timer feature. The app will help you to stay organized and accurate in your reports.
