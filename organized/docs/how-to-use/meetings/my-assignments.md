@@ -42,7 +42,7 @@ All assignments are displayed in chronological month-by-month order. Each assign
 
 ## Add assignments to your calendar
 
-When you hover over an assignment row, an 'Add to calendar' button appears. Clicking on it will redirect you to your calendar app, if you have one installed on your device. Supported calendar apps include Google, Apple, Microsoft (365, Outlook, Teams), and Yahoo. Then, you can add this event to your personal calendar, set up notifications, reminders, etc.
+Hover over an assignment row to see the 'Add to calendar' button. Clicking this button will open your calendar app, allowing you to add the event. Supported calendar apps include Google, Apple, Microsoft (365, Outlook, Teams), and Yahoo. Then, you can add this event to your personal calendar, set up notifications, reminders, etc.
 
 ![Add assignments to calendar](./img/add-to-calendar-hover.gif)
 
