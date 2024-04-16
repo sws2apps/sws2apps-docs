@@ -18,7 +18,7 @@ There are multiple ways to open this panel, ensuring you can quickly and easily 
 
 ![My assignments greeting message](./img/open-greeting.png)
 
-3. **Mobile bottom navigation bar**. On your mobile device, you can access your upcoming assignments panel by clicking on the 'Assignments' button at the bottom navbar.
+3. **Mobile bottom navigation bar**. On your mobile device, you can access your upcoming assignments panel by clicking on the 'Assignments' button at the bottom navigation bar.
 
 ![My assignments bottom nav](./img/open-mobile-navbar.png)
 
