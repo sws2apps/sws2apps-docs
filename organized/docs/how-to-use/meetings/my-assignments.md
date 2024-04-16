@@ -14,7 +14,7 @@ There are multiple ways to open this panel, ensuring you can quickly and easily 
 
 ![My assignments button](./img/open-metting-card.png)
 
-2. **Home page 'Hello' message**. Right under greeting message you can find the number of active upcoming meeting assignments. Click on the blue text to open the assignments panel with all the details.
+2. **Home page 'Hello' message**. Right under the greeting message, you can find the number of active upcoming meeting assignments. Click on the blue text to open the assignments panel with all the details.
 
 ![My assignments greeting message](./img/open-greeting.png)
 
