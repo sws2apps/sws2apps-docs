@@ -8,7 +8,7 @@ Publishers can [submit auxiliary pioneer applications through Organized](../mini
 
 ## View all pending applications
 
-As a member of the service committee, you can see the "Pioneer applications" button with a pending applications count badge.
+As a member of the service committee, you can see the "Pioneer applications" button with a pending application count badge.
 
 ![Pioneer applications button](./img/aux-pio-button.png)
 

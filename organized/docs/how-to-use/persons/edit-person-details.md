@@ -21,5 +21,5 @@ Other than that, you can view and edit all the same info as while adding a perso
 This button marks a person as ineligible to receive meeting assignments until they are re-qualified by clicking the "Re-qualify" button on their page. 
 
 :::warning[Please note]
-Disqualifying a person is not the same as disfellowshipping them. This feature is used to temporarily disable a person from receiving assignments for a certain period of time.
+Disqualifying a person is not the same as disfellowshiping them. This feature is used to temporarily disable a person from receiving assignments for a certain period of time.
 :::
