@@ -36,7 +36,7 @@ All assignments are displayed in chronological month-by-month order. Each assign
 - **Assistant name**: The name of the assistant for student assignments or the second speaker for a symposium.
 - **Additional details**: Any other relevant information, such as source material or talk title.
 - **'Delivered by'**: This orange badge indicates assignments of congregation persons that have been delegated to you (meaning you can view their assignments and notify delegated persons about the upcoming assignments). It displays the name of the person who has the assignment, along with all the necessary details.
-- **Add to calendar button**: On the far right side, you can click this button to add any assignment event to your personal calendar.
+- **'Add to calendar' button**: On the far right side, you can click this button to add any assignment event to your personal calendar.
 
 ![My assignments panel](./img/my-assignments-panel.png)
 
