@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # My assignments
 
-My assignments – is one of the most-used features of the Organized app. It's used by everyone in a congregation of Jehovah's Witnesses, who takes part in our weekly meetings. Here you can view all your upcoming assignments, whether it's a student assignments, public talk, Kingdom Hall cleaning or meeting duties.
+My assignments – is one of the most-used features of the Organized app. It's used by everyone in a congregation of Jehovah's Witnesses, who takes part in our weekly meetings. Here you can view all your upcoming assignments, whether it's a student assignment, public talk, Kingdom Hall cleaning, or meeting duties.
 
 ## Open 'My assignments' panel
 
