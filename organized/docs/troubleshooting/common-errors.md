@@ -20,14 +20,6 @@ Once this is done, you'll be able to access your account. Please reload the page
 
 This means that the schedules are still being prepared by the responsible brothers. Once they are published, you will be able to see them in the app. Please be patient and check back later for updates. 
 
-It's also possible that the brothers are still working on them, or they may have forgotten to click 'Publish'. Try checking with them to see if the schedules are ready. Once they are published, you will be able to view them right away!
-
-## Your access permissions need to be adjusted
-
-![Organized access permissions](./img/access-permissions.png)
-
-Don't worry, this is not an error, but rather a normal part of the registration process. Your access permissions need to be adjusted by your congregation's Organized app administrator. After you create your account, the administrator will need to assign you the correct role and set of rights. 
-
 ## Unsupported browser
 
 ![Unsupported browser](./img/unsupported-browser.png)

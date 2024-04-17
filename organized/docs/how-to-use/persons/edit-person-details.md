@@ -10,8 +10,6 @@ There are still info and actions available only on the Edit person page:
 
 ## Assignment history
 
-One of the major differences between "**Add** person" and "**Edit** person" pages is that on the "Edit person" page you can view the assignments history of a person. That is so simply because on a moment of adding a person they don't have any meeting assignments history to display.
-
 The main difference between the "**Add** person" and "**Edit** person" pages is that on the "Edit person" page, you can view the assignments history of a person. This is because, at the time of adding a person, they do not have any meeting assignments history to display.
 
 ![Assignments history](./img/assignment-history-person.png)
@@ -22,6 +20,6 @@ Other than that, you can view and edit all the same info as while adding a perso
 
 This button marks a person as ineligible to receive meeting assignments until they are re-qualified by clicking the "Re-qualify" button on their page. 
 
-:::danger[Please note]
+:::warning[Please note]
 Disqualifying a person is not the same as disfellowshipping them. This feature is used to temporarily disable a person from receiving assignments for a certain period of time.
 :::

@@ -18,18 +18,20 @@ When you finish your ministry, open Organized and click the "Stop" timer button.
 
 If you forget to start the timer, you can still adjust the time. Just click on the displayed time (e.g. 00:00) and enter the amount of time you've already spent in ministry. Click "Done" and the entered time will be added to the ministry timer, which will continue counting further. Then, simply don't forget to stop the timer when you finish your ministry.
 
-![Add time already in ministry](./img/add-time-popup.png)
+![Add time already in ministry](./img/time-already-in-service.png)
 
 ## Add time and studies manually
 
 If you forgot to use the timer or need to add time manually, use the "+ Time" button on the left side of the ministry time widget. 
 
+![Add time button](./img/add-time.png)
+
 It will open a window where you can enter the following information:
 
 - **Correct date**: The today's date is selected by default, but you can adjust it if needed. It's important to enter the correct date to accurately track your daily ministry history.
-- **Ministry hours**: Add full hours by clicking + or - buttons. You can also add more precise time by clicking on the time and writing it usign your device's keyboard.
-- **Credit hours**: If enabled in the profile settings, you can add time spent for authorized theocratic projects. You can also choose one of the presents from the dropdown (e.g. Pioneer school or School for Kingdom vangelizers), which you can adjust afterward.
-- **Bible studies**: Add studies either by clicking + button or by selecting your studies from the drobdown list. Learn more about this in the next paragraph.
+- **Ministry hours**: Add full hours by clicking + or - buttons. You can also add more precise time by clicking on the time and writing it using your device's keyboard.
+- **Credit hours**: If enabled in the profile settings, you can add time spent for authorized theocratic projects. You can also choose one of the presents from the dropdown (e.g. Pioneer school or School for Kingdom evangelizers), which you can adjust afterward.
+- **Bible studies**: Add studies either by clicking + button or by selecting your studies from the dropdown list. Learn more about this in the next paragraph.
 
 ![Add service time](./img/add-time-popup.png)
 
@@ -70,4 +72,4 @@ Now, once you've added all your regular Bible studies into the list, it's easy t
 
 ![Select Bible studies](./img/select-studies.gif)
 
-#### Well done! Now you know how to add your ministry information, including time and Bible studies, both manually and using the convenient ministry timer feature. The app will help you to stay organized and accurate in your reports.
+#### Great! Now you know how to add your ministry report information, including time and Bible studies, both manually and using the convenient ministry timer feature. The app will help you to stay organized and accurate in your reports.
