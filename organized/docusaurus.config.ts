@@ -40,7 +40,13 @@ const config: Config = {
 					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main/organized',
 					editLocalizedFiles: true,
 				},
-				blog: false,
+				blog: {
+					showReadingTime: true,
+					// Please change this to your repo.
+					// Remove this to remove the "edit this page" links.
+					editUrl: 'https://github.com/sws2apps/sws2apps-docs/tree/main/organized',
+					editLocalizedFiles: true,
+				},
 				theme: {
 					customCss: ['./src/css/custom.css'],
 				},
@@ -58,6 +64,11 @@ const config: Config = {
 				src: 'img/logo.svg',
 			},
 			items: [
+				{
+					to: 'blog',
+					label: 'Blog',
+					position: 'right',
+				},
 				{
 					href: 'http://organized-app.com',
 					label: 'Organized app',
@@ -82,12 +93,11 @@ const config: Config = {
 						{
 							label: 'About Organized website',
 							href: 'https://about.organized-app.com',
-						},		
+						},
 						{
 							label: 'GitHub repository',
 							href: 'https://github.com/sws2apps/organized-app',
-						},					
-						
+						},
 					],
 				},
 				{
