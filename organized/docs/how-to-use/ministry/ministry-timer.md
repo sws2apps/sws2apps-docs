@@ -18,7 +18,7 @@ When you finish your ministry, open Organized and click the "Stop" timer button.
 
 If you forget to start the timer, you can still adjust the time. Just click on the displayed time (e.g. 00:00) and enter the amount of time you've already spent in ministry. Click "Done" and the entered time will be added to the ministry timer, which will continue counting further. Then, simply don't forget to stop the timer when you finish your ministry.
 
-![Add time already in ministry](./img/time-already-in-service.png)
+![Add time already in ministry](./img/time-already-in-service.gif)
 
 ## Add time and studies manually
 
