@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Security and privacy
 
+## Is organized online or cloud-based app?
+
+The Organized app is not a typical online or cloud-based app. While it can be accessed via a web browser, it can also be downloaded and used locally on your device. The app is designed to store all data directly on your device, ensuring that your information remains in your hands.
+
+A online server connection is only required for login purposes and to organize data sharing between congregation members. This connection is securely encrypted, guaranteeing the protection of your data. In essence, the Organized app combines the convenience of web access with the security and local storage of a downloaded application.
+
 ## Is Organized secure and protected to be used in a congregation?
 
 Sure! We take security seriously. You can use the app locally with just your device, meaning none of the information is sent to the internet – everything only stored locally on your mobile or desktop device (but that also means that if you clear your browser's history or cookies, the data will also be removed). For the full experience though, try features that use online sync across your devices and other within your congregation. This way, everyone in the congregation using Organized can see schedules, assignments, territories, and more that you share. 
@@ -67,6 +73,6 @@ We are currently working on this. With the next updates, you will be able to run
 
 Your data is stored securely in Organized, depending on how you use the app. 
 
-If you're using the app alone on a single device, your data is stored only locally on that device. 
+- If you're using the app alone on a single device, your data is stored only locally on that device. 
 
-However, if you're using the app with your congregation or on multiple devices, your data backups are still stored on your device, but it is also regularly shared with other members of your congregation _(only the data that you allow them to view, such as schedules, persons, groups, etc.)_. All the data backups are encrypted using your own strong encryption code and securely shared across congregation members through our servers. All data is stored with the highest level of security, and no one unauthorized can access or read it.
+- If you're using the app with your congregation or on multiple devices, your data is still **stored on your device**, but data backups are also regularly shared with other members of your congregation _(only the data allowed them to view, such as schedules, persons, groups, etc.)_. All the data backups are encrypted using your own strong encryption code and securely shared across congregation members through our servers. All data is stored with the highest level of security, and no one unauthorized can access or read it.
