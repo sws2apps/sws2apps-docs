@@ -25,3 +25,7 @@ No, it is not an official app from the organization of Jehovah’s Witnesses. Or
 ## Why is Organized a web application? Is it safe to use in a congregation?
 
 We believe that transitioning from desktop applications to web applications offers more advantages and flexibility. Web applications are not dependent on system or hardware specifications; you can launch them from any platform or device with a browser, whether you work with Windows, Mac, Linux, ChromeOS or mobile Android, iPadOS, or iOS devices. We are well aware of the security challenges of web applications. Be confident that we have built the app using the most advanced and secure approach, and we are actively enhancing the security of Organized, consistently keeping up with the latest security advancements and changes in web technologies. We've implemented multiple special security measures (for example, local storage, end-to-end encryption, two-factor authentication, app lock feature, and more) to ensure that only members of your congregation can access the information, keeping it strongly confidential.
+
+## Do you have another questions? 
+
+This website is made to explain how Organized works and how you can benefit from using it. So feel free to explore different topics to learn more. Take a look at our [Frequently Asked Questions](../faq/general) page to read answers to many popular questions (and even some that are thought about but not asked 🙂 ) about Organized features, security and more!
