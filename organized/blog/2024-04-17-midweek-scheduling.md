@@ -1,5 +1,5 @@
 ---
-title: Midweek meeting scheduling for Jehovah's Witnesses with Organized app – easy, simple, fast, quality!
+title: Midweek meeting scheduling with Organized – easy, simple, fast!
 description: Discover how the Organized  app helps Jehovah's Witnesses congregations improve midweek meeting planning, saving time and reducing stress. All routine work is automized, giving you more flexibility and free time.
 keywords: [Jehovah's Witnesses, Midweek meetings, Meeting planning, Theocratic app, Organized app, Meeting cheduling, Automation, jw.org fetch, epub parser]
 slug: midweek-meeting-scheduling-with-organized
