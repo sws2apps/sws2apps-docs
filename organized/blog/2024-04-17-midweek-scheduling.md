@@ -35,7 +35,7 @@ What if we told you that you can reduce your monthly meeting scheduling process 
 
 This is where the Organized Jehovah's Witnesses app comes in to make scheduling better for everyone in your congregation! The app automatically fetches meeting program materials from jw.org (or alternatively .epub files), filling in all the meeting parts and songs for you, so you don't have to copy and paste each one manually. It also calculates the time allocation for each part, eliminating the need for manual calculations.
 
-![Automatic meeting program parts fetching from jw.org and epub files](./images/jw.org-fetch-organized.gif)
+![Automatic meeting program parts fetching from jw.org and epub files](./images/jw.org-fetch-organized-240p.gif)
 
 With flexible assignment setup, you can customize assignments for each person according to their skills and personal requests. The intelligent auto-assign feature ensures fair meeting assignments based on each person's past assignments and meeting part types, warning you about all potential conflicts. Once the schedule is created, you can publish it for other Organized users to see their upcoming meeting assignments in the app, export auto-generated PDF meeting schedules (S-140), and meeting assignment forms (S-89). Finally, you can put the schedule on the information board and distribute the assignment forms to students in either printed or digital form.
 
