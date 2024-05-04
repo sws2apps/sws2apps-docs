@@ -12,7 +12,7 @@ hide_table_of_contents: false
 
 ## Scheduling meetings: An important privilege
 
-Scheduling our Jehovah's Witnesses midweek meetings is an important and demanding task task that requires care and attention to detail!
+Scheduling our Jehovah's Witnesses midweek meetings is an important and demanding task that requires care and attention to detail!
 
 Every brother who has done this type of appointemt, know how important to create schedules well in advance to give meeting participants enough time for preparation and how sometimes it is challenging to take into account to many small nuances, like another assignments or duites of the same person during the same day or personal requests regarding student assignments. 
 
