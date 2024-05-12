@@ -37,7 +37,7 @@ Organized allows you to export all your congregation's data into PDF print-ready
 
 Also, Organized app has various templates for different aspects of a congregation life: Hall cleaning schedule, Meetings for field service, Meeting duties, Upcoming events, Field service groups, Circuit overseer visit schedule, different variations of meeting schedules and more! All of them are easy to read and are as user-friendly as our app, ensuring you have beautiful printed schedules, announcements, and other important information without spending too much of your time.
 
-This approach allows you to easily use Organized and export all the data records in a few easy clicks, meaning that we don't lock you inside of the Organized app, but allow you to flexibly manage all the data of your congregation, and then save or print it if you want. Use the app in a way that suits you and your congregation the best! So feel free to take a look at the app without fear loosing or of being unable to later export the data.
+This approach allows you to easily use Organized and export all the data records in a few easy clicks, meaning that we don't lock you inside the Organized app, but allow you to flexibly manage all the data of your congregation, and then save or print it if you want. Use the app in a way that suits you and your congregation the best! So feel free to take a look at the app without fear loosing or of being unable to later export the data.
 
 ### Organized App: The perfect digital tool which is print-friendly
 
