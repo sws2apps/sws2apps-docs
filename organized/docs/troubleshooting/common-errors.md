@@ -24,7 +24,7 @@ This means that the schedules are still being prepared by the responsible brothe
 
 ![Unsupported browser](./img/unsupported-browser.png)
 
-You might be using an unsupported browser or a very outdated version. Please check if your browser is up to date, or try using another browser to see if this solves your problem.
+You might be using an unsupported browser or a very outdated version. Please check if your browser is up-to-date, or try using another browser to see if this solves your problem.
 
 Also, be aware that private or incognito modes can prevent the app from locally storing necessary data. The Organized app needs to store some data in your browser to work properly, and private modes prevent this. For example, Private mode in Firefox or Incognito mode in Chromium-based browsers may not let Organized save the data on your device, making it impossible for the app to function.
 
