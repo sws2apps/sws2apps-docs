@@ -29,7 +29,7 @@ You might be using an unsupported browser or a very outdated version. Please che
 Also, be aware that private or incognito modes can prevent the app from locally storing necessary data. The Organized app needs to store some data in your browser to work properly, and private modes prevent this. For example, Private mode in Firefox or Incognito mode in Chromium-based browsers may not let Organized save the data on your device, making it impossible for the app to function.
 
 :::note
-"Saving your congregation data" doesn't mean that Organized team can somehow access your data. Organized has to save essential information that you enter into your device's browser and store and store it inside your browser without sending any data outside. This data is only used for you to have all your congregation info, schedules, and assignments, share with others within your congregation, and to keep the app running smoothly. **All your congregation data is safe and is not shared with anyone else.**_
+_"Saving your congregation data"_ doesn't mean that Organized team can somehow access your data. Organized has to save essential information that you enter into your device's browser and store and store it inside your browser without sending any data outside. This data is only used for you to have all your congregation info, schedules, and assignments, share with others within your congregation, and to keep the app running smoothly. **All your congregation data is safe and is not shared with anyone else.**
 :::
 
 
