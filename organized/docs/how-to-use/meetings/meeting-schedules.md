@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Meeting schedules is one of the core pages in the Organized application. This is a view-only page, which combines schedules published by different appointed brothers on corresponding scheduling pages so everybody in the congregation can find all the schedules in one place!
 
-On this page, everyone in your congregation can view all the latest meeting schedules that are currently published. This page is accessible to all Organized users, including publishers and midweek meeting students, to stay up-to-date with the meeting program and their assignments. Each schedule has a "Last updated" badge to help the meeting overseer ensure that the latest version is published. This way, users can view the most recent schedule without worry and communicate better among congregation members by ensuring everyone references the same version of the schedule.
+On this page, everyone in your congregation can view all the latest meeting schedules that are currently published. This page is accessible to all Organized users, including publishers and midweek meeting students, to stay up-to-date with the meeting program and their assignments. Each schedule has a 'Last updated' badge to help the meeting overseer ensure that the latest version is published. This way, users can view the most recent schedule without worry and communicate better among congregation members by ensuring everyone references the same version of the schedule.
 
 ## Select schedule type
 
@@ -14,7 +14,7 @@ You can find tabs for Midweek Meeting, Weekend Meeting, and Outgoing Publishers 
 
 ## View any date
 
-By default, Organized shows current week's schedules. If you want to see future meetings or even browse through past few weeks, you can easily do so. To return to today's date, just click the "To current week" button. Feel free to explore without getting lost!
+By default, Organized shows current week's schedules. If you want to see future meetings or even browse through past few weeks, you can easily do so. To return to today's date, just click the 'To current week' button. Feel free to explore without getting lost!
 
 ![View meeting schedules for different weeks and get back to the current week with just one button](./img/to-current-week-organized.png)
 
@@ -26,7 +26,7 @@ Finding your assignments is quick and easy! Just look for the colored background
 
 ## Copy a public talk title in one click
 
-Want to share a public talk title, for example with an interested person? Click the "copy" icon next to the title, and it’ll be copied to your clipboard. Then, just paste it into your preferred messaging app.
+Want to share a public talk title, for example with an interested person? Click the 'copy' icon next to the title, and it’ll be copied to your clipboard. Then, just paste it into your preferred messaging app.
 
 ![Copy weekend meeting public talk title with one click](./img/copy-talk.png)
 
