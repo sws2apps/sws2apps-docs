@@ -158,7 +158,7 @@ This collapsible design helps you concentrate on the task at hand and makes sche
 
 ## Step 3: Publish the schedules
 
-Great! Once you've scheduled all the meetings you wanted to, it's time to publish the schedules. Only after this step will everyone using Organized be able to view the schedules and see their upcoming assignments in the app.
+Great! Once you've scheduled all the meetings you wanted to, it's time to publish the schedules. Only after this step will everyone who is using Organized be able to view the schedules and see their upcoming assignments in the app.
 
 :::danger
 Without publishing the schedule, no one using the Organized app will see the new schedule you've just created. **Don't forget to publish schedules** every time you finish working on them and want to make them available to others in your congregation.
