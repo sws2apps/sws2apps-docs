@@ -45,5 +45,5 @@ Once you have completed all the necessary fields and reviewed the information, c
 Elders will review your auxiliary application form and will inform you about their desicion.
 
 :::tip[Do you want to serve as a regular pioneer?]
-Regular pioneer application is not available in Organized app, because it can be submitted directly on [hub.jw.org](https://hub.jw.org/). You can also request a printed version of the application from your congregation's elders.
+Regular pioneer application is not available in Organized app because it can be submitted directly on [hub.jw.org](https://hub.jw.org/). You can also request a printed version of the application from your congregation's elders.
 :::
