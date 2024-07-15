@@ -43,4 +43,4 @@ Whenever you navigate inside any section or page, a few elements remain constant
 
 This consistent layout ensures you always know where you are and how to move around.
 
-#### We've designed Organized with simplicity and user-friendliness in mind, making it easy for you to manage various congregation activities almost effortlessly! Now, feel free to explore other features and tips on other pages of the documentation!
+#### We've designed Organized with simplicity and user-friendliness in mind, making it easy for you to manage various congregation activities almost effortlessly! Now, feel free to explore other features and tips on other pages of this user guide!
