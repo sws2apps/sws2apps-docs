@@ -100,7 +100,7 @@ Additionally, there's another helpful feature for your manual scheduling to keep
 
 ### View publisher's assignment history
 
-When unsure about a specific assignment for a student or brother, you can view their past assignment history for context by clicking the Assignment history button on the right side of their name once they're selected. This comprehensive information includes the type of past assignments, exact dates, partners they worked with, and even which hall it was given in. This helps you make more balanced decisions that benefit students, and it's easy to view all the history at a glance.
+When unsure about a specific assignment for a student or brother, you can view their past assignment history for context by clicking the Assignment history button on the right side of their name once they're selected. This comprehensive information includes the types of past assignments, exact dates, partners they worked with, and even which hall it was given in. This helps you make more balanced decisions that benefit students, and it's easy to view all the history at a glance.
 
 ![View publisher assignment history in one click to make better scheduling desicions](./img/assignment-history.gif)
 
