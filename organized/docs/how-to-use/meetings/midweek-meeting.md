@@ -76,7 +76,7 @@ From this point, you can easily check all meetings week-by-week and make manual 
 
 :::info[Did you know?]
 There are two approaches to using Autofill in Organized:
-1. Fill out specific meeting parts (e.g that require a specific elder to conduct or have a special theme needing careful assignment) in advance, and then use Autofill to complete **only the rest** of the assignments.
+1. Fill out specific meeting parts (e.g. that require a specific elder to conduct or have a special theme needing careful assignment) in advance, and then use Autofill to complete **only the rest** of the assignments.
 2. Autofill **all weeks first**, then go through each meeting and make manual changes for parts requiring extra attention.
 :::
 
