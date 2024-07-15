@@ -14,7 +14,7 @@ You can find tabs for Midweek Meeting, Weekend Meeting, and Outgoing Publishers 
 
 ## View any date
 
-By default, Organized shows current week's schedules. If you want to see future meetings or even browse through past few weeks, you can easily do so. To return to today's date, just click the 'To current week' button. Feel free to explore without getting lost!
+By default, Organized shows the current week's schedules. If you want to see future meetings or even browse through past few weeks, you can easily do so. To return to today's date, just click the 'To current week' button. Feel free to explore without getting lost!
 
 ![View meeting schedules for different weeks and get back to the current week with just one button](./img/to-current-week-organized.png)
 
