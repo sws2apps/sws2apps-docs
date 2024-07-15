@@ -2,9 +2,9 @@
 sidebar_position: 4
 ---
 
-# Reviewing auxiliary pioneer applications
+# Review auxiliary pioneer applications
 
-Publishers can [submit auxiliary pioneer applications through Organized](../ministry/auxiliary-pioneer-application), and the congregation's service committee can review them directly in the app.
+Publishers can [submit auxiliary pioneer applications through Organized](../ministry/auxiliary-pioneer-application), and the congregation's service committee can review them directly in the app. If you're appointed as the service committee member, this page will be available for you and here you can view all the pending applications and review them along with two other brothers.
 
 ## View all pending applications
 
