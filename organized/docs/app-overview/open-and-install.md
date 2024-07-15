@@ -27,7 +27,7 @@ With the Organized app installed on your smartphone, you can easily manage your 
 The process is similar to the instruction above. To install the Organized app on Windows, follow these steps:
 
 1. Visit the [organized-app.com](https://organized-app.com/) application in your web browser.
-2. Click the '**Install**' button. Usually it's located in the top-right corner of the page, but different browsers may display Install button in different places.
+2. Click the '**Install**' button. Usually, it's located in the top-right corner of the page, but different browsers may display Install button in different places.
 3. A pop-up window will appear asking if you want to install the app. Click '**Install**' again.
 4. The app will be downloaded and installed on your computer.
 
