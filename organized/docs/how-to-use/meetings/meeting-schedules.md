@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Viewing Meeting schedules
 
-Meeting schedules is one of the core pages in the Organized application. This is a view-only page, which combines schedules published by different appointed brothers on corresponding scheduling pages so everybody in the congregation can find all the schedules in one place!
+Meeting schedules is one of the core pages in the Organized application. This is a view-only page, which combines schedules published by different appointed brothers on corresponding scheduling pages, so everybody in the congregation can find all the schedules in one place!
 
 On this page, everyone in your congregation can view all the latest meeting schedules that are currently published. This page is accessible to all Organized users, including publishers and midweek meeting students, to stay up-to-date with the meeting program and their assignments. Each schedule has a 'Last updated' badge to help the meeting overseer ensure that the latest version is published. This way, users can view the most recent schedule without worry and communicate better among congregation members by ensuring everyone references the same version of the schedule.
 
