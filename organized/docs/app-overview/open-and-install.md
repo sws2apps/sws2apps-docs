@@ -36,7 +36,7 @@ Once the installation is complete, you can access the app from your Start menu o
 **Note:** The Organized app is a Progressive Web App (PWA), allowing it to be installed and used like a native app on your Windows computer. It does not require any special installation or download from the Microsoft Store.
 
 
-![Install Organized PWA app on Widnows using Google Chrome browser](./img/install-Organized-in-Chrome.png)
+![Install Organized PWA app on Windows using Google Chrome browser](./img/install-Organized-in-Chrome.png)
 
 
 ## How to install Organized on macOS?
