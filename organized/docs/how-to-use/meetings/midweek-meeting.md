@@ -136,7 +136,7 @@ After clicking, you'll see a window asking for the date range you'd like to clea
 
 #### Collapse/expand meeting parts
 
-Simplify your view with the collapsible meeting sections. Look for the any of the three main meeting part titles, each title has a colored bar. Click on any of these bars to hide or show the content beneath it.
+Simplify your view with the collapsible meeting sections. Look for any of the three main meeting part titles, each title has a colored bar. Click on any of these bars to hide or show the content beneath it.
 
 ![Minimaze or maximize midweek meeting program parts while scheduling theocratic meetings](./img/collapsing.gif)
 
