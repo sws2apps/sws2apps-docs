@@ -80,7 +80,7 @@ There are two approaches to using Autofill in Organized:
 2. Autofill **all weeks first**, then go through each meeting and make manual changes for parts requiring extra attention.
 :::
 
-*You're free to use Autofill and manual assigning in any combination that's convenient for you. Don't worry if you use Autofill and then make manual updates – all your changes to assignments are taken into account for the next time you use the Autofill feature. Everything is automated and intuitive!*
+You're free to use Autofill and manual assigning in any combination that's convenient for you. Don't worry if you use Autofill and then make manual updates – all your changes to assignments are taken into account for the next time you use the Autofill feature. Everything is automated and intuitive!
 
 ### Assign manually
 
@@ -104,19 +104,18 @@ When unsure about a specific assignment for a student or brother, you can view t
 
 ![View publisher assignment history in one click to make better scheduling desicions](./img/assignment-history.gif)
 
-### Pro scheduling tips:
+### Pro scheduling tips
 
 #### Two edit modes
-
-![JW meeting scheduling modes – edit meeting parts or edit assignments](./img/edit-mode-tabs.gif)
 
 The editing mode switch at the top of the scheduling card keeps the page layout clean, as you'll mostly need to edit assignments. However, Organized provides additional functionality for editing meeting parts when necessary. Let's see what each mode does:
 
 * **Edit assignments:** This is the standard mode. It displays meeting parts as view-only on the left side of the screen, while allowing you to assign brothers and students to these parts on the right side. This mode is ideal for your regular scheduling, when there are no changes to the meeting program itself.
 * **Edit parts:** This is an optional mode for modifying the meeting program structure. Use this mode when you need to: 1. Adjust existing program parts *(e.g., change titles or durations)*, 2. Replace parts with custom content *(for instance, when a Governing Body Update takes the place of a regular part)*, 3. Add new, custom meeting parts to the program *(when approved by the body of elders)*. /This mode is particularly useful for weeks with special schedules or when you receive updates from the branch office.
 
-![In Organized you can edit existing meeting parts and create custom ones with your details](./img/custom-meeting-parts.png)
-*Using 'Edit parts' mode enables you to overwrite existing meeting parts and create a custom one, adding flexibility to schedules imported from jw.org*
+![JW meeting scheduling modes – edit meeting parts or edit assignments](./img/edit-mode-tabs.gif)
+
+Using 'Edit parts' mode enables you to overwrite existing meeting parts and create a custom one, adding flexibility to schedules imported from jw.org.
 
 :::warning[**Important:** ]
 You can only work in one mode at a time – either 'Edit assignments' or 'Edit parts'. This separation keeps the scheduling process simple and organized. To switch between modes:
@@ -134,27 +133,14 @@ Need to clear several assignments at once? The 'Delete multiple assignments' fea
 
 After clicking, you'll see a window asking for the date range you'd like to clear. This can be one week or even multiple months. Once you've selected the date range, click the 'Clear selected weeks' button. All assignments within that range will be cleared and ready for re-scheduling. **Note that meeting parts (titles, duration, etc.) won't be deleted; this feature clears assignments only.**
 
-![Bulk clear many assignments for a date range in Organized](./img/clear-multiple-assignments.png)
 
 #### Collapse/expand meeting parts
 
-Simplify your view with the collapsible meeting sections:
-
-1. Look for the three main meeting part titles:
-   - TREASURES FROM GOD'S WORD
-   - APPLY YOURSELF TO THE FIELD MINISTRY
-   - LIVING AS CHRISTIANS
-
-2. Each title has a colored bar. Click on any of these bars to hide or show the content beneath it.
+Simplify your view with the collapsible meeting sections. Look for the any of the three main meeting part titles, each title has a colored bar. Click on any of these bars to hide or show the content beneath it.
 
 ![Minimaze or maximize midweek meeting program parts while scheduling theocratic meetings](./img/collapsing.gif)
 
-3. Use this feature to:
-   - Manage screen space, especially on smaller devices
-   - Focus on specific sections you're currently scheduling
-   - Minimize distractions from already assigned parts
-
-This collapsible design helps you concentrate on the task at hand and makes scheduling more efficient, particularly when working with partial assignments.
+Use this feature to manage screen space, especially on smaller devices, focus on specific sections you're currently scheduling, or minimize distractions from already assigned parts. This collapsible design helps you concentrate on the task at hand and makes scheduling more efficient, particularly when working with partial assignments.
 
 ## Step 3: Publish the schedules
 

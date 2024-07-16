@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Viewing Meeting schedules
+# View meeting schedules
 
 Meeting schedules is one of the core pages in the Organized application. This is a view-only page, which combines schedules published by different appointed brothers on corresponding scheduling pages, so everybody in the congregation can find all the schedules in one place!
 
