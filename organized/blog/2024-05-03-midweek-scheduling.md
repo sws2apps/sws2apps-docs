@@ -7,7 +7,7 @@ tags: [Midweek meetings, Meeting scheduling]
 hide_table_of_contents: false
 ---
 
-![Scheduling meetings in Organized app](./images/scheduling.jpeg)
+![Scheduling meetings in Organized app](./images/scheduling-organized.jpeg)
 
 ### Scheduling meetings: An important privilege
 
