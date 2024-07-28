@@ -18,7 +18,7 @@ After completing the registration, click on the "Create Congregation" button at 
 
 ## Enter details
 
-After doing so, enter your congregation’s details in corresponding fields. Congregation name and number is fetched directly from jw.org. Make sure to write at least two characters for the search to start working. If you can't find your congregation in the search field or it is not even listed on the jw.org congregation search page, please contact our [support email](mailto:support@organized-app.com) for further assistance.
+After doing so, enter your congregation’s details in corresponding fields. Congregation name and number is fetched directly from jw.org. Make sure to write at least two characters for the search to start working. If you can't find your congregation in the search field, or it is not even listed on the jw.org congregation search page, please contact our [support email](mailto:support@organized-app.com) for further assistance.
 
 ![Congregation details](./img/details.png)
 
