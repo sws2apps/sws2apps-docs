@@ -38,7 +38,7 @@ Here’s how to create and update your congregation's outgoing speakers list to 
 
 #### Add outgoing speakers
 
-Click the 'Edit' pencil icon at the top right corner of the **Your Congregation** card. 
+Click the 'Edit' pencil icon in the top right corner of the **Your Congregation** card.
 
 ![Editing my visiting speakers](./img/edit-button.png)
 
