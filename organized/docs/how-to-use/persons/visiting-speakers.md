@@ -66,7 +66,7 @@ After adding all the necessary information about your outgoing speakers, click t
 
 #### Edit outgoing speakers
 
-Editing speakers and their talks in Organized is just as simple as adding them. Click the 'Edit' pencil icon at the top right corner. Make the changes you need to speakers, their talks, or songs. Use the "Add" or "Delete" buttons to adjust the speakers list. When you’re finished, click the 'Done' checkmark icon at the top right corner to save your changes.
+Editing speakers and their talks in Organized is just as simple as adding them. Click the 'Edit' pencil icon in the top right corner. Make the changes you need to speakers, their talks, or songs. Use the "Add" or "Delete" buttons to adjust the speakers list. When you’re finished, click the 'Done' checkmark icon in the top right corner to save your changes.
 
 #### View congregations with access to your speakers
 
