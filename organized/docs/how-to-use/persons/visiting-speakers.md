@@ -60,7 +60,7 @@ To view or edit the song list for each speaker, click the 'Songs' button under h
 
 ![More details about speaker's talks, songs and contact info](./img/song-details.png)
 
-After adding all the necessary information about your outgoing speakers, click the 'Done' checkmark icon at the top right corner. You will then see a quick overview of all your congregation's speakers and their talks.
+After adding all the necessary information about your outgoing speakers, click the 'Done' checkmark icon in the top right corner. You will then see a quick overview of all your congregation's speakers and their talks.
 
 ![Done editing](./img/done.png)
 
