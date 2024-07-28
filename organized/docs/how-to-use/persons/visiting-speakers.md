@@ -98,6 +98,6 @@ After adding congregations to the 'Other Congregations' list, you can view their
 
 ## You're all set! 
 
-You’ve done a great job setting up your congregation’s outgoing speakers list and learning how to request speaker lists from other congregations or add them manually. Now you can start scheduling your weekend meetings and include visiting speakers. Just remember to contact the corresponding brothers and check their availability first! 😉
+You’ve done an excellent job setting up your congregation’s outgoing speakers list and learning how to request speaker lists from other congregations or add them manually. Now you can start scheduling your weekend meetings and include visiting speakers. Just remember to contact the corresponding brothers and check their availability first! 😉
 
 Thanks for following along! If you’re interested in scheduling weekend meetings more effectively, check out [this article](../meetings/weekend-meeting) or explore others that might be helpful. Feel free to share any useful articles with others who might also want to improve their workflow and scheduling experience!
