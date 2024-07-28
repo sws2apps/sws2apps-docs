@@ -22,7 +22,7 @@ Your congregation’s name and number are automatically added from the registrat
 
 Turn on this setting if you want other congregations to find your congregation when they’re looking for outgoing speakers. With this option enabled, other congregations can search for your congregation by name or number and request to see your speakers list. You’ll need to approve each request before they can view the list.
 
-**Note:** There is no global directory of congregations in Organized. For another congregation to request your speakers list, they need to enter your congregation’s name or number in the search. If your congregation is discoverable, it will show up in their search results. If not, it won’t appear, even if they enter congregation's complete name.
+**Note:** There is no global directory of congregations in Organized. For another congregation to request your speakers list, they need to enter your congregation’s name or number in the search. If your congregation is discoverable, it will show up in their search results. If not, it won’t appear, even if they enter the congregation's complete name.
 
 This feature gives you **full control** over sharing your outgoing speakers list, with a two-step process that ensures access is granted only to those you approve.
 
