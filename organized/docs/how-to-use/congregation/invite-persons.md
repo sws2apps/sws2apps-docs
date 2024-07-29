@@ -38,7 +38,7 @@ Ensure you enter the correct email address without typos and that the brother ha
 
 ## Publisher or midweek student
 
-To bind a user profile with a person record from your congregation, ensure that you have already added this brother or sister to the congregation's [Persons page](../how-to-use/persons/all-persons.md).
+To bind a user profile with a person record from your congregation, ensure that you have already added this brother or sister to the congregation's [Persons page](../how-to-use/persons/all-persons).
 
 1. Select the corresponding **"Publisher or midweek student"** option.
 2. Select a person record from the list. Make sure that the person record already exists on the [Persons page](../how-to-use/persons/all-persons.md) so that you can find it.
@@ -59,4 +59,4 @@ Note, that this code will also be available on their user page, so no need to wo
 
 ## Well done!
 
-That's the basics of inviting brothers and sisters to your congregation on Organized app. To learn more about managing the users, their roles and rights, please see the [Manage access to Organized](../how-to-use/congregation/manage-access.md) guide.
+That's the basics of inviting brothers and sisters to your congregation on Organized app. To learn more about managing the users, their roles and rights, please see the [Manage access to Organized](./manage-access) guide.
