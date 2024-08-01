@@ -15,7 +15,7 @@ Here, you’ll see areas for Midweek Meeting and Weekend Meeting with fields cor
 ![Enter meeting attendance details and get instant calculations in Organized](./img/attendance-both.png)
 
 :::tip[Useful Tip]
-The current week will have the '**• Today**' indicator to help you easily find the current week and ensure you choose the right field. We encourage you to enter attendance records promptly (e.g., during meetings or shortly after) to make the best use of this feature in Organized.
+The current week will have the '**• Now**' indicator to help you easily find the current week and ensure you choose the right field. We encourage you to enter attendance records promptly (e.g., during meetings or shortly after) to make the best use of this feature in Organized.
 :::
 
 You can see the Total and Average attendance counts under the week input fields. These numbers update dynamically as you enter data, providing a quick overview even before the month ends.
@@ -42,7 +42,9 @@ All the information on this page is for your records, but it becomes particularl
 
 Organized makes this easy – as soon as you enter all the attendance records throughout the year, they are automatically saved in your congregation's database, eliminating the need to manually tally the report. It only takes a few seconds for Organized to generate a complete yearly report.
 
-To do this, simply click the 'Create S-1 report'. This button doesn't generate the report itself but redirects you to the [Reports to Branch Office](branch-reports) page, where you can view all the necessary data you need as a secretary to submit the S-1 report.
+To do this, simply click the **'Create S-1 report'**. This button wont't generate the report itself but will redirect you to the [Reports to branch office](branch-reports) page, where you can view all the necessary data you need as a secretary to submit the S-1 report, including all the meeting attendance information.
+
+![Redirect S-1 report](./img/s-1.png)
 
 ## Everything is saved, everything is calculated!
 
