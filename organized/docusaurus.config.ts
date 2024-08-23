@@ -70,7 +70,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'http://organized-app.com',
+          href: 'https://organized-app.com',
           label: 'Organized app',
           position: 'right',
         },
