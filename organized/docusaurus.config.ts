@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Organized | How to use guide',
+  title: 'Organized | User guide',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -58,9 +58,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/organized-og-image.jpg',
     navbar: {
-      title: 'Organized | How to use guide',
+      title: 'Organized | User guide',
       logo: {
-        alt: 'Organized How to use guide',
+        alt: 'Organized User guide',
         src: 'img/logo.svg',
       },
       items: [

@@ -2,17 +2,17 @@
 sidebar_position: 5
 ---
 
-# Visiting speakers
+# Speakers catalog
 
-The Visiting Speakers feature is an invaluable tool if you serve as public talk coordinator. It promotes collaboration, offers a greater variety of speakers, and helps distribute the workload among your local speakers. This guide will walk you through how to use this feature effectively.
+The Speakers catalog feature is an invaluable tool if you serve as public talk coordinator. It promotes collaboration, offers a greater variety of speakers, and helps distribute the workload among your local speakers. This guide will walk you through how to use this feature effectively.
 
 The page is divided into to sections: Your congregation and Other congregations. Let's see how to set up everything and make the best use of it.
 
-![Visiting speakers page structure in Organized app](./img/visiting-stock.png)
+![Speakers catalog page structure in Organized app](./img/visiting-stock.png)
 
 ## Your congregation
 
-This section is where you’ll find your outgoing speakers list, their scheduled talks, and some additional useful settings. You can easily expand or collapse this card based on what you need to focus on.
+This section is where you’ll find your local and outgoing speakers list, their scheduled talks, and some additional useful settings. You can easily expand or collapse this card based on what you need to focus on. Why to add local speakers? By entering you local speakers, their preferred talks and pre-selected songs, you make it way easier to schedule future weekend talks. 
 
 ### Congregation name and number
 
@@ -28,13 +28,13 @@ This feature gives you **full control** over sharing your outgoing speakers list
 
 ![Setup your outgoing speakers list in Organized](./img/my-congregation-setup.png)
 
-### Your outgoing speakers list
+### Your local and outgoing speakers list
 
 If your congregation has approved outgoing speakers and you want to improve collaboration on public talk scheduling with other local congregations, make sure to fill out your outgoing speakers list in Organized. Even if you don’t plan to collaborate directly through the app, keeping this list up-to-date helps you quickly access important information and manage it quickly and effectively as a public talk coordinator.
 
 By turning on the congregation discoverability option, you can further improve digital collaboration with other congregations that are already using Organized.
 
-Here’s how to create and update your congregation's outgoing speakers list to keep the information accurate and useful.
+Here’s how to create and update your congregation's both outgoing and local speakers list to keep the information accurate and useful.
 
 #### Add outgoing speakers
 
