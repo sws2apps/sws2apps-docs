@@ -24,7 +24,7 @@ Now that the structure is clear, let's move on to the scheduling steps!
 
 ### Check person assignment qualifications
 
-Before starting your first scheduling session, ensure that all congregation members have the correct set of [assignment qualifications on their Person page](../persons/add-person#assignments). This page allows you to flexibly specify available assignments for each meeting part for every individual in the congregation. Double-check that everyone in your persons list has the right assignments set up. This way only the qualified persons will be suggested and selected for specific meeting parts with specific roles (e.g. Student or Assistant, Bible study conductor or Reader, etc.).
+Before starting your first scheduling session, ensure that all congregation members have the correct set of [assignment qualifications on their Person page](../persons/add-person#assignment-qualifications). This page allows you to flexibly specify available assignments for each meeting part for every individual in the congregation. Double-check that everyone in your persons list has the right assignments set up. This way only the qualified persons will be suggested and selected for specific meeting parts with specific roles (e.g. Student or Assistant, Bible study conductor or Reader, etc.).
 
 ### Import meeting materials from the workbook
 

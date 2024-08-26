@@ -24,7 +24,7 @@ Let's dive deeper into the information you can enter on this page and how it can
 
 ![Person's basic information](./img/basic.png)
 
-## Assignments
+## Assignment qualifications
 
 Customize assignment preferences and qualifications for each person by selecting the appropriate checkboxes. Here are some of meeting parts parameters that usually require some clarifications:
 
