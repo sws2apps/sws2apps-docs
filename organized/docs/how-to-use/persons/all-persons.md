@@ -8,15 +8,13 @@ The All Persons page is where all the records of your congregation's members are
 
 Persons are all people that take part in your congregation's life. That's not only publishers, but also students on a midweek meetings, therefore the page is called Persons. Keeping the information and qualifications of each person up-to-date is important for accurate and efficient reporting and meeting scheduling.
 
-![All persons overview](./img/persons-overview.png)
-
 ## Add new person
 
 In the top right corner, you'll find the "Add person" button. Clicking on it will allow you to create a new person record and fill out all the necessary details. For step-by-step guidance on this process, check out our [Add person](./add-person) guide page.
 
 ## Search function
 
-On this page, you can find everyone in your congregation! You can easily search for a specific person or a group of people by using the search field and filters available. Let's see how they work:
+On this page, you can find everyone in your congregation! Simply search for a specific person or a group of people by using the search field and filters available. Let's see how they work:
 
 ### Search field
 
@@ -28,21 +26,17 @@ This page displays everyone in the congregation. To find a specific person, simp
 
 Search filters allow to search for congregation persons using more specific parameters other then their names, for example by their spiritual status, privileges in congregation, or specific meeting assignment qualifications. 
 
-To access the filter panel, simply click on it to expand it. Once you've applied your desired filters, you can collapse the panel to make it easier to view the persons. Don't worry, collapsing the panel won't reset your selected filters.
+To access the filter panel, simply click on it to expand it. Collapsing the panel won't reset your selected filters.
 
 ![Open Organized person filters](./img/filter-open.gif)
 
 To apply a filter, click on it once to select it and click again to deselect it. Keep in mind that applying multiple filters may reduce the number of search results.
 
-The "Filters applied" badge displays the count of filters you've selected, including both blue rectangular filters and assignment qualification checkboxes.
-
-![All persons overview](./img/filters.png)
+The 'Applied filters' badge displays the count of filters you've selected, including both categories and assignment qualifications.
 
 ## Clear filters
 
 If you need to clear all applied filters, simply click the **'Clear all'** button at the bottom of the filter panel. This will reset all filters, so you don't have to manually deselect each one.
-
-![Clear all the search filters](./img/clear-all-filters.gif)
 
 ## A person card
 

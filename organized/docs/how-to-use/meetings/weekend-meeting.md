@@ -10,11 +10,12 @@ Creating weekend meeting schedules in the Organized app is as simple as a few cl
 
 The weekend meeting scheduling page is designed with simplicity in mind, while also offering powerful features to make scheduling easier. Here’s how the page is structured:
 
-- **Meeting weeks** selector. This section lets you quickly navigate between months and weeks, allowing you to easily view the scheduling progress for each particular week. Also, there’s a **Delete multiple assignments** button that lets you clear several assignments at once. 
+- **Meeting weeks** selector. This section lets you quickly navigate between months and weeks, allowing you to easily view the scheduling progress for each particular week. Also, there’s a 'Delete multiple assignments' button that lets you clear several assignments at once. 
 - **Scheduling** area. On another content card, you'll see the  area with all the fields that are ready for scheduling.
 - **Quick settings**. You’ll find these at the top of the page for easy access. These settings are shortcuts to options from the [Congregation settings](../congregation/congregation-settings) page but only affect the weekend meeting scheduling. Remember, changes here will impact the whole congregation, so use these shortcuts to adjust settings related specifically to weekend meetings.
 
 ![Quick settings buttons](./img/wm-quick-settings.png)
+
 *Quick settings button*
 
 ## Meeting scheduling
@@ -29,7 +30,7 @@ Although the import from jw.org is performed automatically every few weeks to en
 
 ### Autofill feature
 
-We highly recommend using the Autofill feature to achieve the most balanced scheduling and save your time. The intelligent algorithm considers previous assignments and each person's qualifications, as well as availability, making the scheduling process faster and more efficient. Autofill is easy to use and highly reliable—give it a try and see for yourself!
+We highly recommend using the Autofill feature to achieve the most balanced scheduling and save your time. The intelligent algorithm considers previous assignments and each person's qualifications, as well as availability, making the scheduling process faster and more efficient. Autofill is easy to use and highly reliable — give it a try and see for yourself!
 
 ### Manual scheduling
 
@@ -48,7 +49,7 @@ When scheduling the public talk, you have three options to start with:
 - **Visiting speaker:** Choose a speaker from another congregation. This can be done using the shared catalog of speakers or by manually entering the details.
 - **JW Stream recording:** Select this option if you plan to use a recorded talk video.
 
-Use the [Speakers catalog](../persons/visiting-speakers) button inside the public talk field to access a list of all available speakers and talks. This feature makes it easy to select and schedule speakers with just one click. If you take care of this in advance, you can also get a list of songs that the speaker has chosen for the public talk. 
+Use the Speakers catalog button inside the public talk field to access a list of all available speakers and talks. This feature makes it easy to select and schedule speakers with just one click. If you [take care of this in advance](../persons/visiting-speakers), you can also get a list of songs that the speaker has chosen for the public talk. 
 
 ![Local and visiting speakers list in the Organized app](./img/wm-speakers-catalog-button.png)
 
@@ -60,7 +61,7 @@ Always arrange visiting speakers directly with their public talk coordinator bef
 
 After scheduling the public talk, fill out the remaining meeting parts:
 
-- **Watchtower study:** The main conductor is automatically pre-filled unless unavailable. If you need to assign another conductor, select one from the dropdown menu. Only brothers with the Watchtower study conductor qualification will appear in the list. [Edit person](./persons#edit) to update qualifications if needed.
+- **Watchtower study:** The main conductor is automatically pre-filled unless unavailable. If you need to assign another conductor, select one from the dropdown menu. Only brothers with the Watchtower study conductor qualification will appear in the list. [Edit person](../persons/add-person#assignment-qualifications) to update qualifications if needed.
 - **Reader and concluding prayer:** Assign the Watchtower study reader and, if the speaker is unavailable, assign another brother to give the concluding prayer.
 
 ### Outgoing talk
@@ -71,12 +72,12 @@ You can also include outgoing talks in the schedule — these are talks given by
 
 ### Clearing assignments
 
-- **Delete outgoing talk:**C lick the delete bin icon in the top right corner of the outgoing talk card. Confirm the deletion, and the talk will be removed from the schedule.
-- **Clear all assignments:** Use the **Clear all** button to remove all assignments for the entire week at once, saving time compared to manual deletion.
+- **Delete outgoing talk:** Click the delete bin icon in the top right corner of the outgoing talk card. Confirm the deletion, and the talk will be removed from the schedule.
+- **Clear all assignments:** Use the 'Clear all' button to remove all assignments for the entire week at once, saving time compared to manual deletion.
 
 ## Publishing and exporting
 
-Once you’ve finished scheduling, it’s crucial to **publish** the schedules so everyone in your congregation can see their assignments. If you don't publish, the new schedules will remain invisible to others in the app. Remember, creating schedules is just the first step—you also need to publish them as soon as you're done.
+Once you’ve finished scheduling, it’s crucial to **publish** the schedules so everyone in your congregation can see their assignments. If you don't publish, the new schedules will remain invisible to others in the app. Remember, creating schedules is just the first step — you also need to publish them as soon as you're done.
 
 Click the 'Publish' button and choose the month you want to make available. Published months will have an indicator icon, so you can easily see which months still need to be published based on your recent work. Make sure not to publish incomplete schedules. After publishing, the new schedule will be visible to everyone in the congregation within a few minutes.
 
