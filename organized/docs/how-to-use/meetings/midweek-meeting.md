@@ -22,11 +22,11 @@ Now that the structure is clear, let's move on to the scheduling steps!
 
 ## Step 1: Prepare
 
-### Check Person Assignment Qualifications
+### Check person assignment qualifications
 
 Before starting your first scheduling session, ensure that all congregation members have the correct set of [assignment qualifications on their Person page](../persons/add-person#assignments). This page allows you to flexibly specify available assignments for each meeting part for every individual in the congregation. Double-check that everyone in your persons list has the right assignments set up. This way only the qualified persons will be suggested and selected for specific meeting parts with specific roles (e.g. Student or Assistant, Bible study conductor or Reader, etc.).
 
-### Import Meeting Materials from the Workbook
+### Import meeting materials from the workbook
 
 On the home page dashboard, click the '[Import from jw.org](../meeting-materials/import-jw-org)' button *(or alternatively use the [import from .epub file](../meeting-materials/import-epub) button to upload an .epub file from your device)* to automatically import the entire meeting program from the meeting workbook. This includes weekly Bible reading text, songs, meeting part titles, durations, source materials, and everything else you need to start scheduling. Thanks to this automatic import, you won't need to manually calculate durations or perform repetitive copy-paste actions to get all the program part titles right.
 
@@ -34,18 +34,18 @@ On the home page dashboard, click the '[Import from jw.org](../meeting-materials
 Although the import from jw.org is performed automatically every few weeks to ensure you always have the newest meeting materials ready for scheduling, **this automatic import doesn't happen instantly after each small update on jw.org**. If you want to be 100% sure you have the latest version of the schedule, click the 'Import from jw.org' action button on the home page dashboard each time before creating a new schedule. This takes only a few extra seconds but removes any uncertainty.
 :::
 
-## Step 2: Start Scheduling
+## Step 2: Start scheduling
 
 Now that you have all the meeting materials from the workbook imported and ready for scheduling, let's proceed with choosing a specific week, selecting its type, and then assigning all the parts either manually or automatically. We'll also share some additional 'professional' tips at the end of this step.
 
-### Select Week
+### Select week
 
 Choose a week from the 'Meeting weeks' list. It contains all 12 months for each year, and by expanding any of them, you can access a list of weeks for each month. From here, it's easy to track scheduling progress by viewing the progress bar and the number of assignments scheduled compared to the total assignments count for that particular week.
 
 ![Select a week from weeks list in Organized app](./img/meeting-weeks-.gif)
 
 
-### Select Week Type
+### Select week type
 
 During most of the year, the week type is simply 'Normal week'. However, for special weeks and events, there are corresponding presets to help organize schedules more effectively:
 
@@ -59,7 +59,7 @@ During most of the year, the week type is simply 'Normal week'. However, for spe
 
 **Tip:** When a week has no meeting, instead of leaving all fields empty and moving on to the next one, use one of these presets. Selecting one will add extra indicators to the schedules both in the app and on the print, notifying publishers in your congregation. You can even optionally leave a message to be displayed on the schedules for dates when there's no meeting, specifying context (such as assembly/convention name, date, and place) which will be beneficial for brothers and sisters.
 
-### Assign Automatically with Autofill Feature
+### Assign automatically with Autofill feature
 
 In Organized, the Autofill button allows you to fill out all desired schedules in just a couple of seconds! An intelligent algorithm behind this feature takes into account each publisher's last assignment, its date, hall given in, and previous partner – everything for improved and balanced scheduling.
 
