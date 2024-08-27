@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Manage access
 
-Organized provides flexible user access management for your congregation. Access the 'Manage Access' page from the 'Congregation' home page card to view and manage all users and their roles.
+Organized provides flexible user access management for your congregation. Access the 'Manage Access' page from the 'Congregation' card on the home page to view and manage all users and their roles.
 
 ## View all users
 
@@ -18,7 +18,7 @@ User profiles are **not the same as person records**. User profiles represent re
 
 ## Add user
 
-Click the 'Add user' button and then select whether you want to add either a **Baptized brother** or a **Publisher or midweek meeting student**. Then, follow the instructions of the app to finish adding new user. For detailed step-by-step guide, read the next article: [Invite persons to your congregation](invite-persons).
+Click the 'Add user' button and then select whether you want to add either a **Baptized brother** or a **Publisher or midweek meeting student**. Then, follow the instructions of the app to finish adding new user. For detailed step-by-step guide, read the [Invite persons to your congregation](invite-persons) guide.
 
 ![Add new Organized user](./img/add-button.png)
 
