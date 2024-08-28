@@ -14,6 +14,8 @@ The page includes multiple filters, allowing you to select and view reports base
 
 At the top of the page, you can filter reports by service year and month. This feature allows you to focus on the current month to quickly review and add any missing reports. Alternatively, you can look back at historical data to review past reports that have already been entered.
 
+![View reports from specitic month](./img/dates-filter.png)
+
 ### Filter by publisher category
 
 You can also filter the report list by publisher categories such as active publishers, inactive publishers, baptized publishers, auxiliary pioneers, regular pioneers, and more. Additionally, you can filter based on field service groups or see who has or hasn’t submitted their reports for the selected month. This flexibility lets you easily identify publishers who need to be reminded to submit their reports or whose reports need to be manually entered.
@@ -27,6 +29,8 @@ A visual progress bar on the page shows the number of reports received, starting
 ## Persons search results
 
 After applying filters such as service year, month, or publisher category, the list of results will update accordingly. This list shows the full names of publishers, their spiritual status (e.g., elder, ministerial servant), and their type of ministry (e.g., pioneer). A checkmark circle next to a publisher's name indicates that their field service report for the selected month has been submitted. If no checkmark is present, it means the report is still pending.
+
+![Filter and view publisher's reports in Organized](./img/persons-results.png)
 
 ## Report of a specific publisher
 
