@@ -44,7 +44,6 @@ Organized makes it easy for secretary to manage late reports. If a report is sub
 
 This feature ensures that even if reports are submitted late, they are still accounted for and included in your reporting.
 
-
 ## Create an S-1 Report
 
 To view all the necessary data for your congregation's S-1 report to the branch office, click the big blue button labeled 'Create S-1 report.' This will redirect you to the Reports to Branch Office page, where you can review and prepare all the information required for submission. Note that this button does not generate or download the report itself but helps you gather all the data needed for sumbitting the official report on JW HUB website.
