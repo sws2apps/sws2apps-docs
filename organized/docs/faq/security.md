@@ -67,7 +67,7 @@ When you choose to use our Organized app, we only collect essential information 
 
 ## Can I run the Organized without my own server and database?
 
-We are currently working on this. With the next updates, you will be able to run Organized on your own server with your own database, giving you uncompromised control over all data and access. 
+We are currently working on this. With future updates, you will be able to run Organized on your own server with your own database, giving you uncompromised control over all data and access. 
 
 ## Where my Organized data is stored?
 
@@ -76,3 +76,13 @@ Your data is stored securely in Organized, depending on how you use the app.
 - If you're using the app alone on a single device, your data is stored only locally on that device. 
 
 - If you're using the app with your congregation or on multiple devices, your data is still **stored on your device**, but data backups are also regularly shared with other members of your congregation _(only the data allowed them to view, such as schedules, persons, groups, etc.)_. All the data backups are encrypted using your own strong encryption code and securely shared across congregation members through our servers. All data is stored with the highest level of security, and no one unauthorized can access or read it.
+
+## What is the difference between the Congregation master key and Congregation access code?
+
+Both the Congregation master key and the Congregation access code serve to protect your congregation’s data through end-to-end encryption, but they differ in their access levels and purposes:
+
+- **Access code:** This code is used by *everyone* who wants to join your congregation in the Organized app and when logging in on new devices. It’s the final step in the registration process, confirming that the person has been authorized by the congregation's elders. However, possessing the access code alone doesn't grant full access — administrators still have to manage and adjust user role(s) and permissions after they join. The Congregation access code should be relatively user-friendly, meaning it should be easy to enter multiple times by different age groups in the congregation, featuring a thoughtful mix of words and numbers. It’s important to avoid using obvious or commonly known phrases to maintain security. This balance ensures that while the code is accessible for legitimate users, it remains secure against unauthorized access.
+
+- **Master key:** This code provides a higher level of access, required by those who handle significant congregation data, such as scheduling, reporting and managing the congregation account. The master key is more secure, longer, and complex, and it's known only to a select few trustworthy brothers who are responsible for the congregation’s administrative tasks.
+
+In summary, while the access code allows users to join the congregation and view the basic information about meetings and other congregation activities, the master key safeguards the administrative functions, ensuring that only authorized individuals can perform administrative tasks.
