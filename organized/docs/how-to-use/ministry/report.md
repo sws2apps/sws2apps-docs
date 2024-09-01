@@ -43,7 +43,7 @@ As a pioneer, you can view your monthly report, but you cannot directly adjust y
 Here you can view your:
 - **Total hours**: The number of hours served this month.
 - **Ministry goal**: This 'out of ...h' badge includes your monthly goal (15, 30, 50, or 100 hours, depending on your type of pioneer service).
-- **Credit hours**: The number of credit hours included in your total hours for this month. This field is visible only if you enabled the [Enable the Credit hours field](../my-profile/personal-preferences#add-theocratic-assignments-field-to-my-report) toggle in your profile settings.
+- **Credit hours**: The number of credit hours included in your total hours for this month. This field is visible only if you enabled the [Enable the Credit hours field](../my-profile/personal-preferences#add-credit-field-to-my-report) toggle in your profile settings.
 - **Individual Bible studies**: The number of Bible studies conducted. If you have entered studies from your Bible studies list, they will appear as colored badges with the student names. This gives you a quick overview of all studies conducted during the month and lets you adjust the report if needed.
 - **Comments**: Enter any comments for the congregation secretary if you need to clarify anything.
 
