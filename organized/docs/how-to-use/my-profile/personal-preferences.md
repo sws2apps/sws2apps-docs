@@ -9,7 +9,7 @@ There are some settings that change app's appearence or help you to adjust its f
 
 ## Ministry preferences
 
-#### Add theocratic assignments field to my report. 
+### Add credit field to my report. 
 This setting adds credit hours to your service report. It lets you record time spent on building projects, assisting at Bethel, or other approved activities. If you're a pioneer and have permission to report credit hours, make sure to utilize this option.
 
 ![Theocratic assignments](./img/theocratic-assignments.png)

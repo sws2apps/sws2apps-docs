@@ -18,7 +18,7 @@ Terminating any session will remove your Organized account from that device or b
 
 Two-factor authentication (2FA) boosts your account's security. You'll need to enter a one-time code from a mobile app, such as Google Authenticator or Microsoft Authenticator. To begin, click on "Enable 2FA." If you ever want to, you can turn it off later. However, we recommend appointed brothers to have 2FA turned on.
 
-#### To set up the 2FA, simply activate the toggle and follow the instructions in the app. It's just two simple steps:
+### To set up the 2FA, simply activate the toggle and follow the instructions in the app. It's just two simple steps:
 
 1. Set up 2FA (two-factor authentication) on your device. You can choose from the following methods:
 
