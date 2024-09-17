@@ -6,162 +6,123 @@ hide_table_of_contents: true
 
 # Scheduling Workbox System - Privacy Policy
 
-Last updated: March 29, 2023
+**Last updated: March 29, 2023**
 
-This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the Service and informs you about your privacy rights and how the law protects you.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+We use your personal data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-# Interpretation and Definitions
+## Interpretation and Definitions
 
-## Interpretation
+### Definitions
 
-The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+**- Account:** A unique account created for you to access our Service or parts of our Service.
+**- Company:** Refers to Scheduling Workbox System or "Organized" in this Agreement.
+**- Cookies:** Small files placed on your device containing details of your browsing history.
+**- Country:** Refers to Madagascar.
+**- Device:** Any device that can access the Service such as a computer,smartphone, or tablet.
+**- Personal Data:** Any information that relates to an identified or identifiable individual.
+**- Service:** Refers to the Website or application made by the sws2app team, including Oranized app, and other products.
+**- Service Provider:** Any third-party employed by the Company to facilitate the Service.
+**- Third-party Social Media Service:** Any website or social network through which you can log in or create an account.
+**- Usage Data:** Data collected automatically from the Service or Device.
 
-## Definitions
+## Collecting and Using Your Personal Data
 
-For the purposes of this Privacy Policy:
+### Types of Data Collected
 
-- **Account** means a unique account created for You to access our Service or parts of our Service.
+#### Personal Data
+During registration, after you consent the Terms of Use and Privacy Policy, we ask you to provide certain personally identifiable information, such as:
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Scheduling Workbox System.
+- **Email address**: For account management and potential customer support communication.
+- **First name and last name**: Used for registration and providing customer support.
+- **Usage Data**: Includes information such as:
+  - **IP address**: Used to analyze user behavior and troubleshoot issues.
+  - **Browser type and version**: Helps us optimize our service for different browsers.
+  - **Device information**: Unique device identifiers for security, usage analytics and for simplified login experience.
 
-- **Cookies** are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
+#### Information from Third-Party Social Media Services
+If you register through third-party services like Google, Twitter, GitHub, or others provided, we collect some basic data linked to your account on those platforms. Specifically, we are collecting the email address, first and last name, and profile picture that are associated with your account. We collect them only to perform login and then display your name, email, and profile picture in your profile within the app.
 
-- **Country** refers to: Madagascar
+### Use of Your Personal Data
+We use your data for purposes such as:
+- Maintaining and improving the Service.
+- Managing your account and providing customer support.
+- Sending updates and important notifications.
+- Conducting analysis to enhance our services.
 
-- **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+### Retention of Your Personal Data
+We retain your data only for as long as it is necessary to provide you with the services described in this policy. Account-related data is kept until: a) you choose to delete your account, b) you request your congregation administrator to remove your data from the congregation records, or c) your congregation is completely deleted from the application. Usage Data is generally kept for a shorter period unless required for legal reasons.
 
-- **Personal Data** is any information that relates to an identified or identifiable individual.
+### Transfer of Your Personal Data
+Your information might be transferred to servers outside your country due to the essential services required for the app to function, such as synchronization (optional) and authorization. This occurs only if you choose to use the data synchronization feature. Even when this happens, all data is securely encrypted, making it inaccessible to anyone, including the service provider, us, or any third party.
 
-- **Service** refers to the Website.
+If you're using data synchronization within or between congregations (for example, sharing outgoing speakers lists), the data remains accessible only to authorized individuals within your congregation or the receiving congregation. This complies with GDPR regulations, ensuring your data is protected. Rest assured, we take strong precautions to safeguard your data and comply with all relevant privacy laws, regardless of where it's stored.
 
-- **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
+### Delete Your Personal Data
+You have the right to request the deletion of your personal data. You can request, update, amend, or delete your information by accessing your account settings, for certain cases by requesting the removal from your congregation's app administrator or elders, or by contacting us directly:
 
-- **Third-party Social Media Service** refers to any website or any social network website through which a User can log in or create an account to use the Service.
+1. **Your Basic Login and Device Data**: You can request, update, amend, or delete this data by contacting us directly.
+2. **Your Personal Information Entered into the App**: You can manage this information by accessing your account settings within the app.
+3. **Data Entered by Your Elders**: We do not have access to this data. To request its removal, please contact the elders in your congregation directly.
+4. **Deleting Your Entire Congregation’s Data**: To request the deletion of your entire congregation's data, you can either navigate to the settings within the app or contact us directly.
 
-- **Usage Data** refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
-
-- **Website** refers to all modules produced under the Scheduling Workbox System.
-
-- **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
-
-# Collecting and Using Your Personal Data
-
-## Types of Data Collected
-
-### Personal Data
-
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
-
-- Email address
-- First name and last name
-- Usage Data
-
-### Usage Data
-
-Usage Data is collected automatically when using the Service.
-
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
-
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
-
-We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
-
-### Information from Third-Party Social Media Services
-
-The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
-
-- Google
-- Twitter
-- Microsoft
-- GitHub
-
-If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, such as Your name, Your email address, Your activities or Your contact list associated with that account.
-
-You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
-
-## Use of Your Personal Data
-
-The Company may use Personal Data for the following purposes:
-
-- **To provide and maintain our Service**, including to monitor the usage of our Service.
-- **To manage Your Account:** to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
-- **To contact You:** To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
-- **To provide You** with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
-- **To manage Your requests:** To attend and manage Your requests to Us.
-- **For other purposes**: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
-
-## Retention of Your Personal Data
-
-The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
-
-The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
-
-## Transfer of Your Personal Data
-
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
-
-Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
-
-The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
-
-## Delete Your Personal Data
-
-You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.
-
-Our Service may give You the ability to delete certain information about You from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.
-
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
-
-## Disclosure of Your Personal Data
-
-### Business Transactions
-
-If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
-
-### Law enforcement
-
-Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
-
-### Other legal requirements
-
-The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
-
-- Comply with a legal obligation
-- Protect and defend the rights or property of the Company
-- Prevent or investigate possible wrongdoing in connection with the Service
-- Protect the personal safety of Users of the Service or the public
-- Protect against legal liability
 
 ## Security of Your Personal Data
 
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+We are committed to protecting your interactions with our Products and Services by implementing robust security measures. This includes:
 
-# Children's Privacy
+- **SSL/TLS Protection**: All data transmitted between your device and our servers is secured using SSL/TLS encryption, which provides a secure connection and protects against interception.
+- **End-to-End Encryption**: All congregation data is protected with end-to-end encryption by default. Data is encrypted before being synced or sent to our servers using Google Firebase, ensuring that even if intercepted, it cannot be accessed without the encryption key. For enhanced security, elders and ministerial servants have additional layers of encryption. Data is encrypted with the congregation’s key and is stored only if synchronization within the congregation is enabled. Without the proper encryption keys, the data remains inaccessible, even if physical access is gained.
+- **App PIN Code**: Users can secure their accounts with a personal PIN code for added protection.
+- **Two-Factor Authentication (2FA)**: We offer two-factor authentication to provide an extra layer of security every time when accessing your account.
+- **One-Time Invitation Code**: Access to the app can be secured with one-time invitation codes to ensure that only authorized users can join.
+- **Advanced User Access Control**: We implement advanced user access controls to manage permissions and ensure that any data is only accessible by authorized individuals.
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+These measures collectively ensure that your data is protected to the highest standard, maintaining your privacy and security.
 
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+## Compliance with Global Privacy Standards and GDPR
+For us, it’s important to provide our services to congregations worldwide. Therefore, we do all that we can to comply with strict personal data privacy laws like GDPR. Privacy laws vary globally. Under the EU GDPR, Organized acts as a data processor.
 
-# Links to Other Websites
+Organized ensures compliance with GDPR and other privacy regulations through:
+- **Data Management**: Ability to permanently delete individual or congregational data at any time.
+- **Trusted Partners**: We use GDPR-compliant services like Google Firebase. For details on Firebase’s data protection practices, visit their [privacy policy](https://firebase.google.com/support/privacy) page.
 
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+These measures collectively ensure that your data is protected to the highest standard, maintaining your privacy and security.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+## Disclosure of Your Personal Data
+In rare and exceptional situations, we may need to share your personal data. This section explains the rare situations in which your personal data might be disclosed, ensuring that such disclosures occur with full transparency and only when absolutely necessary due to legal requirements or other exceptional circumstances. Such disclosures are strictly necessary due to legal requirements or exceptional circumstances. Organized does not have access to congregation data entered by elders in the app. Therefore, the only information that might be shared in the following situations would be limited to your email address, the name used during registration, and your device ID or IP address.
 
-# Changes to this Privacy Policy
+### Business Transactions
+If Organized undergoes significant changes, such as a merger, acquisition, or sale of assets, your data might be transferred as part of that process. We will notify you in advance if this occurs and inform you if your data will be governed by a new Privacy Policy.
 
+### Law Enforcement
+In certain unique situations, we may be legally required to disclose your personal data. This includes instances where we receive formal requests from law enforcement or government agencies, such as courts or regulatory bodies, which may require us to provide information for legal reasons.
+
+### Other Legal Requirements
+We may also disclose your personal data to:
+- Comply with legal obligations.
+- Protect our rights or property.
+- Address or prevent issues related to the Service.
+- Ensure the safety of our users or the public.
+- Manage legal risks.
+
+We are committed to handling any data requests with the utmost care and transparency, always prioritizing your privacy.
+
+## Links to Other Websites
+Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+## Changes to this Privacy Policy
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-# Contact Us
+## Contact Us
+If you have any questions about this Privacy Policy, you can contact us:
 
-If you have any questions about this Privacy Policy, You can contact us:
-
-- By email: sws2apps.notification@gmail.com
+- By email: support@organized-app.com – for questions regarding the Organized app.
+- By email: sws2apps.notification@gmail.com – for inquiries regarding our other products or services.
