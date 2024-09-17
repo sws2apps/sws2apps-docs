@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ## Does the app include official form templates?
 
-Yes, it does! Organized allows you to export schedules, reports, assignment forms, and more to printed PDF templates. These templates can be official ones, such as S-13, S-140, and S-89, S-99, or templates custom-designed by our team. With just a few clicks, you can provide necessary forms, such as those required by a circuit overseer. This feature is also useful if you prefer to use printed official forms in your congregation.
+Yes, it does! Organized allows you to export schedules, reports, assignment forms, and more to printed PDF templates. These templates can be official ones, such as S-13, S-140, and S-89, S-21, S-99, or templates custom-designed by our team. With just a few clicks, you can provide necessary forms, such as those required by a circuit overseer. This feature is also useful if you prefer to use printed official forms in your congregation.
 
 ## Does Organized have an auto-assign feature?
 

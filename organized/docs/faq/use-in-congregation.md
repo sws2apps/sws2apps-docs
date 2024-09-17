@@ -16,7 +16,7 @@ Using Organized makes it much easier and more convenient for publishers and appo
 
 ## Does Organized support exporting to standard theocratic forms?
 
-Of course! You can export schedules, reports, assignment form, etc. to printed PDF templates (either official ones like S-13, S-140, S-89 or custom-designed templates). We contrinuosly working to support all the applicable theocratic forms in the Organized app.
+Of course! You can export schedules, reports, assignment form, etc. to printed PDF templates – both official S-21, S-13, S-140, S-89 as well as custom-designed templates. We continuosly working to support all the theocratic forms in the Organized app.
 
 ## What if a responsible brother can't or don't want to use the app?
 
@@ -40,6 +40,6 @@ Therefore, it's recommended that at least one appointed brother try using the ap
 
 Yes, an elder can use the app alone to create and export schedules without involving other users. For example, a "Life and Ministry" overseer can create all the schedules and print them to put on the information board. However, if possible, we recommend testing the workflow with a few registered publishers to help them see the meeting schedule and other information on their devices at any time, providing peace of mind.
 
-## Can I use the app without sending any schedule data to servers?
+## Can I use the app without sending any schedule data to any servers?
 
 Yes, the app can also be used in local mode when auto sync turned off, meaning all data will be stored locally and not sent to any servers for total security. In this case, please remember that all your data is stored in your device's browser, so once you clear cookies or browser history, the data will be lost.
