@@ -71,7 +71,7 @@ const config: Config = {
 					items: [
 						{
 							label: 'Organized – Telegram Channel',
-							href: 'https://t.me/+SDZy2YoAzOg5MGI0',
+							href: 'https://t.me/+UtO3Zh4XO7dmY2Nk',
 						},
 						{
 							label: 'Organized – GitHub Discussions',
