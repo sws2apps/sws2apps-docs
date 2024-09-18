@@ -24,6 +24,7 @@ We use your personal data to provide and improve the Service. By using the Servi
 **- Service:** Refers to the Website or application made by the sws2app team, including Oranized app, and other products.</br>
 **- Service Provider:** Any third-party used by US to facilitate the Service.</br>
 **- Third-party Service:** Any website or social network through which you can log in or create an account.</br>
+
 **- Usage Data:** Data collected automatically from the Service or Device.
 
 ## Collecting and Using Your Personal Data
