@@ -16,10 +16,10 @@ We spend our spare time to make Organized a better app, the one that we are happ
 
 ## Are you getting paid for the app?
 
-No, "There is more happiness in giving, than there is in receiving." 🙂
+No,  “There is more happiness in giving than there is in receiving” (Acts 20:35) 🙂
 
 Most of us has full- or part-time jobs, as we're not getting paid from the Organized app in any way. All donations are used only to maintain the app and pay for servers, hosting, and software.
 
 ## How can I join?
 
-Since the project is open-source, you can directly contribute to our [GitHub repository](https://github.com/sws2apps/organized-app) if you have an idea. To collaborate closely with the team, reach out via email or join our [Telegram](https://t.me/+xqTWtvQvablmMDA0) group to share your interest in contributing.
+Since the project is open-source, you can directly contribute to our [GitHub repository](https://github.com/sws2apps/organized-app) if you have an idea. To collaborate closely with the team, reach out via [support@organized-app.com](mailto:support@organized-app.com) email let us know about your interest in contributing.

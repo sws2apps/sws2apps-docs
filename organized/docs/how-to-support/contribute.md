@@ -34,6 +34,6 @@ This "How to use" guide is continually updated, with new articles added after ne
 
 ## So, how to get in touch?
 
-If you decide to contact us and propose your assistance in any of the mentioned areas, you can send us an email at [support@organized-app.com](mailto:support@organized-app.com) or in our [Telegram group](https://t.me/+xqTWtvQvablmMDA0). Please, mention the desired area of collaboration in your email topic. 
+If you decide to contact us and propose your assistance in any of the mentioned areas, you can send us an email at [support@organized-app.com](mailto:support@organized-app.com). Please, mention the desired area of collaboration in your email topic. 
 
 If you already have great ideas, feel free to share them on [GitHub Discussions](https://github.com/sws2apps/organized-app/discussions).
