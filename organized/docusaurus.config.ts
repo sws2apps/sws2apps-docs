@@ -109,7 +109,7 @@ const config: Config = {
             },
             {
               label: 'Telegram channel',
-              href: 'https://t.me/+UtO3Zh4XO7dmY2Nk',
+              href: 'https://t.me/+OHxW4AxGTyAxN2Zk',
             },
             {
               label: 'Email support',
