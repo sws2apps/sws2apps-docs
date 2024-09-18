@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # Scheduling Workbox System - Privacy Policy
 
-**Last updated: March 29, 2023**
+**Last updated: September 18, 2024**
 
 This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the Service and informs you about your privacy rights and how the law protects you.
 
@@ -17,14 +17,23 @@ We use your personal data to provide and improve the Service. By using the Servi
 ### Definitions
 
 **- Account:** A unique account created for you to access our Service or parts of our Service.
+
 **- Company:** Refers to Scheduling Workbox System or "Organized" in this Agreement.
+
 **- Cookies:** Small files placed on your device containing details of your browsing history.
+
 **- Country:** Refers to Madagascar.
+
 **- Device:** Any device that can access the Service such as a computer,smartphone, or tablet.
+
 **- Personal Data:** Any information that relates to an identified or identifiable individual.
+
 **- Service:** Refers to the Website or application made by the sws2app team, including Oranized app, and other products.
+
 **- Service Provider:** Any third-party employed by the Company to facilitate the Service.
+
 **- Third-party Social Media Service:** Any website or social network through which you can log in or create an account.
+
 **- Usage Data:** Data collected automatically from the Service or Device.
 
 ## Collecting and Using Your Personal Data
@@ -55,7 +64,7 @@ We use your data for purposes such as:
 We retain your data only for as long as it is necessary to provide you with the services described in this policy. Account-related data is kept until: a) you choose to delete your account, b) you request your congregation administrator to remove your data from the congregation records, or c) your congregation is completely deleted from the application. Usage Data is generally kept for a shorter period unless required for legal reasons.
 
 ### Transfer of Your Personal Data
-Your information might be transferred to servers outside your country due to the essential services required for the app to function, such as synchronization (optional) and authorization. This occurs only if you choose to use the data synchronization feature. Even when this happens, all data is securely encrypted, making it inaccessible to anyone, including the service provider, us, or any third party.
+Your information might be transferred to servers outside your country due to the use of essential global services required for the app to function, such as synchronization (optional) and authorization. This occurs only if you choose to use the data synchronization feature. Even when this happens, all data is securely encrypted, making it inaccessible to anyone, including the service provider, us, or any third party.
 
 If you're using data synchronization within or between congregations (for example, sharing outgoing speakers lists), the data remains accessible only to authorized individuals within your congregation or the receiving congregation. This complies with GDPR regulations, ensuring your data is protected. Rest assured, we take strong precautions to safeguard your data and comply with all relevant privacy laws, regardless of where it's stored.
 
@@ -82,22 +91,25 @@ We are committed to protecting your interactions with our Products and Services 
 These measures collectively ensure that your data is protected to the highest standard, maintaining your privacy and security.
 
 ## Compliance with Global Privacy Standards and GDPR
-For us, it’s important to provide our services to congregations worldwide. Therefore, we do all that we can to comply with strict personal data privacy laws like GDPR. Privacy laws vary globally. Under the EU GDPR, Organized acts as a data processor.
+For us, it’s important to provide our services to congregations worldwide. Therefore, we do all that we can to comply with strict personal data privacy laws like GDPR and other regional privacy regulations. 
+
+Under the EU General Data Protection Regulation (GDPR), Organized acts as a data processor, meaning it processes personal data on behalf of data controllers, such as congregations or organizations. The data controller determines the purposes and means of processing personal data, while Organized simply follows their instructions. As a data processor, Organized ensures the security and confidentiality of the personal data it handles, implementing appropriate technical and organizational measures to protect it. Organized processes personal data solely to provide services, improve functionality, or meet legal obligations, in strict compliance with the GDPR, and does not use the data for any other purposes without the explicit direction of the data controller.
 
 Organized ensures compliance with GDPR and other privacy regulations through:
 - **Data Management**: Ability to permanently delete individual or congregational data at any time.
 - **Trusted Partners**: We use GDPR-compliant services like Google Firebase. For details on Firebase’s data protection practices, visit their [privacy policy](https://firebase.google.com/support/privacy) page.
+- **Strong Security for Users and Developers:** We have implemented numerous security measures to ensure that only authorized access is available to all user types. For the development team, we adhere to high security standards, implementing the latest security best practices and regularly updating the software to align with current cybersecurity standards.
 
 These measures collectively ensure that your data is protected to the highest standard, maintaining your privacy and security.
 
 ## Disclosure of Your Personal Data
 In rare and exceptional situations, we may need to share your personal data. This section explains the rare situations in which your personal data might be disclosed, ensuring that such disclosures occur with full transparency and only when absolutely necessary due to legal requirements or other exceptional circumstances. Such disclosures are strictly necessary due to legal requirements or exceptional circumstances. Organized does not have access to congregation data entered by elders in the app. Therefore, the only information that might be shared in the following situations would be limited to your email address, the name used during registration, and your device ID or IP address.
 
-### Business Transactions
+### Changes in Project Operations
 If Organized undergoes significant changes, such as a merger, acquisition, or sale of assets, your data might be transferred as part of that process. We will notify you in advance if this occurs and inform you if your data will be governed by a new Privacy Policy.
 
 ### Law Enforcement
-In certain unique situations, we may be legally required to disclose your personal data. This includes instances where we receive formal requests from law enforcement or government agencies, such as courts or regulatory bodies, which may require us to provide information for legal reasons.
+In certain unique situations, we may be legally required to transfer your personal data. This includes instances where we receive formal requests from law enforcement or government agencies, such as courts or regulatory bodies, which may require us to provide information for legal reasons.
 
 ### Other Legal Requirements
 We may also disclose your personal data to:
