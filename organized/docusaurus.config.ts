@@ -108,8 +108,8 @@ const config: Config = {
               href: 'https://github.com/sws2apps/organized-app/discussions',
             },
             {
-              label: 'Telegram group',
-              href: 'https://t.me/+cSAJmkiVneQwNjQ8',
+              label: 'Telegram channel',
+              href: 'https://t.me/+UtO3Zh4XO7dmY2Nk',
             },
             {
               label: 'Email support',
@@ -120,6 +120,10 @@ const config: Config = {
         {
           title: 'Other',
           items: [
+            {
+              label: 'Frequently Asked Questions',
+              to: 'https://guide.organized-app.com/faq/',
+            },
             {
               label: 'Privacy Policy',
               to: 'https://sws2apps.com/privacy',

@@ -16,23 +16,14 @@ We use your personal data to provide and improve the Service. By using the Servi
 
 ### Definitions
 
-**- Account:** A unique account created for you to access our Service or parts of our Service.
-
-**- Company:** Refers to Scheduling Workbox System or "Organized" in this Agreement.
-
-**- Cookies:** Small files placed on your device containing details of your browsing history.
-
-**- Country:** Refers to Madagascar.
-
-**- Device:** Any device that can access the Service such as a computer,smartphone, or tablet.
-
-**- Personal Data:** Any information that relates to an identified or identifiable individual.
-
-**- Service:** Refers to the Website or application made by the sws2app team, including Oranized app, and other products.
-
-**- Service Provider:** Any third-party employed by the Company to facilitate the Service.
-
-**- Third-party Social Media Service:** Any website or social network through which you can log in or create an account.
+- **Account:** A unique account created for you to access our Service or parts of our Service.
+- **Company:** Refers to Scheduling Workbox System, Organized, 'We', or 'Us' in this Agreement.
+- **Cookies:** Small files placed on your device containing details of your browsing history.
+- **Device:** Any device that can access the Service such as a computer,smartphone, or tablet.>
+- **Personal Data:** Any information that relates to an identified or identifiable individual.
+- **Service:** Refers to the Website or application made by the sws2app team, including Organized app, and other products.
+- **Service Provider:** Any third-party used by US to facilitate the Service.
+- **Third-party Service:** Any website or social network through which you can log in or create an account.
 
 **- Usage Data:** Data collected automatically from the Service or Device.
 
