@@ -70,12 +70,12 @@ const config: Config = {
 					title: 'Community',
 					items: [
 						{
-							label: 'Telegram',
-							href: 'https://t.me/+cSAJmkiVneQwNjQ8',
+							label: 'Organized – Telegram Channel',
+							href: 'https://t.me/+SDZy2YoAzOg5MGI0',
 						},
 						{
-							label: 'GitHub Discussions',
-							href: 'https://github.com/sws2apps/discussions',
+							label: 'Organized – GitHub Discussions',
+							href: 'https://github.com/sws2apps/organized-app/discussions',
 						},
 					],
 				},

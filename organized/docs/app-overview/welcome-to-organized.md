@@ -34,11 +34,10 @@ No, it is not an official app from the organization of Jehovah’s Witnesses. Ou
 
 ## Why is Organized a web application? Is it safe to use in a congregation?
 
-We believe that transitioning from desktop applications to web applications offers many advantages and greater flexibility, while still maintaining a high level of security. With web applications, you can access your data from any device with a browser, regardless of the platform or operating system. This means you can work seamlessly across Windows, Mac, Linux, ChromeOS, and mobile devices running Android, iPadOS, or iOS.
+We believe that moving from desktop to web applications offers many advantages and greater flexibility for congregations, while maintaining top-level security. With a web application, you can access your data from any device with a browser—whether you're using Windows, Mac, Linux, ChromeOS, or mobile devices like Android, iPadOS, iOS, or even less popular systems like SailfishOS and HarmonyOS. This makes working across platforms seamless and more convenient.
 
-We understand the security challenges of web applications, and we've taken every step to ensure that your data is safe and secure. Our app is built using the latest and most advanced security technologies, and we're constantly working to enhance its security and keep up with the latest developments in web technologies.
+We understand the security challenges that come with web applications, and we've taken all necessary steps to keep your data safe. Our app is built using cutting-edge security technologies, and we're continuously improving it to stay ahead of any challenges and comply with main data protection regulations like GDPR in Europe. To ensure that only your congregation members can access sensitive data, we've implemented several security features, including local storage, end-to-end encryption, two-factor authentication, and an app lock feature. With these measures in place, you can be confident that your congregation's data remains confidential and protected at all times. To learn more about our Organized's security and GDPR compliance, see the [FAQ – Security](../faq/security.md) page.
 
-To ensure that only members of your congregation can access your data, we've implemented a range of special security measures. These include local storage, end-to-end encryption, two-factor authentication, and an app lock feature. With these measures in place, you can be confident that your data is strongly confidential and always protected.
 
 ## Have more specific questions?
 

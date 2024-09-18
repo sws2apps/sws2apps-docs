@@ -22,7 +22,21 @@ End-to-end encryption, encryption key, app PIN code, two-factor authentication, 
 
 ## Can the Organized app team access my congregation data?
 
-No, the Organized app team **can not** access your congregation data. Without the encryption key, no one on the Internet can access your congregation data, including the Organized app team.
+No, the Organized app team **can not** access your congregation data. Without knowing your encryption key, no one on the Internet can access your congregation data, including the Organized app team. You can learn more about what type of essential user data we collect and how it's used in our [Privacy policy](/orgs/src/pages/privacy).
+
+## Is Organized compliant with EU GDPR?
+
+Yes, Organized is fully committed to ensuring compliance with the EU General Data Protection Regulation (GDPR). Our goal is to develop an app that congregations worldwide can benefit from and be confident in its security. We recognize the importance of privacy and data protection for our users, particularly in the European Union. As a data processor under GDPR, we follow strict data protection guidelines to safeguard your personal information.
+
+Our compliance efforts include:
+
+- **Data Minimization**: We only collect the personal data necessary for providing our services. This includes your email address, first and last name (used for registration and communication purposes), and Usage Data such as IP address, browser type, and device identifiers for diagnostic and security purposes.
+- **Encryption**: All data, including congregation-related information, is encrypted using multi-layered industry-standard encryption techniques to ensure its security during transmission and storage.
+- **Data Deletion**: Users have the ability to permanently delete their personal data and congregation data upon request, in accordance with GDPR's "Right to be Forgotten."
+- **Third-Party Partnerships**: We only work with GDPR-compliant service providers like [Google Firebase](https://firebase.google.com/support/privacy), which is also GDPR compliant, to ensure that your data is managed securely.
+- **User Rights**: Users can access, correct, and delete their personal data at any time.
+
+By following these practices, we aim to ensure that your data is protected and that you have control over your privacy.
 
 ## What does "Organized is open-source" mean? Is it safe?
 
