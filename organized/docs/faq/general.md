@@ -49,3 +49,7 @@ Currently, Organized supports around 30 languages, either fully and partially. T
 :::tip[Don't see your language in the supported list?]
 If you want to translate the app into your language, it's easy – see our [translation video tutorial](https://www.youtube.com/watch?v=GG5q_NkfD6s) and feel free to check out our [Crowdin.com translation project](https://crowdin.com/project/organized) where you can contribute.
 :::
+
+## Do you have other questions?
+
+If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!
