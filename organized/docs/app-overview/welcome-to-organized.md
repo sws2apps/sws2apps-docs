@@ -54,4 +54,4 @@ Now that you have a better understanding of what Organized is and how it can ben
 
 ![Organized how to use guide table of contents](./img/guide-toc.png)
 
-Our user guide covers everything from setting up your congregation to scheduling meetings, managing field service, and generating reports. With the guide, you'll find starting with Organized to be straightforward and efficient!
+Our user guide covers everything from setting up your congregation to scheduling meetings, managing field service, and generating reports. With the guide, you'll find starting with Organized to be straightforward and easy!

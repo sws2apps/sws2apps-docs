@@ -41,3 +41,7 @@ Organized is a helpful app for pioneers to track their ministry time, Bible stud
 ## Does Organized send timely notificaitons?
 
 Yes, Organized sends timely notifications to help you stay on top of your upcoming assignments and congregation activities. You'll receive reminders about your assignments, reports, as well as notifications about important events. As we continue to add new features to the app, you can expect to receive notifications about territories, important announcements, preaching partner requests, and more. With Organized, you'll always be up-to-date and informed about what's happening in your congregation.
+
+## Do you have other questions?
+
+If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!

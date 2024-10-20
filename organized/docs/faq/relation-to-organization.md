@@ -27,3 +27,7 @@ If you have any further questions or concerns, don't hesitate to explore the app
 ## Is there anything else I should know about Organized?
 
 Absolutely! Organized has many exciting features that can help you stay organized and productive in your ministry and theocratic responsibilities. We encourage you to explore the app and check out our user guides in the [How to use](../how-to-use) category. We're constantly working on new features and improvements, so be sure to stay tuned for updates!
+
+## Do you have other questions?
+
+If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!
