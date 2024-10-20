@@ -33,7 +33,6 @@ _"Saving your congregation data"_ doesn't mean that Organized team can somehow a
 :::
 
 
-
 ## JavaScript is disabled
 
 ![JavaScript is disabled](./img/js-disabled.png)
@@ -41,3 +40,7 @@ _"Saving your congregation data"_ doesn't mean that Organized team can somehow a
 This error occurs if you are using a browser with JavaScript disabled. Organized is a modern web application that relies on JavaScript to function properly. JavaScript is a programming language that allows web apps to interact with users, update and change content dynamically, and respond to user actions.
 
 To use the Organized app, please enable JavaScript in your browser settings or consider using a different browser specifically for accessing the Organized app. Enabling JavaScript will allow the app to function properly and provide you with the best user experience.
+
+## Do you have other questions?
+
+If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!

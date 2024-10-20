@@ -100,3 +100,7 @@ Both the Congregation master key and the Congregation access code serve to prote
 - **Master key:** This code provides a higher level of access, required by those who handle significant congregation data, such as scheduling, reporting and managing the congregation account. The master key is more secure, longer, and complex, and it's known only to a select few trustworthy brothers who are responsible for the congregation’s administrative tasks.
 
 In summary, while the access code allows users to join the congregation and view the basic information about meetings and other congregation activities, the master key safeguards the administrative functions, ensuring that only authorized individuals can perform administrative tasks.
+
+## Do you have other questions?
+
+If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!

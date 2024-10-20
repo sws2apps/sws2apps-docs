@@ -63,3 +63,7 @@ When online functionality is in use, we ensure that the app is always available,
 - **Collaborative features:** Features requiring real-time data sharing—like sending reports to the secretary or syncing public talk speakers—will not be accessible in offline mode. Normally, these features are rarely used, so their temporary unavailability will have minimal impact on the overall user experience.
 
 In summary, even during downtime, most features remain accessible without interruption, and no data will be lost. The app is designed to provide functionality at all times, even offline. During short outages, only a few rarely used features may be affected, and these issues are quickly resolved, resulting in a user experience where most individuals will hardly notice any disruption in real-world scenarios. Once connectivity is restored, everything will sync seamlessly for you to continue enjoying 100% functionality.
+
+## Do you have other questions?
+
+If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!
