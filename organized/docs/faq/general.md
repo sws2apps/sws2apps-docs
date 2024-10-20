@@ -44,8 +44,22 @@ All modern systems are supported – Android, iOS, macOS, Windows, ChromeOS, and
 
 ## What languages are available in Organized?
 
-Currently, Organized supports around 30 languages, either fully and partially. This includes widely used languages within our theocratic world such as English, Spanish, Portuguese, German, Italian, French, and Japanese. Additionally, the app already supports many other languages like Polish, Ukrainian, Malagasy, Russian, Romanian, and more.
+Currently, Organized supports around 30 languages, either fully and partially. TThis includes widely spoken languages in our theocratic world such as English, Spanish, Portuguese, German, Italian, French, and Japanese. Additionally, the app already supports many other languages like Polish, Ukrainian, Malagasy, Russian, Romanian, and more.
 
 :::tip[Don't see your language in the supported list?]
 If you want to translate the app into your language, it's easy – see our [translation video tutorial](https://www.youtube.com/watch?v=GG5q_NkfD6s) and feel free to check out our [Crowdin.com translation project](https://crowdin.com/project/organized) where you can contribute.
 :::
+
+## How reliable is Organized's uptime, and what features are affected during outages?
+
+The uptime of Organized is largely reliable because most app functions operate locally on your device. This design helps maintain close to 100% uptime, as the app relies on a local database rather than solely on cloud connectivity. Even during brief periods of downtime, key features such as meeting scheduling, PDF exporting, ministry timers, and data imports from jw.org remain fully functional.
+
+When online functionality is in use, we ensure that the app is always available, and any downtimes will be promptly communicated to users through in-app notifications. In the event that server-side maintenance temporarily affects certain features, users will be informed right away. The only functionalities that may be impacted during short outages include:
+
+- **Data sync:** Data synchronization occurs every 5 minutes. If a connection is lost, any entered data will automatically sync once the connection is restored, ensuring no information is lost.
+
+- **Login and registration:** Users will not be logged out automatically; however, those attempting to log in during an outage may need to wait a few minutes to access their accounts.
+
+- **Collaborative features:** Features requiring real-time data sharing—like sending reports to the secretary or syncing public talk speakers—will not be accessible in offline mode. Normally, these features are rarely used, so their temporary unavailability will have minimal impact on the overall user experience.
+
+In summary, even during downtime, most features remain accessible without interruption, and no data will be lost. The app is designed to provide functionality at all times, even offline. During short outages, only a few rarely used features may be affected, and these issues are quickly resolved, resulting in a user experience where most individuals will hardly notice any disruption in real-world scenarios. Once connectivity is restored, everything will sync seamlessly for you to continue enjoying 100% functionality.
