@@ -5,7 +5,7 @@ slug: /
 
 # Welcome to Organized!
 
-[Organized](https://organized-app.com/) is a free progressive web application crafted specifically for Jehovah's Witnesses congregations. Developed by our team at Scheduling Workbox System, it's designed for ease of use by every member of the congregation. Watch our [introductory video to the Organized app](https://www.youtube.com/watch?v=2czQB-LEfqg) on YouTube or visit [About Organized](https://about.organized-app.com) website to get a quick overview. We are actively developing the app to bring more features and to make it more and more useful for every person in a congregation.
+[Organized](https://organized-app.com/) is a free application crafted specifically for Jehovah's Witnesses congregations. Developed by our team at Scheduling Workbox System, it's designed for ease of use by every member of the congregation. Watch our [introductory video to the Organized app](https://www.youtube.com/watch?v=2czQB-LEfqg) on YouTube or visit [About Organized](https://about.organized-app.com) website to get a quick overview. We are actively developing the app to bring more features and to make it more and more useful for every person in a congregation.
 
 ![Organized wallpaper](./img/wallpaper-4k.png)
 
@@ -30,14 +30,19 @@ Some of the Organized differentiators are:
 
 ## Is Organized an official application from the organization?
 
-No, it is not an official app from the organization of Jehovah’s Witnesses. Our team consists of volunteer brothers and sisters who serve in different countries. Organized offers beneficial features for congregations, but its use is your choice. We recommend speaking with your congregation elders before starting to use the app for the whole congregation.
+No, it is not an official app from the organization of Jehovah’s Witnesses. Our team consists of volunteer brothers and sisters who serve in different countries. Organized offers beneficial features for congregations, but its use is your choice. Make sure to speak with your congregation elders before starting using the app in your congregation.
 
-## Why is Organized a web application? Is it safe to use in a congregation?
+## Is Organized a web/cloud-based, or native app? Understanding its functionality
+
+Organized is not a cloud-based or fully online app. While you can access it through a web browser, it is designed to work locally on your device. When you register and open the app for the first time, it automatically downloads and caches all necessary data on your device. After that, most interactions, such as managing tasks and schedules, are performed directly on your device, allowing you to use it even offline.
+
+This approach provides significant benefits in terms of security and convenience. Since your data is stored locally, you maintain full control over it. Additionally, because Organized isn't internet-dependent, you can continue to use it without needing a constant connection – ideal for managing congregation tasks wherever you are.
+
+## Why is Organized a PWA application? Is it safe to use in a congregation?
 
 We believe that moving from desktop to web applications offers many advantages and greater flexibility for congregations, while maintaining top-level security. With a web application, you can access your data from any device with a browser—whether you're using Windows, Mac, Linux, ChromeOS, or mobile devices like Android, iPadOS, iOS, or even less popular systems like SailfishOS and HarmonyOS. This makes working across platforms seamless and more convenient.
 
 We understand the security challenges that come with web applications, and we've taken all necessary steps to keep your data safe. Our app is built using cutting-edge security technologies, and we're continuously improving it to stay ahead of any challenges and comply with main data protection regulations like GDPR in Europe. To ensure that only your congregation members can access sensitive data, we've implemented several security features, including local storage, end-to-end encryption, two-factor authentication, and an app lock feature. With these measures in place, you can be confident that your congregation's data remains confidential and protected at all times. To learn more about our Organized's security and GDPR compliance, see the [FAQ – Security](../faq/security.md) page.
-
 
 ## Have more specific questions?
 
@@ -49,4 +54,4 @@ Now that you have a better understanding of what Organized is and how it can ben
 
 ![Organized how to use guide table of contents](./img/guide-toc.png)
 
-Our guide covers everything from setting up your congregation to scheduling meetings, managing field service, and generating reports. With the guide, you'll find starting with Organized to be straightforward and efficient!
+Our user guide covers everything from setting up your congregation to scheduling meetings, managing field service, and generating reports. With the guide, you'll find starting with Organized to be straightforward and efficient!
