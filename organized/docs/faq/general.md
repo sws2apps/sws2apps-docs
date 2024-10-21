@@ -6,7 +6,9 @@ sidebar_position: 1
 
 ## Is Organized free?
 
-Yes, the Organized app is absolutely free for everyone. We don't ask for a monthly or annual subscription. We cover the server and maintenance costs ourselves. However, your donations will contribute to keeping the app free forever, especially for congregations in less affluent countries.
+Yes, the Organized app is absolutely free and we want to keep it free forever. We don't ask for a monthly or annual subscription. We cover the server and maintenance costs ourselves. 
+
+Hovewer, if you enjoy using the app and find it beneficial, and if you feel inspired to contribute, your donation will be warmly welcomed and appreciated. While Organized will always remain free, your support will still make a big difference! With your [donation](../how-to-support/donate), we can not only focus on essential features but also go the extra mile to assist congregations located far away, those who speak rarely used languages, and those who have very few brothers. Together, we can expand our reach and provide valuable resources to those who need them most!
 
 ## Where can I find the Organized app?
 
@@ -18,7 +20,7 @@ To try out Organized without registering, simply open the [test environment](tes
 
 Yes, you can download and install the Organized PWA app on your device. As a Progressive Web App, Organized can be installed directly from your web browser without the need to go through an app store. This allows you to access the app quickly and easily, without taking up much storage space on your device. 
 
-To [install the app](../app-overview/open-and-install.md), simply navigate to the Organized website in your mobile browser, open the "More" menu. After clicking **"Install"** or **"Share"** button and then click **"Install"** or **"Add to the home screen"**, follow the prompts to add the app to your home screen. Once installed, you can access the app at any time, even without an internet connection.
+To [install the app](../app-overview/open-and-install), simply navigate to the Organized website in your mobile browser, open the "More" menu. After clicking **"Install"** or **"Share"** button and then click **"Install"** or **"Add to the home screen"**, follow the prompts to add the app to your home screen. Once installed, you can access the app at any time, even without an internet connection.
 
 ## Can I download the Organized app from the Play Store, App Store, Microsoft Store, or other app stores?
 
