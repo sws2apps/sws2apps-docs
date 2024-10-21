@@ -10,13 +10,15 @@ Yes, the Organized app is absolutely free for everyone. We don't ask for a month
 
 ## Where can I find the Organized app?
 
-Organized is a PWA app, meaining it operates in your device's browser (while not being web/cloud-based). Simply visit the [organized-app.com](https://organized-app.com) link, and you will open the app right away.
+Organized is a modern PWA app, meaining it operates in your device's browser (while not being web/cloud-based). Simply visit the [organized-app.com](https://organized-app.com) link, and you will open the app right away.
+
+To try out Organized without registering, simply open the [test environment](test.organized-app.com), which comes pre-filled with dummy congregation data. This allows you to explore the app and its features without entering any user or congregation details. It's a quick and convenient way to familiarize yourself with the app right away, and it makes it easy to showcase its functionality to elders or friends before even registering your congregation.
 
 ## Can I download or install the app?
 
 Yes, you can download and install the Organized PWA app on your device. As a Progressive Web App, Organized can be installed directly from your web browser without the need to go through an app store. This allows you to access the app quickly and easily, without taking up much storage space on your device. 
 
-To install the app, simply navigate to the Organized website in your mobile browser, open the "More" menu. After clicking **"Install"** or **"Share"** button and then click **"Install"** or **"Add to the home screen"**, follow the prompts to add the app to your home screen. Once installed, you can access the app at any time, even without an internet connection.
+To [install the app](../app-overview/open-and-install.md), simply navigate to the Organized website in your mobile browser, open the "More" menu. After clicking **"Install"** or **"Share"** button and then click **"Install"** or **"Add to the home screen"**, follow the prompts to add the app to your home screen. Once installed, you can access the app at any time, even without an internet connection.
 
 ## Can I download the Organized app from the Play Store, App Store, Microsoft Store, or other app stores?
 
