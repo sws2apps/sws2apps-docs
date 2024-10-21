@@ -15,3 +15,7 @@ By submitting an Issue, you can help us identify and fix problems more quickly, 
 ## Send an email
 
 If you need to discuss your issue privately or don't have a GitHub or Telegram messenger account, please email us at [support@organized-app.com](mailto:support@organized-app.com). We will do our best to respond to your inquiry as soon as possible and provide any necessary assistance.
+
+You can also use the build-in contact form in the Organized app. Click on your profile picture and click 'Contact us' button.
+
+![Contact Organized app support team directly from the application](./img/contact-support.png)
