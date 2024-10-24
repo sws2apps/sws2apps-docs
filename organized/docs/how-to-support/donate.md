@@ -12,7 +12,7 @@ But your impact goes even further! Your support enables us to think bigger and c
 
 By donating, you’re ensuring that Organized continues to improve for congregations around the world. Your contribution not only allows us to maintain the app, but also expand its reach to assist congregations in remote areas and those with special needs.
 
-Yes, Organized will always be free — no subscriptions, no fees. But with your donation, we can do even more! Your contribution allows us to not only focus on core features but also support congregations in remote areas, those who speak less common languages, and those with only a few brothers by developing specific features to meet the unique needs of our worldwide brotherhood.
+Yes, **Organized will always be free** — no subscriptions, no fees. But with your donation, we can do even more! Your contribution allows us to not only focus on core features but also develop features to support congregations in remote areas, those who speak less common languages, and those with only a few brothers and meet the unique needs of our worldwide brotherhood.
 
 ## How to donate?
 
