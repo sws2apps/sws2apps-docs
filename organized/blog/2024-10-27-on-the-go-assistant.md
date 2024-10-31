@@ -37,7 +37,7 @@ Since Organized is not a web-based app, it doesn’t require a constant internet
 
 ![Personal tablet in the Kingdom Hall used for conveniently entering meeting attendance records during Jehovah's Witnesses meetings](./images/Organized-on-tablet-in-Kingdom-Hall-for-counting-meeting-attendance-records.jpg)
 
-With Organized, fulfilling your congregation responsibilities has never been easier. From recording meeting attendance to viewing congregation reports and your upcoming duties or assignments, a mobile device lets you keep everything updated in real time – whether  at home, in ministry, in the Kingdom Hall, or anywhere you are.
+_With Organized, fulfilling your congregation responsibilities has never been easier. From recording meeting attendance to viewing congregation reports and your upcoming duties or assignments, a mobile device lets you keep everything updated in real time – whether  at home, in ministry, in the Kingdom Hall, or anywhere you are._
 
 ### Try out Organized — no registration needed!
 
