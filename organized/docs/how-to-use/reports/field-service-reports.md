@@ -28,8 +28,8 @@ A visual progress bar on the page shows the number of reports received, starting
 
 After applying filters such as service year, month, or publisher category, the list of results will update accordingly. This list shows the full names of publishers, their spiritual status (e.g., elder, ministerial servant), and their type of ministry (e.g., pioneer). There are three monthly report indicators that can be displayed in front of each publisher:
 
-1. **Not Submitted** - Dashed circle. No report was received neither through the Organized app nor manually entered by secretary.
-2. **Received** - Circle with a dot in the middle. A publisher has already submitted their monthly service report through the Organized app.
+1. **Not submitted** - Dashed circle. No report was received neither through the Organized app nor manually entered by secretary.
+2. **Pending verification** - Circle with a dot in the middle. A publisher has already submitted their monthly service report through the Organized app, and now secretary should review the report and then mark it as verified.
 3. **Verified** - Circle with a checkmark. The report has been approved (if submitted through the app) or manually added by the secretary and auto-saved. As a secretary, please remember to verify all incoming reports.
 
 ![States of publisher reports](./img/report-states.jpg)
