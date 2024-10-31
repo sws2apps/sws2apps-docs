@@ -35,6 +35,8 @@ What makes Organized a great software solution is its versatility across differe
 
 Since Organized is not a web-based app, it doesn’t require a constant internet connection, making it even more reliable. This means you can work with confidence, knowing that your congregation data is always available, whether you’re at the Kingdom Hall or in the ministry.
 
+![Personal tablet in the Kingdom Hall used for conveniently entering meeting attendance records during Jehovah's Witnesses meetings](./images/Organized-on-tablet-in-Kingdom-Hall-for-counting-meeting-attendance-records.jpg)
+
 ### Try out Organized — no registration needed!
 
 Excited to see Organized in action? You can try it out right now without needing to register! Simply open the [test mode](https://test.organized-app.com/), explore the app and experience its capabilities firsthand. In test environment, you’ll find the pre-filled data for an imaginary congregation, so you can immediately see the app’s features without the need for any setup. 
