@@ -1,5 +1,7 @@
 ---
 sidebar_position: 10
+sidebar_custom_props: 
+  myEmoji: 📝
 ---
 
 # Submit auxiliary pioneer application
