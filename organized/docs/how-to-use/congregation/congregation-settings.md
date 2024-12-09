@@ -1,5 +1,7 @@
 ---
 sidebar_position: 3
+sidebar_custom_props: 
+  myEmoji: ⚙️
 ---
 
 # Congregation settings

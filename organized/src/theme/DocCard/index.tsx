@@ -77,8 +77,8 @@ function CardCategory({ item }: { item: PropSidebarItemCategory }): JSX.Element 
 }
 
 function CardLink({ item }: { item: PropSidebarItemLink }): JSX.Element {
-  const icon =
-    item?.customProps?.myEmoji ?? (isInternalUrl(item.href) ? '📄️' : '🔗');
+  const icon = (item?.customProps?.myEmoji as ReactNode) ?? (isInternalUrl(item.href) ? '📄' : '🔗');
+
   const doc = useDocById(item.docId ?? undefined);
   return (
     <CardLayout
