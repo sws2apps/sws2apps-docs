@@ -1,5 +1,7 @@
 ---
 sidebar_position: 5
+sidebar_custom_props: 
+  myEmoji: 📨
 ---
 
 # Invite persons to your congregation
