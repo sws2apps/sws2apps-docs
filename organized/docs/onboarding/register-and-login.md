@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 sidebar_custom_props: 
-  myEmoji: 🔑
+  myEmoji: 🏁
 ---
 
 # Register and join congregation
