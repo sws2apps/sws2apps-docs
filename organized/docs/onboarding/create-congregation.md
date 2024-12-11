@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+sidebar_custom_props: 
+  myEmoji: 🏠
 ---
 
 # Create your congregation

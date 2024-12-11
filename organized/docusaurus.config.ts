@@ -65,6 +65,10 @@ const config: Config = {
       },
       items: [
         {
+          type: 'search', 
+          position: 'left',
+        },
+        {
           to: 'blog',
           label: 'Blog',
           position: 'right',

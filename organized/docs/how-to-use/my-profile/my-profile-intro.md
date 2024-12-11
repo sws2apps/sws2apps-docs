@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+sidebar_custom_props: 
+  myEmoji: ⚙️
 ---
 
 # My profile – your account settings
