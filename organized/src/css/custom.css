@@ -34,3 +34,17 @@
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 	--ifm-background-color: #1e2025; /* Dark theme body background color */
 }
+@media (min-width: 996px) {
+	.navbarSearchContainer_Bca1 {
+		width: 50%;
+	}
+}
+@media (min-width: 771px) {
+	.DocSearch-Button {
+		width: 100%;
+		max-width: 300px;
+	}
+	.navbar__title {
+		margin-right: 60px;
+	}
+}
