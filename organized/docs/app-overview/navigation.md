@@ -28,7 +28,7 @@ By clicking ‘My assignments’ button, you find a complete list of meeting ass
 
 ## Header features
 
-Look at the top of your screen, and you'll spot some useful tools in the header. Here, you can switch between light and dark modes for better viewing comfort, check your latest notifications, adjust the app language, or access your profile settings. Plus, we've added some extra helpful links like "How to Use Organized" and "Support the App" right there for easy access.
+Look at the top of your screen, and you'll spot some useful tools in the header. Here, you can switch between light and dark modes for better viewing comfort, check your latest notifications, adjust the app language, or access your account settings. Plus, we've added some extra helpful links like "How to Use Organized" and "Support the App" right there for easy access.
 
 ![Organized dashboard](./img/header-menu.png)
 

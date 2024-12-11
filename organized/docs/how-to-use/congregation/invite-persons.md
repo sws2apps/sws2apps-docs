@@ -8,7 +8,7 @@ sidebar_custom_props:
 
 To invite persons to your congregation on Organized, follow these steps based on their user type. There are two global user types: "Baptized brother" and "Publisher or midweek student".
 
-- **"Baptized brother"** is any baptized brother. We create an account for any baptized brother specifically, so that his profile is already in the right user group once he is appointed to a ministerial servant or other assistant role.
+- **"Baptized brother"** is any baptized brother. We create an account for any baptized brother specifically, so that his account is already in the right user group once he is appointed to a ministerial servant or other assistant role.
 
 - **"Publisher or midweek student"** is any other member of the congregation, including baptized sisters, unbaptized brothers or sisters, or male or female students on a midweek meeting.
 
@@ -29,14 +29,14 @@ To add a baptized brother to your congregation, he should already have an accoun
 Ensure you enter the correct email address without typos and that the brother has indeed created an Organized account and sees the "Thanks for registering" message in the Organized app.
 :::
 
-4. Once you enter a correct email address that already exists on Organized, the email field will be highlighted with green saying _"User found! Create user and set up his profile and rights"_.
+4. Once you enter a correct email address that already exists on Organized, the email field will be highlighted with green saying _"User found! Create user and set up his account and rights"_.
 5. Click "Create user" button and then his user record will be added.
 
 ![Brother account found](./img/brother-found.png)
 
 ## Publisher or midweek student
 
-To bind a user profile with a person record from your congregation, ensure that you have already added this brother or sister to the congregation's [Persons page](../how-to-use/persons/all-persons).
+To bind a user account with a person record from your congregation, ensure that you have already added this brother or sister to the congregation's [Persons page](../how-to-use/persons/all-persons).
 
 1. Select the corresponding **"Publisher or midweek student"** option.
 

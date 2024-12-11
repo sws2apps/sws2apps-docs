@@ -13,7 +13,7 @@ Organized provides flexible user access management for your congregation. Access
 This page displays all users connected to your congregation who have registered in the Organized app and can view your congregation's information and schedules.
 
 :::info
-User profiles are **not the same as person records**. User profiles represent real Organized app users in your congregation, while person records are a list of all congregation members used for reports and scheduling.
+User accounts are **not the same as person records**. User accounts represent real Organized app users in your congregation, while person records are a list of all congregation members used for reports and scheduling.
 :::
 
 ![All users list](./img/users-list.png)
@@ -32,9 +32,9 @@ There are three types of users:
 2. **Baptized Brothers**: All baptized brothers in the congregation. This separate user category simplifies adjusting user roles and rights when a brother takes on new responsibilities.
 3. **Congregation persons**: Includes baptized sisters, unbaptized brothers and sistes, and midweek meeting students.
 
-## Edit user profile
+## Edit user account
 
-Open a user profile to access detailed access management. User profiles of baptized brothers have additional rights and roles available, while user profiles of unbaptized publishers, baptized sisters and midweek meeting students don't have those. Let's see what settings are there!
+Open a user account to access detailed access management. User accounts of baptized brothers have additional rights and roles available, while user accounts of unbaptized publishers, baptized sisters and midweek meeting students don't have those. Let's see what settings are there!
 
 ![Edit user access and rights](./img/user-editing.png)
 
@@ -50,9 +50,9 @@ Assign one or more congregation roles to a user. In larger congregations, each a
 
 Select as many additional user rights as necessary, grouped by category: Meetings, Service, Events, etc.
 
-### Profile settings
+### account settings
 
-Bind a user profile with a person record to allow the user to view upcoming assignments and submit reports.
+Bind a user account with a person record to allow the user to view upcoming assignments and submit reports.
 
 ![Bind with a person record](./img/bind-record.png)
 
@@ -81,7 +81,7 @@ Review and terminate (end) device sessions. This feature is useful in cases of l
 
 ### Delete user
 
-Use the big red 'Delete user' button at the top of the page to delete a user profile. Upon opening the app next time by the user, the user's local data will be erased, and they will be directed to the registration page. Deleting user cannot be undone, but you can always re-add them later if needed.
+Use the big red 'Delete user' button at the top of the page to delete a user account. Upon opening the app next time by the user, the user's local data will be erased, and they will be directed to the registration page. Deleting user cannot be undone, but you can always re-add them later if needed.
 
 :::warning
 Please note that deleting the **user account** will not remove their **record from the Persons page**.
