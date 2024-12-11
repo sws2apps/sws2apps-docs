@@ -20,9 +20,9 @@ There are multiple ways to open this panel, ensuring you can quickly and easily 
 
 ![My assignments greeting message](./img/open-greeting.png)
 
-3. **Mobile bottom navigation bar**. On your mobile device, you can access your upcoming assignments panel by clicking on the 'Assignments' button at the bottom navigation bar.
+<!-- 3. **Mobile bottom navigation bar**. On your mobile device, you can access your upcoming assignments panel by clicking on the 'Assignments' button at the bottom navigation bar.
 
-![My assignments bottom nav](./img/open-mobile-navbar.png)
+![My assignments bottom nav](./img/open-mobile-navbar.png) -->
 
 ## Set a time range to display
 
@@ -48,14 +48,4 @@ Hover over an assignment row to see the 'Add to calendar' button. Clicking this 
 
 ![Add assignments to calendar](./img/add-to-calendar-hover.gif)
 
-## Refresh the assignments list
-
-By clicking the 'Refresh' button in the top-right corner, you can ensure you're viewing the most up-to-date list.
-
-## For administrators: Select a person record
-
-As an app administrator, you are responsible for binding user profiles with person records for all members of your congregation. However, since no one could do this for you, you need to manually select your own person record from the list to view your upcoming assignments. Select a correct person record from the list and click 'Save'
-
-This feature also allows you to support other members of your congregation by giving you the ability to view the assignments of other publishers or midweek students if they are experiencing any issues.
-
-![Select person record for assignments](./img/assignment-person-record.png)
+The 'My assignments' panel helps you stay organized and ready for your upcoming responsibilities. Use it to stay prepared and give your best for Jehovah!

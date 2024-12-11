@@ -4,9 +4,9 @@ sidebar_custom_props:
   myEmoji: 🔧
 ---
 
-# Manage access
+# User accounts
 
-Organized provides flexible user access management for your congregation. Access the 'Manage Access' page from the 'Congregation' card on the home page to view and manage all users and their roles.
+Organized provides flexible user access management for your congregation. Access the 'User accounts' page from the 'Congregation' card on the home page to view and manage all users and their roles.
 
 ## View all users
 
