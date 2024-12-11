@@ -12,7 +12,7 @@ To invite persons to your congregation on Organized, follow these steps based on
 
 - **"Publisher or midweek student"** is any other member of the congregation, including baptized sisters, unbaptized brothers or sisters, or male or female students on a midweek meeting.
 
-Click "Add new user" button on the "Manage access to Organized" page. Then, follow the steps below based on the user type you want to invite.
+Click 'Add new user' button on the [User accounts](./manage-access) page. Then, follow the steps below based on the user type you want to invite.
 
 ![Add new user](./img/manage-access.png)
 
@@ -63,4 +63,4 @@ Note, that this code will also be available on their user page, so no need to wo
 
 ## Well done!
 
-That's the basics of inviting brothers and sisters to your congregation on Organized app. To learn more about managing the users, their roles and rights, please see the [Manage access to Organized](./manage-access) guide.
+That's the basics of inviting brothers and sisters to your congregation on Organized app. To learn more about adding the users, managing their roles and rights, please see the [User accounts](./manage-access) page guide.
