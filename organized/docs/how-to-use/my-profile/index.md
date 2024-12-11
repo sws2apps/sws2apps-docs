@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: My profile
+title: My account
 ---
 
 import DocCardList from '@theme/DocCardList';
