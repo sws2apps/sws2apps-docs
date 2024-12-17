@@ -102,6 +102,10 @@ const config: Config = {
               label: 'GitHub repository',
               href: 'https://github.com/sws2apps/organized-app',
             },
+            {
+              label: 'Development roadmap',
+              href: 'https://github.com/sws2apps/organized-app/discussions/178',
+            },
           ],
         },
         {
