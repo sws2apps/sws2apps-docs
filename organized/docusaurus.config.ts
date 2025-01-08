@@ -83,6 +83,10 @@ const config: Config = {
           label: 'GitHub Repo',
           position: 'right',
         },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
       ],
     },
     footer: {
