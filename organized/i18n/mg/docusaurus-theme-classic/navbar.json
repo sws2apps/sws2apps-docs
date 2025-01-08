@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "Organized | User guide",
+    "message": "Fomba Fampiasana ny Organized",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "Organized User guide",
+    "message": "Fomba Fampiasana Organized",
     "description": "The alt text of navbar logo"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "Vaovao",
     "description": "Navbar item with label Blog"
   },
   "item.label.Organized app": {
