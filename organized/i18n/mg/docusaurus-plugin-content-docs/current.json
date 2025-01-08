@@ -1,58 +1,58 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Manaraka",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.App overview": {
-    "message": "App overview",
+    "message": "Mombamomba an’ity programa ity",
     "description": "The label for category App overview in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Onboarding": {
-    "message": "Onboarding",
+    "message": "Fampidirana",
     "description": "The label for category Onboarding in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.How to use": {
-    "message": "How to use",
+    "message": "Fampiasana azy",
     "description": "The label for category How to use in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.My account": {
-    "message": "My account",
+    "message": "Kaontiko",
     "description": "The label for category My account in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Ministry": {
-    "message": "Ministry",
+    "message": "Fanompoana",
     "description": "The label for category Ministry in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Meetings": {
-    "message": "Meetings",
+    "message": "Fivoriana",
     "description": "The label for category Meetings in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Persons": {
-    "message": "Persons",
+    "message": "Olona ao Amin’ny Fiangonana",
     "description": "The label for category Persons in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Meeting materials": {
-    "message": "Meeting materials",
+    "message": "Loharanon-kevitra",
     "description": "The label for category Meeting materials in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Reports": {
-    "message": "Reports",
+    "message": "Tatitra",
     "description": "The label for category Reports in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Congregation": {
-    "message": "Congregation",
+    "message": "Fiangonana",
     "description": "The label for category Congregation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Troubleshooting": {
-    "message": "Troubleshooting",
+    "message": "Famahana olana",
     "description": "The label for category Troubleshooting in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Frequently asked questions": {
-    "message": "Frequently asked questions",
+    "message": "Fanontaniana",
     "description": "The label for category Frequently asked questions in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.How to support Organized": {
-    "message": "How to support Organized",
+    "message": "Fanohanana ny programa Organized",
     "description": "The label for category How to support Organized in sidebar tutorialSidebar"
   }
 }
