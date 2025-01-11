@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: App overview
+title: Mombamomba an’ity programa ity
 ---
 
 import DocCardList from '@theme/DocCardList';
