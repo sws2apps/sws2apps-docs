@@ -195,7 +195,7 @@
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
+    "message": "Fiteny",
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
