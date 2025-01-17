@@ -6,21 +6,21 @@ sidebar_custom_props:
 
 # App navigation
 
-Once you've [registered](../onboarding/register-and-login.md) your account and joined your congregation, you'll land on the home page. From here, you can easily access all the features of the Organized app through the Home page dashboard. Let's take a closer look!
+Rehefa avy [namorona](../onboarding/register-and-login.md) kaonty sy niditra amin’ny kaontinao ao amin’ny fiangonana ianao, dia ho tonga eo amin’ny pejy fandraisana. Afaka mijery an’ireo zava-drehetra misy amin’ny programa Organized ianao eo. Andao hojerentsika hoe inona avy izany!
 
-## Home page dashboard
+## Pejy fandraisana
 
 When you first open Organized, you'll land on the home page. Think of this as your starting point to access everything the app offers. We've organized different congregation activities into easy-to-find categories like Meetings, Ministry, Persons, Reports, and more to be added with the new versions. This setup makes it simple for you to navigate and find what you need based on category.
 
 ![Organized dashboard](./img/dashboard.png)
 
-## Exploring cards
+## Karatra
 
 On the home page, you'll see different cards representing each category, such as Ministry or Meetings. These cards act like shortcuts. Clicking on any card takes you deeper into that category, showing you more specific information or actions related to it. For example, clicking on the 'Meetings' card items will open a full page where you can view upcoming meetings or other related details.
 
 ![Organized dashboard](./img/meeting-card.png)
 
-## Upcoming assignments
+## Anjara ho avy
 
 By clicking ‘My assignments’ button, you find a complete list of meeting assignments you have coming up. These are tasks or responsibilities assigned to you for future weeks or months. You can add these assignments to your own calendar app to integrate it with your personal schedule.
 
@@ -32,7 +32,7 @@ Look at the top of your screen, and you'll spot some useful tools in the header.
 
 ![Organized dashboard](./img/header-menu.png)
 
-## Inside any page
+## Isaky ny pejy tsirairay
 
 Whenever you navigate inside any section or page, a few elements remain constant at the top:
 

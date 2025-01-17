@@ -4,9 +4,9 @@ sidebar_custom_props:
   myEmoji: 📲
 ---
 
-# Open and install the app
+# Hanokatra sy hampiditra ny programa
 
-To open the Organized app, visit the [organized-app.com](https://organized-app.com/) link in your web browser; this is the central hub for accessing the app. You have the option to use the app directly in your browser or to install it for an enhanced experience. Once installed, the app can be accessed with or without an internet connection.
+Raha hanokatra ny programa Organized ianao, dia midira ao amin’ny [organized-app.com](https://organized-app.com/). Ny programa fijerenao internet ihany no ampiasaina rehefa hampiasa ilay programa. Azonao ampidirina ao amin’ny fitaovana ampiasainao koa anefa izy io. N’inona n’inona anefa ampiasainao, dia handeha foana ilay programa na mampiasa internet ianao na tsia.
 
 ## How to install Organized on Android and iOS?
 

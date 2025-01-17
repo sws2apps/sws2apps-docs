@@ -5,7 +5,7 @@ sidebar_custom_props:
   myEmoji: 🌟
 ---
 
-# Welcome to Organized!
+# Tongasoa eto amin’ny Organized!
 
 [Organized](https://organized-app.com/) is a free application crafted specifically for Jehovah's Witnesses congregations. Developed by our team at Scheduling Workbox System, it's designed for ease of use by every member of the congregation. Watch our [introductory video to the Organized app](https://www.youtube.com/watch?v=2czQB-LEfqg) on YouTube or visit [About Organized](https://about.organized-app.com) website to get a quick overview. We are actively developing the app to bring more features and to make it more and more useful for every person in a congregation.
 
