@@ -81,7 +81,7 @@ There are two approaches to using Autofill in Organized:
 
 1. Fill out specific meeting parts (e.g. that require a specific elder to conduct or have a special theme needing careful assignment) in advance, and then use Autofill to complete **only the rest** of the assignments.
 2. Autofill **all weeks first**, then go through each meeting and make manual changes for parts requiring extra attention.
-   :::
+  :::
 
 You're free to use Autofill and manual assigning in any combination that's convenient for you. Don't worry if you use Autofill and then make manual updates – all your changes to assignments are taken into account for the next time you use the Autofill feature. Everything is automated and intuitive!
 
