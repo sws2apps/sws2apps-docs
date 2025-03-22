@@ -21,7 +21,7 @@ Click 'Add new user' button on the [User accounts](./manage-access) page. Then, 
 To add a baptized brother to your congregation, he should already have an account registered in Organized. Once he has registered, you can search for his account by email address and add his to your congregation.
 
 1. Select the corresponding **"Baptized brother"** option.
-   ![Publisher option](./img/brother-start.png)
+  ![Publisher option](./img/brother-start.png)
 2. Ask a baptized brother for the email address he used to register in Organized.
 3. Use this email to add him to your congregation.
 
