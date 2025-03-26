@@ -73,3 +73,5 @@ In summary, even during downtime, most features remain accessible without interr
 ## Do you have other questions?
 
 If you’ve gone through this user guide and our frequently asked questions but still can’t find the answer you’re looking for, don’t hesitate to reach out! We’re here to help. Just start a new [Discussion on our GitHub page](https://github.com/sws2apps/organized-app/discussions), and we’ll do our best to assist you. We’d love to hear from you!
+
+
