@@ -67,3 +67,4 @@ For example, the midweek meeting overseer for planning can spend less time on ro
 Experience how Organized enables you to plan midweek meetings for your Jehovah's Witnesses congregation more efficiently! [Try the Organized app in test mode](https://test.organized-app.com/) without even registering and explore its features using pre-filled dummy data. The app is designed to be a helpful solution that improves your workflow and saves time for other important things.
 
 Discover all the helpful features of Organized and see how it can improve theocratic life of your congregation!
+
