@@ -12,7 +12,7 @@ Once you open the [Organized app](https://organized-app.com/), you need to log i
 
 1. As a **publisher or a midweek student**.
 2. As a **baptized brother**.
-   :::
+  :::
 
 Here you need to select an option that suits your main current congregation role.
 
