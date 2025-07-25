@@ -2,22 +2,22 @@
 title: Digital or print meeting schedules. Why not use both?
 description: Learn about the benefits of using both digital Organized app and print meeting schedules for your Jehovah's Witnesses congregation. Discover how the Organized app can help you create and publish schedules in the most convenient way possible.
 keywords:
-  - Jehovah's Witnesses
-  - JW
-  - meeting schedules
-  - digital tools
-  - print schedules
-  - organized app
-  - convenient jw app
-  - stress-free scheduling
-  - digital theocratic tools
-  - print schedules
-  - jw print templates
-  - Organized app
+  [
+    Jehovah's Witnesses,
+    JW,
+    meeting schedules,
+    digital tools,
+    print schedules,
+    organized app,
+    convenient jw app,
+    stress-free scheduling,
+    digital theocratic tools,
+    print schedules,
+    jw print templates,
+    Organized app
+  ]
 slug: digital-vs-print-meeting-schedules-in-organized
-tags:
-  - Meeting scheduling
-  - Print templates
+tags: [ Meeting scheduling, Print templates ]
 hide_table_of_contents: false
 ---
 
