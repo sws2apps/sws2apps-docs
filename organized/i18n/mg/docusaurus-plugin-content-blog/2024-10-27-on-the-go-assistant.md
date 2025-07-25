@@ -2,22 +2,23 @@
 title: Organized - your reliable theocratic assistant on the go. Anytime. Anywhere.
 description: Explore how the Organized app enables Jehovah's Witnesses to manage meeting schedules, attendance records, secretary reports, and more from any device—whether at home, in the Kingdom Hall, or out in the ministry.
 keywords:
-  - Jehovah's Witnesses
-  - JW
-  - congregation
-  - mobile app
-  - on-the-go access
-  - organized app
-  - attendance records
-  - secretary reports
-  - digital tools
-  - Kingdom Hall
-  - ministry
-  - convenient JW app
-  - multi-platform support
+  [
+    Jehovah's Witnesses,
+    JW,
+    congregation,
+    mobile app,
+    on-the-go access,
+    organized app,
+    attendance records,
+    secretary reports,
+    digital tools,
+    Kingdom Hall,
+    ministry,
+    convenient JW app,
+    multi-platform support
+  ]
 slug: organized-app-use-on-the-go
-tags:
-  - Ease of use
+tags: [ Ease of use ]
 hide_table_of_contents: false
 ---
 
