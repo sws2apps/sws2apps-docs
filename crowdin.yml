@@ -5,13 +5,19 @@ preserve_hierarchy: true
 files:
   - source: /organized/i18n/en/**/*
     translation: /organized/i18n/%two_letters_code%/**/%original_file_name%
+    scheme: markdown
+    preserve_hierarchy: true
     ignore:
       - '*.gif'
   - source: /organized/docs/**/*
     translation: /organized/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+    scheme: markdown
+    preserve_hierarchy: true
     ignore:
       - '*.gif'
   - source: /organized/blog/**/*
     translation: /organized/i18n/%two_letters_code%/docusaurus-plugin-content-blog/**/%original_file_name%
+    scheme: markdown
+    preserve_hierarchy: true
     ignore:
       - '*.yml'
