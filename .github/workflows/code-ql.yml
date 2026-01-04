@@ -8,16 +8,14 @@ on:
   schedule:
     - cron: '0 12 * * 4'
 
-permissions: read-all
+permissions:
+  contents: read
+  security-events: write
 
 jobs:
   codeql:
     name: Code QL
     runs-on: ubuntu-latest
-    permissions:
-      actions: read
-      contents: read
-      security-events: write
 
     steps:
       - name: Checkout repository for code analysis
