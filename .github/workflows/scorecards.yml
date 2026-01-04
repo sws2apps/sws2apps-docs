@@ -8,14 +8,15 @@ on:
     branches: [main]
 
 permissions:
-  id-token: write
   contents: read
-  security-events: write
 
 jobs:
   scorecards:
     name: Scorecards Analysis
     runs-on: ubuntu-latest
+    permissions:
+      security-events: write
+      id-token: write
 
     steps:
       - name: 'Checkout code'
