@@ -8,26 +8,25 @@ on:
   schedule:
     - cron: '0 12 * * 4'
 
-permissions: read-all
+permissions:
+  contents: read
 
 jobs:
   codeql:
     name: Code QL
     runs-on: ubuntu-latest
     permissions:
-      actions: read
-      contents: read
       security-events: write
 
     steps:
       - name: Checkout repository for code analysis
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8
 
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@4e828ff8d448a8a6e532957b1811f387a63867e8
+        uses: github/codeql-action/init@cdefb33c0f6224e58673d9004f47f7cb3e328b89
         with:
           languages: javascript
           queries: security-extended
 
       - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@4e828ff8d448a8a6e532957b1811f387a63867e8
+        uses: github/codeql-action/analyze@cdefb33c0f6224e58673d9004f47f7cb3e328b89

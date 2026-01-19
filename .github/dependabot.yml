@@ -22,6 +22,10 @@ updates:
       docusaurus:
         patterns:
           - '@docusaurus*'
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
 
   - package-ecosystem: 'npm'
     directory: '/organized'
@@ -36,3 +40,7 @@ updates:
       docusaurus:
         patterns:
           - '@docusaurus*'
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
