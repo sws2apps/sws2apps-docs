@@ -8,7 +8,8 @@ on:
   schedule:
     - cron: '0 12 * * 4'
 
-permissions: read-all
+permissions:
+  contents: read
 
 jobs:
   nodejsscan:
@@ -16,12 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       security-events: write
-      actions: read
-      contents: read
 
     steps:
       - name: Checkout the code
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
 
       - name: nodejsscan scan
         id: njsscan
@@ -30,6 +29,6 @@ jobs:
           args: '. --sarif --output results.sarif || true'
 
       - name: Upload njsscan report
-        uses: github/codeql-action/upload-sarif@df409f7d9260372bd5f19e5b04e83cb3c43714ae
+        uses: github/codeql-action/upload-sarif@8aad20d150bbac5944a9f9d289da16a4b0d87c1e
         with:
           sarif_file: results.sarif

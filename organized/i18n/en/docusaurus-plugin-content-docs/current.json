@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.App overview": {
+    "message": "App overview",
+    "description": "The label for category App overview in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Onboarding": {
+    "message": "Onboarding",
+    "description": "The label for category Onboarding in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.How to use": {
+    "message": "How to use",
+    "description": "The label for category How to use in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.My account": {
+    "message": "My account",
+    "description": "The label for category My account in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Ministry": {
+    "message": "Ministry",
+    "description": "The label for category Ministry in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Meetings": {
+    "message": "Meetings",
+    "description": "The label for category Meetings in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Persons": {
+    "message": "Persons",
+    "description": "The label for category Persons in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Meeting materials": {
+    "message": "Meeting materials",
+    "description": "The label for category Meeting materials in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Reports": {
+    "message": "Reports",
+    "description": "The label for category Reports in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Congregation": {
+    "message": "Congregation",
+    "description": "The label for category Congregation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Troubleshooting": {
+    "message": "Troubleshooting",
+    "description": "The label for category Troubleshooting in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frequently asked questions": {
+    "message": "Frequently asked questions",
+    "description": "The label for category Frequently asked questions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.How to support Organized": {
+    "message": "How to support Organized",
+    "description": "The label for category How to support Organized in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Organized | User guide",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Organized User guide",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Organized app": {
+    "message": "Organized app",
+    "description": "Navbar item with label Organized app"
+  },
+  "item.label.GitHub Repo": {
+    "message": "GitHub Repo",
+    "description": "Navbar item with label GitHub Repo"
+  }
+}
